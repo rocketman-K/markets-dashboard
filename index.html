@@ -1,13 +1,289 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>한 번에 보는 시장 지표 대시보드</title>
-<script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>한 번에 보는 시장 지표 대시보드</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="color-scheme" content="light dark">
+  <style>
+    :root { color-scheme: light dark; }
+    .card { background: color-mix(in lab, white 80%, transparent); }
+    @media (prefers-color-scheme: dark) {
+      .card { background: color-mix(in lab, black 80%, transparent); }
+    }
+    .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
+    .section-title { font-size: 1.125rem; font-weight: 600; margin-bottom: .5rem; }
+    .tv-wrap { position: relative; width: 100%; min-height: 420px; }
+    .tv-wrap.small { min-height: 300px; }
+    .tv-wrap > * { position: absolute; inset: 0; width: 100%; height: 100%; }
+    .fred-wrap { position: relative; width: 100%; min-height: 360px; }
+    .fred-wrap > iframe, .fred-wrap > img { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; object-fit: cover; }
+  </style>
 </head>
-<body>
-<h1>시장 지표 대시보드</h1>
-<p>이 HTML은 ChatGPT가 만든 완전 독립 실행형 파일입니다. GitHub Pages에 그대로 업로드하면 됩니다.</p>
+<body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
+  <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
+      <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
+      <div class="ml-auto flex items-center gap-2 text-sm">
+        <button id="themeToggle" class="px-3 py-1 rounded-xl border border-zinc-300 dark:border-zinc-700">라이트/다크</button>
+        <a href="#howto" class="underline opacity-80">설정</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-4 space-y-4">
+    <!-- Quick tape retained -->
+    <section class="card">
+      <div class="section-title">주요 지수/환율 빠른 보기</div>
+      <div class="tv-wrap small">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+          {
+            "symbols": [
+              {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
+              {"proName": "NASDAQ:NDX", "title": "NASDAQ 100"},
+              {"proName": "CME_MINI:NQ1!", "title": "나스닥 선물"},
+              {"proName": "TVC:DXY", "title": "DXY 달러"},
+              {"proName": "FX_IDC:USDKRW", "title": "USD/KRW"},
+              {"proName": "TVC:US10Y", "title": "미 10년"},
+              {"proName": "TVC:US02Y", "title": "미 2년"},
+              {"proName": "CBOE:VIX", "title": "VIX"},
+              {"proName": "KRX:KOSPI", "title": "KOSPI"}
+            ],
+            "showSymbolLogo": true,
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "displayMode": "adaptive",
+            "locale": "kr"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= [1] 거시경제 흐름 ================= -->
+    <section class="card">
+      <div class="section-title">[1] 거시경제 흐름</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+
+        <!-- TGA 잔고 -->
+        <div class="card">
+          <div class="section-title">미국 TGA 잔고 (최근 1년)</div>
+          <canvas id="tgaChart" class="w-full h-64"></canvas>
+          <p class="text-xs opacity-70 mt-2">출처: U.S. Treasury FiscalData DTS Table 6 (Operating Cash Balance). 브라우저에서 API를 호출해 그립니다.</p>
+        </div>
+
+        <!-- 10Y - 3M 장단기 금리차 -->
+        <div class="card">
+          <div class="section-title">미국 10년 – 3개월 금리차 (T10Y3M)</div>
+          <img alt="T10Y3M" class="w-full rounded-xl" src="https://fred.stlouisfed.org/graph/fredgraph.png?id=T10Y3M&cosd=1990-01-01&show_legend=0&width=670&height=400">
+          <p class="text-xs opacity-70 mt-2">출처: FRED (무API PNG 임베드)</p>
+        </div>
+
+        <!-- 질로우 주택가격지수 -> Case-Shiller 대체 -->
+        <div class="card">
+          <div class="section-title">미국 주택가격지수 (대체: S&amp;P/Case‑Shiller National)</div>
+          <img alt="CSUSHPINSA" class="w-full rounded-xl" src="https://fred.stlouisfed.org/graph/fredgraph.png?id=CSUSHPINSA&show_legend=0&width=670&height=400">
+          <p class="text-xs opacity-70 mt-2">원 요청은 Zillow HPI이지만 공개 임베드 제약으로 일단 케이스‑실러 전국지수로 대체. 필요 시 Zillow 시리즈 제공 시 교체.</p>
+        </div>
+
+        <!-- 하이일드 가격 지수 -> HYG 프록시 -->
+        <div class="card">
+          <div class="section-title">하이일드 채권 ‘가격’ 지수 (Proxy: HYG)</div>
+          <div class="tv-wrap small">
+            <div class="tradingview-widget-container">
+              <div class="tradingview-widget-container__widget"></div>
+              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+              {
+                "symbols": [["AMEX:HYG|1D"]],
+                "interval": "D",
+                "isTransparent": true,
+                "autosize": true,
+                "colorTheme": "dark",
+                "locale": "kr"
+              }
+              </script>
+            </div>
+          </div>
+          <p class="text-xs opacity-70 mt-2">ICE/BofA HY ‘가격’ 지수의 오픈 임베드 대안으로 HYG ETF를 사용.</p>
+        </div>
+
+        <!-- Velocity of M2 -->
+        <div class="card">
+          <div class="section-title">M2 통화유통속도 (M2V)</div>
+          <img alt="M2V" class="w-full rounded-xl" src="https://fred.stlouisfed.org/graph/fredgraph.png?id=M2V&cosd=1990-01-01&show_legend=0&width=670&height=400">
+          <p class="text-xs opacity-70 mt-2">출처: FRED (무API PNG 임베드)</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= [2] 유동성/분위기 파악 ================= -->
+    <section class="card">
+      <div class="section-title">[2] 시장 유동성 · 분위기</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+
+        <!-- NAAIM Exposure Index -->
+        <div class="card">
+          <div class="section-title">NAAIM 주식 비중 지수</div>
+          <p class="text-sm opacity-90">공식 페이지의 임베드 제한으로 직접 값/그래프를 불러오기는 어려움. 아래 버튼으로 원본을 열거나, CSV 붙여넣기로 차트를 표시할 수 있음.</p>
+          <div class="flex gap-2 mt-2">
+            <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www.naaim.org/programs/naaim-exposure-index/">공식 페이지</a>
+            <button id="naaimLoad" class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700">내 CSV 붙여넣기</button>
+          </div>
+          <canvas id="naaimChart" class="w-full h-56 mt-3 hidden"></canvas>
+        </div>
+
+        <!-- FMS Cash Balance (BofA) -->
+        <div class="card">
+          <div class="section-title">FMS 캐시 밸런스</div>
+          <p class="text-sm opacity-90">BofA Global Fund Manager Survey는 유료/저작권 자료라 자동 임베드가 제한됨. 최신 수치를 알고 있다면 입력해 카드에 표시할 수 있음.</p>
+          <div class="flex items-center gap-2 mt-2">
+            <input id="fmsInput" type="number" step="0.1" placeholder="예: 4.9" class="px-3 py-2 rounded-xl bg-transparent border border-zinc-300 dark:border-zinc-700 w-24">
+            <span class="text-sm opacity-70">%</span>
+            <button id="fmsSave" class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700">표시</button>
+          </div>
+          <div id="fmsValue" class="mt-3 text-2xl font-bold"></div>
+        </div>
+
+        <!-- CNN Fear & Greed -->
+        <div class="card">
+          <div class="section-title">공포/탐욕 지수</div>
+          <p class="text-sm opacity-90">CNN 페이지의 보안정책(X-Frame-Options)으로 직접 임베드가 막혀 있음. 아래 버튼으로 새 탭에서 확인.</p>
+          <a class="mt-2 inline-block px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear &amp; Greed 열기</a>
+        </div>
+
+        <!-- CFTC COT: 자산운용사 순매수 포지션 -->
+        <div class="card">
+          <div class="section-title">자산운용사 순매수 포지션 (CFTC COT)</div>
+          <p class="text-sm opacity-90">CFTC COT 자산운용사(Asset Manager/Institutional) 순포지션은 공개 CSV가 있으나 출처별 포맷이 달라 임베드 자동화가 제한됨. 아래에 CSV URL을 넣으면 차트를 생성.</p>
+          <div class="flex items-center gap-2 mt-2">
+            <input id="cotUrl" type="url" placeholder="CSV URL (date, value)" class="px-3 py-2 rounded-xl bg-transparent border border-zinc-300 dark:border-zinc-700 w-full">
+            <button id="cotLoad" class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 whitespace-nowrap">불러와 그리기</button>
+          </div>
+          <canvas id="cotChart" class="w-full h-56 mt-3 hidden"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- 경제 캘린더 -->
+    <section class="card">
+      <div class="section-title">이번 주 경제지표 캘린더</div>
+      <div class="tv-wrap">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+          {
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "width": "100%",
+            "height": "100%",
+            "locale": "kr",
+            "importanceFilter": "-1,0,1",
+            "countryFilter": "us,kr,cn,jp,eu"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- How to / Customize -->
+    <section id="howto" class="card">
+      <div class="section-title">커스터마이즈 & 데이터 소스</div>
+      <ul class="list-disc pl-5 space-y-1 text-sm opacity-90">
+        <li><b>TGA</b>: FiscalData DTS(Table 6) API에서 최근 365일을 불러옵니다.</li>
+        <li><b>10Y–3M</b>, <b>M2V</b>: FRED 무API PNG 임베드.</li>
+        <li><b>주택가격지수</b>: 기본은 Case‑Shiller 전국지수. Zillow 시리즈 ID 주면 교체.</li>
+        <li><b>HY 가격</b>: HYG ETF로 근사.</li>
+        <li><b>NAAIM / FMS / COT</b>: 저작권 또는 임베드 정책 때문에 링크·수동입력·CSV 불러오기 지원.</li>
+      </ul>
+    </section>
+
+    <footer class="py-6 text-center text-xs opacity-70">© 당신의 개인 투자 대시보드. 자료: TradingView, FRED, U.S. Treasury FiscalData</footer>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    // Theme toggle
+    const btn = document.getElementById('themeToggle');
+    const root = document.documentElement;
+    const setTheme = (mode) => { if (mode === 'dark') root.classList.add('dark'); else root.classList.remove('dark'); localStorage.setItem('theme', mode); };
+    const saved = localStorage.getItem('theme');
+    if (saved) setTheme(saved); else setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    if (btn) btn.addEventListener('click', () => setTheme(root.classList.contains('dark') ? 'light' : 'dark'));
+
+    // ------------ [TGA] Fetch from FiscalData (Operating Cash Balance) ------------
+    async function loadTGA() {
+      try {
+        const url = 'https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/dts/operating_cash_balance?sort=-record_date&format=json&page[number]=1&page[size]=365';
+        const res = await fetch(url);
+        const data = await res.json();
+        const rows = (data?.data || []).reverse();
+        const labels = rows.map(r => r.record_date);
+        const values = rows.map(r => Number(r.treasury_general_account_bal || r.close_today_bal || r.closing_balance || 0) / 1e9);
+        const ctx = document.getElementById('tgaChart').getContext('2d');
+        new Chart(ctx, {
+          type: 'line',
+          data: { labels, datasets: [{ label: 'TGA Balance (US$ Bn)', data: values, fill: true, tension: 0.2 }] },
+          options: { responsive: true, maintainAspectRatio: false, scales: { y: { ticks: { callback: v => v.toFixed(0) + 'B' } } } }
+        });
+      } catch (e) {
+        const el = document.getElementById('tgaChart');
+        if (el) el.insertAdjacentHTML('afterend', '<p class="text-sm text-red-500 mt-2">TGA 데이터를 불러오지 못했습니다. 잠시 후 다시 시도하거나, 데이터 소스 URL을 알려주세요.</p>');
+        console.error(e);
+      }
+    }
+
+    // ------------ [NAAIM] Paste CSV → chart ------------
+    const naaimBtn = document.getElementById('naaimLoad');
+    if (naaimBtn) naaimBtn.addEventListener('click', async () => {
+      const csv = prompt('CSV 내용을 그대로 붙여넣어 주세요 (첫 열: 날짜, 둘째 열: 값).');
+      if (!csv) return;
+      const lines = csv.split(/\r?\n/).filter(Boolean);
+      const labels = []; const values = [];
+      for (const line of lines) {
+        const [d, v] = line.split(',');
+        if (!d || !v) continue;
+        labels.push(d.trim()); values.push(parseFloat(v));
+      }
+      const canvas = document.getElementById('naaimChart');
+      canvas.classList.remove('hidden');
+      new Chart(canvas.getContext('2d'), { type: 'line', data: { labels, datasets: [{ label: 'NAAIM Exposure', data: values, fill: true, tension: 0.2 }] }, options: { responsive: true, maintainAspectRatio: false } });
+    });
+
+    // ------------ [FMS] manual input ------------
+    const fmsBtn = document.getElementById('fmsSave');
+    if (fmsBtn) fmsBtn.addEventListener('click', () => {
+      const val = (document.getElementById('fmsInput').value || '').trim();
+      const tgt = document.getElementById('fmsValue');
+      tgt.textContent = val ? (val + '%') : '';
+    });
+
+    // ------------ [COT] CSV URL fetch → chart ------------
+    async function fetchCsv(url) {
+      const res = await fetch(url);
+      const text = await res.text();
+      return text.split(/\r?\n/).filter(Boolean).map(line => line.split(',').slice(0,2));
+    }
+    const cotBtn = document.getElementById('cotLoad');
+    if (cotBtn) cotBtn.addEventListener('click', async () => {
+      const url = document.getElementById('cotUrl').value.trim();
+      if (!url) return;
+      try {
+        const pairs = await fetchCsv(url);
+        const labels = pairs.map(p => p[0]);
+        const values = pairs.map(p => parseFloat(p[1]));
+        const canvas = document.getElementById('cotChart');
+        canvas.classList.remove('hidden');
+        new Chart(canvas.getContext('2d'), { type: 'line', data: { labels, datasets: [{ label: 'Asset Manager Net', data: values, fill: true, tension: 0.2 }] }, options: { responsive: true, maintainAspectRatio: false } });
+      } catch (e) {
+        alert('CSV를 불러오지 못했습니다. CORS 또는 포맷을 확인해 주세요.');
+        console.error(e);
+      }
+    });
+
+    loadTGA();
+  </script>
 </body>
 </html>
