@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>시장 지표 대시보드</title>
+  <meta name="color-scheme" content="light dark">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root { color-scheme: light dark; }
+    .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
+    .card { background: color-mix(in lab, white 80%, transparent); }
+    @media (prefers-color-scheme: dark) { .card { background: color-mix(in lab, black 80%, transparent); } }
+    .section-title { font-size: 1.125rem; font-weight: 600; margin-bottom: .5rem; }
+    .tv-wrap { position: relative; width: 100%; min-height: 100px; }
+    .tv-wrap.tall { min-height: 420px; }
+    .tv-wrap > * { position: absolute; inset: 0; width: 100%; height: 100%; }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
+  <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
+      <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
+      <div class="ml-auto flex items-center gap-2 text-sm">
+        <button id="themeToggle" class="px-3 py-1 rounded-xl border border-zinc-300 dark:border-zinc-700">라이트/다크</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-4 space-y-4">
+    <!-- 1) 주요 지수/환율 (컴팩트 3개) -->
+    <section class="card">
+      <div class="section-title">주요 지수/환율 빠른 보기</div>
+      <div class="tv-wrap">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+          {
+            "symbols": [
+              {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
+              {"proName": "NASDAQ:NDX", "title": "NASDAQ 100"},
+              {"proName": "FX_IDC:USDKRW", "title": "USD/KRW"}
+            ],
+            "showSymbolLogo": true,
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "displayMode": "adaptive",
+            "locale": "kr"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2) 리서치 & 시황 링크 -->
+    <section class="card">
+      <div class="section-title">리서치 & 시황 바로가기</div>
+      <ul class="list-disc pl-5 space-y-2 text-sm">
+        <li><a class="underline" target="_blank" rel="noopener" href="https://markets.hankyung.com/consensus">한경 컨센서스</a></li>
+        <li><a class="underline" target="_blank" rel="noopener" href="https://finance.naver.com/research/">네이버 증권 리서치</a></li>
+        <li><a class="underline" target="_blank" rel="noopener" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a></li>
+        <li><a class="underline" target="_blank" rel="noopener" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a></li>
+      </ul>
+    </section>
+
+    <!-- 3) 미국 실적발표 캘린더 -->
+    <section class="card">
+      <div class="section-title">미국 실적발표 캘린더</div>
+      <div class="tv-wrap tall">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-earnings-calendar.js" async>
+          {
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "width": "100%",
+            "height": "100%",
+            "locale": "kr"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4) 경제지표 캘린더 (Investing 중요도 3만) -->
+    <section class="card">
+      <div class="section-title">이번 주 경제지표 캘린더 (중요도 ★★★만)</div>
+      <iframe src="https://sslecal2.investing.com?ecoDayBackground=%23ffffff&columns=exc_flags,time,impact,event,actual,forecast,previous&importance=3&countries=5,72,17,37,4,43,56,61,6,35,25,12,36,110,97,122,27,32,87,107,145,160,163,178,179,193,202,207,214,218,222,230,242,243,247,251,270&features=datepicker,timezone&showTitle=1&title=중요 경제지표&lang=ko" width="100%" height="480" frameborder="0" allowtransparency="true"></iframe>
+    </section>
+
+    <footer class="py-6 text-center text-xs opacity-70">© 당신의 개인 투자 대시보드. 자료: TradingView, Investing.com</footer>
+  </main>
+
+  <script>
+    // 라이트/다크 토글 동작
+    const btn = document.getElementById('themeToggle');
+    const root = document.documentElement;
+    function setTheme(mode){
+      if(mode==='dark'){ root.classList.add('dark'); localStorage.setItem('theme','dark'); }
+      else { root.classList.remove('dark'); localStorage.setItem('theme','light'); }
+    }
+    const saved = localStorage.getItem('theme');
+    if(saved){ setTheme(saved); } else { setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'); }
+    if(btn){ btn.addEventListener('click', ()=>{ setTheme(root.classList.contains('dark') ? 'light' : 'dark'); }); }
+  </script>
+</body>
+</html>
