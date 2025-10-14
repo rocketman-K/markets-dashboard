@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>한 번에 보는 시장 지표 대시보드</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="color-scheme" content="light dark">
+  <style>
+    :root { color-scheme: light dark; }
+    .card { background: color-mix(in lab, white 80%, transparent); overflow: hidden; }
+    @media (prefers-color-scheme: dark) {
+      .card { background: color-mix(in lab, black 80%, transparent); }
+    }
+    .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
+    .section-title { font-size: 1.125rem; font-weight: 600; margin-bottom: .5rem; }
+    .tv-wrap { position: relative; width: 100%; min-height: 420px; }
+    .tv-wrap.small { min-height: 110px; }
+    .tv-wrap > * { position: absolute; inset: 0; width: 100%; height: 100%; }
+    .fred-wrap { position: relative; width: 100%; min-height: 360px; }
+    .fred-wrap > iframe, .fred-wrap > img { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; object-fit: cover; }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
+  <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
+      <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
+      <div class="ml-auto flex items-center gap-2 text-sm">
+        <button id="themeToggle" class="px-3 py-1 rounded-xl border border-zinc-300 dark:border-zinc-700">라이트/다크</button>
+        <a href="#howto" class="underline opacity-80">설정</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-4 space-y-4">
+    <!-- Quick tape (compact: 3 items only) -->
+    <section class="card">
+      <div class="section-title">주요 지수/환율 빠른 보기</div>
+      <div class="tv-wrap small">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+          {
+            "symbols": [
+              {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
+              {"proName": "NASDAQ:NDX", "title": "NASDAQ 100"},
+              {"proName": "FX_IDC:USDKRW", "title": "USD/KRW"}
+            ],
+            "showSymbolLogo": true,
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "displayMode": "adaptive",
+            "locale": "kr"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= [1] 거시경제 흐름 ================= -->
+    <section class="card">
+      <div class="section-title">[1] 거시경제 흐름</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <!-- 10Y - 3M 장단기 금리차 (2021-07 이후) -->
+        <div class="card">
+          <div class="section-title">미국 10년 – 3개월 금리차 (T10Y3M)</div>
+          <img alt="T10Y3M" class="w-full rounded-xl" src="https://fred.stlouisfed.org/graph/fredgraph.png?id=T10Y3M&cosd=2021-07-01&show_legend=0&width=670&height=400">
+          <p class="text-xs opacity-90 mt-2">
+            출처: FRED – 10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity
+            (<a class="underline" target="_blank" rel="noopener" href="https://fred.stlouisfed.org/series/T10Y3M">https://fred.stlouisfed.org/series/T10Y3M</a>)
+          </p>
+        </div>
+
+        <!-- 하이일드 가격 지수 -> HYG 프록시 (overflow fix) -->
+        <div class="card">
+          <div class="section-title">하이일드 채권 ‘가격’ 지수 (Proxy: HYG)</div>
+          <div class="tv-wrap small">
+            <div class="tradingview-widget-container">
+              <div class="tradingview-widget-container__widget"></div>
+              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+              {
+                "symbols": [["AMEX:HYG|1D"]],
+                "interval": "D",
+                "isTransparent": true,
+                "autosize": true,
+                "colorTheme": "dark",
+                "locale": "kr"
+              }
+              </script>
+            </div>
+          </div>
+          <p class="text-xs opacity-70 mt-2">ICE/BofA HY ‘가격’ 지수의 오픈 임베드 대안으로 HYG ETF를 사용.</p>
+        </div>
+
+        <!-- M2 Velocity -->
+        <div class="card md:col-span-2">
+          <div class="section-title">M2 통화유통속도 (M2V)</div>
+          <img alt="M2V" class="w-full rounded-xl" src="https://fred.stlouisfed.org/graph/fredgraph.png?id=M2V&cosd=1990-01-01&show_legend=0&width=1200&height=400">
+          <p class="text-xs opacity-70 mt-2">출처: FRED (무API PNG 임베드)</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= [2] 유동성/분위기 파악 ================= -->
+    <section class="card">
+      <div class="section-title">[2] 시장 유동성 · 분위기</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <!-- NAAIM Exposure Index -->
+        <div class="card">
+          <div class="section-title">NAAIM 주식 비중 지수</div>
+          <p class="text-sm opacity-90">임베드 제한으로 직접 불러오기가 어려움. 아래 버튼으로 원본을 열거나, CSV 붙여넣기로 차트를 표시할 수 있음.</p>
+          <div class="flex gap-2 mt-2">
+            <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www.naaim.org/programs/naaim-exposure-index/">공식 페이지</a>
+            <button id="naaimLoad" class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700">내 CSV 붙여넣기</button>
+          </div>
+          <canvas id="naaimChart" class="w-full h-56 mt-3 hidden"></canvas>
+        </div>
+
+        <!-- 한국/글로벌 리서치 & 시황 링크 모음 -->
+        <div class="card">
+          <div class="section-title">리서치 & 시황 바로가기</div>
+          <ul class="list-disc pl-5 space-y-2 text-sm">
+            <li><a class="underline" target="_blank" rel="noopener" href="https://consensus.hankyung.com/apps.analysis/index">한경 컨센서스</a></li>
+            <li><a class="underline" target="_blank" rel="noopener" href="https://finance.naver.com/">네이버 증권</a></li>
+            <li><a class="underline" target="_blank" rel="noopener" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a></li>
+            <li><a class="underline" target="_blank" rel="noopener" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a></li>
+          </ul>
+        </div>
+
+        <!-- CNN Fear & Greed -->
+        <div class="card md:col-span-2">
+          <div class="section-title">공포/탐욕 지수</div>
+          <p class="text-sm opacity-90">CNN 페이지 보안정책으로 임베드 불가. 아래 버튼으로 새 탭에서 확인.</p>
+          <a class="mt-2 inline-block px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed 열기</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 경제 캘린더 -->
+    <section class="card">
+      <div class="section-title">이번 주 경제지표 캘린더</div>
+      <div class="tv-wrap">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+          {
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "width": "100%",
+            "height": "100%",
+            "locale": "kr",
+            "importanceFilter": "-1,0,1",
+            "countryFilter": "us,kr,cn,jp,eu"
+          }
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <footer class="py-6 text-center text-xs opacity-70">© 당신의 개인 투자 대시보드. 자료: TradingView, FRED</footer>
+  </main>
+
+  <script>
+    // Light/Dark quick toggle
+    const btn = document.getElementById('themeToggle');
+    const root = document.documentElement;
+    const setTheme = (mode) => { if (mode === 'dark') root.classList.add('dark'); else root.classList.remove('dark'); localStorage.setItem('theme', mode); };
+    const saved = localStorage.getItem('theme');
+    if (saved) setTheme(saved); else setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    btn.addEventListener('click', () => setTheme(root.classList.contains('dark') ? 'light' : 'dark'));
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    // Theme toggle
+    const btn = document.getElementById('themeToggle');
+    const root = document.documentElement;
+    const setTheme = (mode) => { if (mode === 'dark') root.classList.add('dark'); else root.classList.remove('dark'); localStorage.setItem('theme', mode); };
+    const saved = localStorage.getItem('theme');
+    if (saved) setTheme(saved); else setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    if (btn) btn.addEventListener('click', () => setTheme(root.classList.contains('dark') ? 'light' : 'dark'));
+
+    // NAAIM CSV → chart
+    const naaimBtn = document.getElementById('naaimLoad');
+    if (naaimBtn) naaimBtn.addEventListener('click', async () => {
+      const csv = prompt('CSV 내용을 그대로 붙여넣어 주세요 (첫 열: 날짜, 둘째 열: 값).');
+      if (!csv) return;
+      const lines = csv.split(/?
+/).filter(Boolean);
+      const labels = []; const values = [];
+      for (const line of lines) {
+        const [d, v] = line.split(',');
+        if (!d || !v) continue;
+        labels.push(d.trim()); values.push(parseFloat(v));
+      }
+      const canvas = document.getElementById('naaimChart');
+      canvas.classList.remove('hidden');
+      new Chart(canvas.getContext('2d'), { type: 'line', data: { labels, datasets: [{ label: 'NAAIM Exposure', data: values, fill: true, tension: 0.2 }] }, options: { responsive: true, maintainAspectRatio: false } });
+    });
+  </script>
+</body>
+</html>
