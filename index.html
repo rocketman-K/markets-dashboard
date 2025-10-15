@@ -3,19 +3,11 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>index.html</title>
-  <meta name="color-scheme" content="light dark">
-  <script>window.tailwind=window.tailwind||{};tailwind.config={darkMode:'class'};</script>
+  <title>시장 지표 대시보드</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>window.tailwind=window.tailwind||{};tailwind.config={darkMode:'class'};</script>
   <style>
-    :root { color-scheme: light dark; }
     .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
-    .card { background: color-mix(in lab, white 80%, transparent); }
-    @media (prefers-color-scheme: dark) { .card { background: color-mix(in lab, black 80%, transparent); } }
-    .section-title { font-size: 1.125rem; font-weight: 600; margin-bottom: .5rem; }
-    .tv-wrap { position: relative; width: 100%; min-height: 50px; }
-    .tv-wrap.tall { min-height: 420px; }
-    .tv-wrap > * { position: absolute; inset: 0; width: 100%; height: 100%; }
   </style>
 </head>
 <body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
@@ -29,9 +21,9 @@
   </header>
 
   <main class="max-w-6xl mx-auto p-4 space-y-4">
-    <!-- 1) 주요 지수/환율 (컴팩트) -->
+    <!-- 주요 지수/환율 -->
     <section class="card">
-      <div class="section-title">주요 지수/환율 빠른 보기</div>
+      <div class="text-lg font-semibold mb-2">주요 지수/환율 빠른 보기</div>
       <div class="tv-wrap" style="height:60px;">
         <div class="tradingview-widget-container">
           <div class="tradingview-widget-container__widget"></div>
@@ -55,32 +47,86 @@
       </div>
     </section>
 
-    <!-- 2) 리서치 & 시황: 버튼 스타일 -->
+    <!-- 리서치 & 시황 -->
     <section class="card">
-      <div class="section-title">리서치 & 시황 바로가기</div>
+      <div class="text-lg font-semibold mb-2">리서치 & 시황 바로가기</div>
       <div class="flex flex-wrap gap-2 text-sm">
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://markets.hankyung.com/consensus">한경 컨센서스</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://finance.naver.com/research/">네이버 증권 리서치</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://markets.hankyung.com/consensus">한경 컨센서스</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://finance.naver.com/research/">네이버 증권 리서치</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://seekingalpha.com/latest-articles">Seeking Alpha 애널리시스</a>
       </div>
     </section>
 
-    <!-- 3) 심리 · 포지셔닝: 버튼 링크 유지 -->
+    <!-- 심리 · 포지셔닝 -->
     <section class="card">
-      <div class="section-title">심리 · 포지셔닝</div>
+      <div class="text-lg font-semibold mb-2">심리 · 포지셔닝</div>
       <div class="flex flex-wrap gap-2 text-sm">
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www.naaim.org/programs/naaim-exposure-index/">NAAIM Exposure Index</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" rel="noopener" href="https://www.aaii.com/sentimentsurvey">AAII Sentiment Survey</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.naaim.org/programs/naaim-exposure-index/">NAAIM Exposure Index</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.aaii.com/sentimentsurvey">AAII Sentiment Survey</a>
       </div>
-      <p class="text-xs opacity-70 mt-2">※ NAAIM/AAII는 iframe 임베드 제한으로 링크 버튼 방식으로 제공합니다.</p>
     </section>
 
-    <!-- 4) 경제지표 캘린더 (TradingView, 미국/한국/중국만) -->
+    <!-- 평안한 이미지 박스 (원본 비율 그대로 노크롭) -->
     <section class="card">
-      <div class="section-title">이번 주 경제지표 캘린더</div>
-      <div class="tv-wrap tall">
+      <img
+        src="assets/buddha.jpg"
+        alt="평안한 투자자의 마음"
+        class="w-full h-auto block rounded-xl"
+        loading="lazy"
+      />
+    </section>
+
+    <!-- 텔레그램 공식 채널 최신 메시지 -->
+    <section class="card">
+      <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
+
+      <!-- Bloomberg -->
+      <div class="rounded-xl overflow-hidden border border-zinc-200/60 dark:border-zinc-800/60 mb-4">
+        <iframe
+          src="https://t.me/s/bloomberg?embed=1"
+          title="Bloomberg Telegram Channel"
+          class="w-full"
+          style="height: 600px;"
+          loading="lazy"
+          referrerpolicy="no-referrer"
+          sandbox="allow-scripts allow-same-origin allow-popups"
+        ></iframe>
+      </div>
+
+      <!-- WatcherGuru -->
+      <div class="rounded-xl overflow-hidden border border-zinc-200/60 dark:border-zinc-800/60 mb-4">
+        <iframe
+          src="https://t.me/s/WatcherGuru?embed=1"
+          title="WatcherGuru Telegram Channel"
+          class="w-full"
+          style="height: 600px;"
+          loading="lazy"
+          referrerpolicy="no-referrer"
+          sandbox="allow-scripts allow-same-origin allow-popups"
+        ></iframe>
+      </div>
+
+      <!-- InsiderTracking -->
+      <div class="rounded-xl overflow-hidden border border-zinc-200/60 dark:border-zinc-800/60">
+        <iframe
+          src="https://t.me/s/insidertracking?embed=1"
+          title="InsiderTracking Telegram Channel"
+          class="w-full"
+          style="height: 600px;"
+          loading="lazy"
+          referrerpolicy="no-referrer"
+          sandbox="allow-scripts allow-same-origin allow-popups"
+        ></iframe>
+      </div>
+    </section>
+
+    <!-- 경제지표 캘린더 -->
+    <section class="card">
+      <div class="text-lg font-semibold mb-2">이번 주 경제지표 캘린더</div>
+      <div class="tv-wrap" style="height:420px;">
         <div class="tradingview-widget-container">
           <div class="tradingview-widget-container__widget"></div>
           <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
@@ -90,7 +136,7 @@
             "width": "100%",
             "height": "100%",
             "locale": "kr",
-            "importanceFilter": "-1,0,1",
+            "importanceFilter": "1",
             "countryFilter": "us,kr,cn"
           }
           </script>
@@ -98,20 +144,16 @@
       </div>
     </section>
 
-    <footer class="py-6 text-center text-xs opacity-70">© 당신의 개인 투자 대시보드. 자료: TradingView</footer>
+    <footer class="py-6 text-center text-xs opacity-70">© 개인 투자 대시보드 · 자료: TradingView</footer>
   </main>
 
   <script>
-    // 라이트/다크 토글: <html>에 class="dark" 토글 + 저장
-    const btn = document.getElementById('themeToggle');
-    const root = document.documentElement;
-    function setTheme(mode){
-      if(mode==='dark'){ root.classList.add('dark'); localStorage.setItem('theme','dark'); }
-      else { root.classList.remove('dark'); localStorage.setItem('theme','light'); }
-    }
-    const saved = localStorage.getItem('theme');
-    if(saved){ setTheme(saved); } else { setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'); }
-    if(btn){ btn.addEventListener('click', ()=>{ setTheme(root.classList.contains('dark') ? 'light' : 'dark'); }); }
+    const btn=document.getElementById('themeToggle');
+    const root=document.documentElement;
+    function setTheme(m){if(m==='dark'){root.classList.add('dark');localStorage.setItem('theme','dark');}else{root.classList.remove('dark');localStorage.setItem('theme','light');}}
+    const saved=localStorage.getItem('theme');
+    if(saved){setTheme(saved);}else{setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
+    btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
   </script>
 </body>
 </html>
