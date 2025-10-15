@@ -8,6 +8,7 @@
   <script>window.tailwind=window.tailwind||{};tailwind.config={darkMode:'class'};</script>
   <style>
     .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
+    .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   </style>
 </head>
 <body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
@@ -55,6 +56,7 @@
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://finance.naver.com/research/">네이버 증권 리서치</a>
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a>
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://seekingalpha.com/latest-articles">Seeking Alpha 애널리시스</a>
       </div>
     </section>
 
@@ -76,6 +78,21 @@
         class="w-full h-auto block rounded-xl"
         loading="lazy"
       />
+    </section>
+
+    <!-- 텔레그램 공식 채널 최신 메시지 (프런트엔드 RSS 파서) -->
+    <section class="card">
+      <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
+
+      <!-- 컨테이너 -->
+      <div id="tg-bloomberg" class="mb-4"></div>
+      <div id="tg-wg" class="mb-4"></div>
+      <div id="tg-insider" class=""></div>
+
+      <!-- (참고) 기존 iframe 방식은 일부브라우저에서 차단되어 주석 처리 -->
+      <!--
+      <iframe src="https://t.me/s/bloomberg?embed=1" class="w-full" style="height:600px;"></iframe>
+      -->
     </section>
 
     <!-- 경제지표 캘린더 -->
@@ -103,12 +120,90 @@
   </main>
 
   <script>
+    // 테마 토글
     const btn=document.getElementById('themeToggle');
     const root=document.documentElement;
     function setTheme(m){if(m==='dark'){root.classList.add('dark');localStorage.setItem('theme','dark');}else{root.classList.remove('dark');localStorage.setItem('theme','light');}}
     const saved=localStorage.getItem('theme');
     if(saved){setTheme(saved);}else{setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
     btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
+
+    // ===== Telegram 채널 최신 메시지 (RSSHub + rss2json) =====
+    const FEEDS = [
+      { channel: 'bloomberg',      title: 'Bloomberg',       mount: 'tg-bloomberg' },
+      { channel: 'WatcherGuru',    title: 'WatcherGuru',     mount: 'tg-wg' },
+      { channel: 'insidertracking',title: 'InsiderTracking', mount: 'tg-insider' },
+    ];
+
+    function rssUrl(ch){ return `https://rsshub.app/telegram/channel/${encodeURIComponent(ch)}`; }
+    function rss2jsonUrl(rss){ return `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rss)}`; }
+
+    function fmtDate(s){
+      try { const d=new Date(s); return d.toLocaleString('ko-KR'); } catch(e){ return s; }
+    }
+
+    function cardSkeleton(title){
+      return `
+        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3">
+          <div class="font-semibold mb-2">${title}</div>
+          <div class="animate-pulse h-24 rounded-lg bg-zinc-200/60 dark:bg-zinc-800/60"></div>
+        </div>`;
+    }
+
+    function renderError({mount, title, channel}){
+      const el=document.getElementById(mount);
+      el.innerHTML = `
+        <div class="rounded-xl border border-amber-300/60 dark:border-amber-700/60 p-3 bg-amber-50/60 dark:bg-amber-900/20">
+          <div class="font-semibold mb-1">${title}</div>
+          <p class="text-sm opacity-80 mb-2">브라우저/네트워크 정책으로 최신 글을 불러오지 못했습니다.</p>
+          <a class="inline-block px-3 py-2 text-sm rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://t.me/s/${channel}">채널 열기</a>
+        </div>`;
+    }
+
+    function renderFeed({mount, title}, items){
+      const el=document.getElementById(mount);
+      const top = (items || []).slice(0,6).map(it=>{
+        const link = it.link || `https://t.me/${it.author || ''}`;
+        const content = (it.content || it.description || '').replace(/<[^>]*>/g,'').slice(0,220);
+        return `
+          <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition"
+             target="_blank" href="${link}">
+            <div class="text-xs opacity-70">${fmtDate(it.pubDate)}</div>
+            <div class="font-medium my-1">${it.title ? it.title : '(무제)'}</div>
+            <p class="text-sm opacity-90 line-clamp-3">${content}</p>
+          </a>
+        `;
+      }).join('');
+
+      el.innerHTML = `
+        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
+          <div class="flex items-center justify-between p-3">
+            <div class="font-semibold">${title}</div>
+            <div class="text-xs opacity-70">실시간 · RSS</div>
+          </div>
+          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">
+            ${top || '<div class="text-sm opacity-70 p-3">표시할 항목이 없습니다.</div>'}
+          </div>
+        </div>`;
+    }
+
+    async function loadFeed({channel, title, mount}){
+      // 스켈레톤
+      document.getElementById(mount).innerHTML = cardSkeleton(title);
+      try{
+        const rss = rssUrl(channel);
+        const url = rss2jsonUrl(rss);
+        const res = await fetch(url);
+        if(!res.ok) throw new Error('fetch failed');
+        const data = await res.json();
+        if(!data || !data.items) throw new Error('no items');
+        renderFeed({mount, title}, data.items);
+      }catch(e){
+        renderError({mount, title, channel});
+      }
+    }
+
+    FEEDS.forEach(loadFeed);
   </script>
 </body>
 </html>
