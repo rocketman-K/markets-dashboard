@@ -11,9 +11,7 @@
     .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   </style>
 </head>
-
 <body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
-  <!-- 헤더 -->
   <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
     <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
       <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
@@ -23,9 +21,7 @@
     </div>
   </header>
 
-  <!-- 메인 -->
   <main class="max-w-6xl mx-auto p-4 space-y-4">
-
     <!-- 주요 지수/환율 -->
     <section class="card">
       <div class="text-lg font-semibold mb-2">주요 지수/환율 빠른 보기</div>
@@ -52,10 +48,42 @@
       </div>
     </section>
 
-    <!-- WatcherGuru 텔레그램 피드 -->
+    <!-- 리서치 & 시황 -->
     <section class="card">
-      <div class="text-lg font-semibold mb-2">WatcherGuru 최신 소식</div>
-      <div id="tg-wg"></div>
+      <div class="text-lg font-semibold mb-2">리서치 & 시황 바로가기</div>
+      <div class="flex flex-wrap gap-2 text-sm">
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://markets.hankyung.com/consensus">한경 컨센서스</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://finance.naver.com/research/">네이버 증권 리서치</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://seekingalpha.com/latest-articles">Seeking Alpha 애널리시스</a>
+      </div>
+    </section>
+
+    <!-- 심리 · 포지셔닝 -->
+    <section class="card">
+      <div class="text-lg font-semibold mb-2">심리 · 포지셔닝</div>
+      <div class="flex flex-wrap gap-2 text-sm">
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.naaim.org/programs/naaim-exposure-index/">NAAIM Exposure Index</a>
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.aaii.com/sentimentsurvey">AAII Sentiment Survey</a>
+      </div>
+    </section>
+
+    <!-- 평안한 이미지 박스 (원본 비율 그대로 노크롭) -->
+    <section class="card">
+      <img
+        src="assets/buddha.jpg"
+        alt="평안한 투자자의 마음"
+        class="w-full h-auto block rounded-xl"
+        loading="lazy"
+      />
+    </section>
+
+    <!-- 텔레그램 공식 채널 최신 메시지 (Cloudflare Worker 연동) -->
+    <section class="card">
+      <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
+      <div id="tg-wg" class="mb-4"></div>
     </section>
 
     <!-- 경제지표 캘린더 -->
@@ -82,9 +110,8 @@
     <footer class="py-6 text-center text-xs opacity-70">© 개인 투자 대시보드 · 자료: TradingView</footer>
   </main>
 
-  <!-- 스크립트 -->
   <script>
-    // 테마 토글
+    // ===== 테마 토글 =====
     const btn=document.getElementById('themeToggle');
     const root=document.documentElement;
     function setTheme(m){if(m==='dark'){root.classList.add('dark');localStorage.setItem('theme','dark');}else{root.classList.remove('dark');localStorage.setItem('theme','light');}}
@@ -92,51 +119,72 @@
     if(saved){setTheme(saved);}else{setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
     btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
 
-    // Cloudflare Worker 설정
-    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev";
+    // ===== Telegram 피드 (Cloudflare Worker 호출) =====
+    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev"; // 본인 워커 주소
+    const FEEDS = [
+      { channel: 'bloomberg',       title: 'Bloomberg',       mount: 'tg-bloomberg' },
+      { channel: 'WatcherGuru',     title: 'WatcherGuru',     mount: 'tg-wg' },
+      { channel: 'insidertracking', title: 'InsiderTracking', mount: 'tg-insider' },
+    ];
 
-    async function loadWatcherGuru(){
-      const el=document.getElementById('tg-wg');
+    function fmtDate(s){ try { return new Date(s).toLocaleString('ko-KR'); } catch { return s; } }
+
+    function renderFeed({mount, title}, items){
+      const el=document.getElementById(mount);
+      const top=(items||[]).slice(0,6).map(it=>{
+        const link = it.url || it.link || '#';
+        const date = it.date_published || it.pubDate || '';
+        const text = (it.content_text || it.description || '').replace(/<[^>]*>/g,'');
+        return `
+          <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition"
+             target="_blank" href="${link}">
+            <div class="text-xs opacity-70">${fmtDate(date)}</div>
+            <div class="font-medium my-1">${it.title || '(무제)'}</div>
+            <p class="text-sm opacity-90 line-clamp-3">${text}</p>
+          </a>
+        `;
+      }).join('');
       el.innerHTML = `
+        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
+          <div class="flex items-center justify-between p-3">
+            <div class="font-semibold">${title}</div>
+            <div class="text-xs opacity-70">via Cloudflare Worker</div>
+          </div>
+          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">
+            ${top || '<div class="p-3 text-sm opacity-70">표시할 항목이 없습니다.</div>'}
+          </div>
+        </div>`;
+    }
+
+    function renderError({mount, title, channel}){
+      const el=document.getElementById(mount);
+      el.innerHTML=`
+        <div class="rounded-xl border border-amber-300/60 dark:border-amber-700/60 p-3 bg-amber-50/60 dark:bg-amber-900/20">
+          <div class="font-semibold mb-1">${title}</div>
+          <p class="text-sm opacity-80 mb-2">피드를 불러오지 못했습니다.</p>
+          <a class="inline-block px-3 py-2 text-sm rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://t.me/s/${channel}">채널 열기</a>
+        </div>`;
+    }
+
+    async function loadFeed({channel, title, mount}){
+      // 로딩 스켈레톤
+      document.getElementById(mount).innerHTML = `
         <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3">
-          <div class="font-semibold mb-2">WatcherGuru</div>
+          <div class="font-semibold mb-2">${title}</div>
           <div class="animate-pulse h-24 rounded-lg bg-zinc-200/60 dark:bg-zinc-800/60"></div>
         </div>`;
-      try {
-        const res = await fetch(\`\${WORKER_BASE}/api?ch=WatcherGuru\`);
+      try{
+        const res = await fetch(`${WORKER_BASE}/api?ch=${encodeURIComponent(channel)}`);
         if(!res.ok) throw new Error('fetch failed');
         const data = await res.json();
-        const items = data?.items || [];
-        const top = items.slice(0,6).map(it => {
-          const link = it.url || it.link || '#';
-          const date = new Date(it.date_published || it.pubDate).toLocaleString('ko-KR');
-          const text = (it.content_text || it.description || '').replace(/<[^>]*>/g,'');
-          return `
-            <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition" target="_blank" href="\${link}">
-              <div class="text-xs opacity-70">\${date}</div>
-              <div class="font-medium my-1">\${it.title || '(무제)'}</div>
-              <p class="text-sm opacity-90 line-clamp-3">\${text}</p>
-            </a>`;
-        }).join('');
-        el.innerHTML = `
-          <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
-            <div class="flex items-center justify-between p-3">
-              <div class="font-semibold">WatcherGuru</div>
-              <div class="text-xs opacity-70">via Cloudflare Worker</div>
-            </div>
-            <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">\${top}</div>
-          </div>`;
-      } catch (e) {
-        el.innerHTML = `
-          <div class="rounded-xl border border-amber-300/60 dark:border-amber-700/60 p-3 bg-amber-50/60 dark:bg-amber-900/20">
-            <div class="font-semibold mb-1">WatcherGuru</div>
-            <p class="text-sm opacity-80 mb-2">피드를 불러오지 못했습니다.</p>
-            <a class="inline-block px-3 py-2 text-sm rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://t.me/s/WatcherGuru">채널 열기</a>
-          </div>`;
+        const items = data?.items || data?.entry || [];
+        renderFeed({mount, title}, items);
+      }catch(e){
+        renderError({mount, title, channel});
       }
     }
 
-    loadWatcherGuru();
+    FEEDS.forEach(loadFeed);
   </script>
 </body>
 </html>
