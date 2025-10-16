@@ -79,9 +79,8 @@
     <!-- 텔레그램 공식 채널 최신 메시지 -->
     <section class="card">
       <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
-      <div id="tg-bloomberg" class="mb-4"></div>
       <div id="tg-wg" class="mb-4"></div>
-      <div id="tg-insider"></div>
+      <div id="tg-bloomberg" class="mb-4"></div>
     </section>
 
     <!-- 경제지표 캘린더 -->
@@ -120,8 +119,8 @@
     // ===== Telegram 피드 (Cloudflare Worker 호출) =====
     const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev"; 
     const FEEDS = [
-      { channel: 'bloomberg',       title: 'Bloomberg',       mount: 'tg-bloomberg' },
       { channel: 'WatcherGuru',     title: 'WatcherGuru',     mount: 'tg-wg' },
+      { channel: 'bloomberg',       title: 'Bloomberg',       mount: 'tg-bloomberg' },
     ];
 
     function fmtDate(s){ try { return new Date(s).toLocaleString('ko-KR'); } catch { return s; } }
