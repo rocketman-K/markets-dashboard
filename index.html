@@ -130,13 +130,19 @@
 
     function renderFeed({mount,title},items){
       const el=document.getElementById(mount);
-      const top=(items||[]).slice(0,6).map(it=>`
-        <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition" target="_blank" href="${it.url||it.link||'#'}">
-          <div class="text-xs opacity-70">${fmtDate(it.date_published||it.pubDate)}</div>
-          <div class="font-medium my-1">${it.title||'(무제)'}</div>
-          <p class="text-sm opacity-90 line-clamp-3">${(it.content_text||it.description||'').replace(/<[^>]*>/g,'')}</p>
-        </a>
-      `).join('');
+      const getDate = (it) => new Date(it.date_published || it.pubDate || it.isoDate || 0);
+      const top=(items||[])
+        .slice()
+        .sort((a,b)=>getDate(b)-getDate(a))  // 최신순 정렬
+        .slice(0,4)                          // 4개만 표시
+        .map(it=>`
+          <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition"
+             target="_blank" href="${it.url||it.link||'#'}">
+            <div class="text-xs opacity-70">${getDate(it).toLocaleString('ko-KR')}</div>
+            <div class="font-medium my-1">${it.title||'(무제)'}</div>
+            <p class="text-sm opacity-90 line-clamp-3">${(it.content_text||it.description||'').replace(/<[^>]*>/g,'')}</p>
+          </a>
+        `).join('');
       el.innerHTML=`
         <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
           <div class="flex items-center justify-between p-3">
