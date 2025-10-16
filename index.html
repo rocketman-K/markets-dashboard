@@ -76,23 +76,6 @@
       <img src="assets/buddha.jpg" alt="평안한 투자자의 마음" class="w-full h-auto block rounded-xl" loading="lazy"/>
     </section>
 
-    <!-- 종목 요약 (WebLLM) -->
-    <section class="card">
-      <div class="text-lg font-semibold mb-2">종목 요약 (실험)</div>
-      <div class="flex flex-wrap items-center gap-2 text-sm mb-3">
-        <input id="symInput" type="text" placeholder="예: AAPL / MSFT / TSLA / 005930.KS"
-               class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 w-60">
-        <button id="symRun" class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700">
-          요약 생성
-        </button>
-        <span class="text-xs opacity-70">* 브라우저 내 무료 LLM(WebGPU 권장)</span>
-      </div>
-      <div id="symStatus" class="text-xs opacity-70 mb-2"></div>
-      <div id="symResult" class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 space-y-3">
-        <div class="text-sm opacity-70">티커를 입력하고 “요약 생성”을 눌러주세요.</div>
-      </div>
-    </section>
-
     <!-- 텔레그램 공식 채널 최신 메시지 -->
     <section class="card">
       <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
@@ -134,58 +117,21 @@
     btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
   </script>
 
-  <!-- 무료 LLM (WebLLM) -->
-  <script src="https://unpkg.com/@mlc-ai/web-llm/dist/webllm.min.js"></script>
-  <script>
-    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev";
-    const $ = (id)=>document.getElementById(id);
-    const status=(t)=>{ $("symStatus").textContent=t||""; };
-
-    async function ensureLLM(){
-      if(window.llm) return window.llm;
-      status("LLM 로딩 중…");
-      const cfg={model_list:[{model_url:"https://huggingface.co/mlc-ai/WebLLM-Llama-3.2-1B-Instruct-q4f16_1-MLC/resolve/main/",
-        model_id:"Llama-3.2-1B-Instruct-q4f16_1-MLC"}],
-        init_progress_callback:(p)=>status(`LLM 준비: ${Math.round((p.progress||0)*100)}%`)};
-      window.llm=await webllm.CreateMLCEngine(cfg.model_list[0].model_id,cfg);
-      status("LLM 준비 완료");
-      return window.llm;
-    }
-
-    async function runSummary(){
-      const sym=$("symInput").value.trim().toUpperCase();
-      if(!sym){alert("티커를 입력하세요.");return;}
-      status("데이터 수집 중…");
-      $("symResult").innerHTML=`<div class='text-sm opacity-70'>수집 중...</div>`;
-      const context=`회사 ${sym}에 대한 기본 개요와 최근 동향을 요약해줘.`;
-      const llm=await ensureLLM();
-      status("요약 생성 중…");
-      const res=await llm.chat.completions.create({
-        messages:[{role:"user",content:context}],
-        temperature:0.3,
-        stream:false,max_tokens:400
-      });
-      const txt=res?.choices?.[0]?.message?.content||"응답 없음";
-      $("symResult").innerHTML=`<pre class='whitespace-pre-wrap text-sm'>${txt}</pre>`;
-      status("");
-    }
-    $("symRun").addEventListener("click",runSummary);
-    $("symInput").addEventListener("keydown",(e)=>{if(e.key==="Enter")runSummary();});
-  </script>
-
   <!-- 텔레그램 피드 로딩 -->
   <script>
+    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev";
+
     const FEEDS = [
       { channel: "WatcherGuru", title: "WatcherGuru", mount: "tg-wg" },
-      { channel: "bloomberg", title: "Bloomberg", mount: "tg-bloomberg" }
+      { channel: "bloomberg",   title: "Bloomberg",   mount: "tg-bloomberg" }
     ];
 
-    function fmtDate(s){try{return new Date(s).toLocaleString('ko-KR')}catch{return s}}
+    function fmtDate(s){ try { return new Date(s).toLocaleString('ko-KR'); } catch { return s; } }
 
     function renderFeed({mount,title},items){
       const el=document.getElementById(mount);
       const top=(items||[]).slice(0,6).map(it=>`
-        <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition" target="_blank" href="${it.url||it.link}">
+        <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition" target="_blank" href="${it.url||it.link||'#'}">
           <div class="text-xs opacity-70">${fmtDate(it.date_published||it.pubDate)}</div>
           <div class="font-medium my-1">${it.title||'(무제)'}</div>
           <p class="text-sm opacity-90 line-clamp-3">${(it.content_text||it.description||'').replace(/<[^>]*>/g,'')}</p>
@@ -197,7 +143,7 @@
             <div class="font-semibold">${title}</div>
             <div class="text-xs opacity-70">via Cloudflare Worker</div>
           </div>
-          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">${top}</div>
+          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">${top||'<div class="p-3 text-sm opacity-70">표시할 항목이 없습니다.</div>'}</div>
         </div>`;
     }
 
@@ -211,15 +157,22 @@
     }
 
     async function loadFeed({channel,title,mount}){
-      document.getElementById(mount).innerHTML=`<div class="text-sm opacity-70 p-3">로딩 중...</div>`;
+      document.getElementById(mount).innerHTML = `
+        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3">
+          <div class="font-semibold mb-2">${title}</div>
+          <div class="animate-pulse h-24 rounded-lg bg-zinc-200/60 dark:bg-zinc-800/60"></div>
+        </div>`;
       try{
-        const res=await fetch(`${WORKER_BASE}/api?ch=${encodeURIComponent(channel)}`);
-        if(!res.ok)throw new Error("fetch failed");
-        const data=await res.json();
-        const items=data?.items||data?.entry||[];
-        renderFeed({mount,title},items);
-      }catch(e){renderError({mount,title,channel});}
+        const res = await fetch(`${WORKER_BASE}/api?ch=${encodeURIComponent(channel)}`);
+        if(!res.ok) throw new Error('fetch failed');
+        const data = await res.json();
+        const items = data?.items || data?.entry || [];
+        renderFeed({mount,title}, items);
+      }catch(e){
+        renderError({mount,title,channel});
+      }
     }
+
     FEEDS.forEach(loadFeed);
   </script>
 </body>
