@@ -76,11 +76,29 @@
       <img src="assets/buddha.jpg" alt="평안한 투자자의 마음" class="w-full h-auto block rounded-xl" loading="lazy"/>
     </section>
 
+    <!-- 종목 요약 (WebLLM) -->
+    <section class="card">
+      <div class="text-lg font-semibold mb-2">종목 요약 (실험)</div>
+      <div class="flex flex-wrap items-center gap-2 text-sm mb-3">
+        <input id="symInput" type="text" placeholder="예: AAPL / MSFT / TSLA / 005930.KS"
+               class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 w-60">
+        <button id="symRun" class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700">
+          요약 생성
+        </button>
+        <span class="text-xs opacity-70">* 브라우저 내 무료 LLM(WebGPU 권장)</span>
+      </div>
+      <div id="symStatus" class="text-xs opacity-70 mb-2"></div>
+      <div id="symResult" class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 space-y-3">
+        <div class="text-sm opacity-70">티커를 입력하고 “요약 생성”을 눌러주세요.</div>
+      </div>
+    </section>
+
     <!-- 텔레그램 공식 채널 최신 메시지 -->
     <section class="card">
       <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
-      <div id="tg-wg" class="mb-4"></div>
       <div id="tg-bloomberg" class="mb-4"></div>
+      <div id="tg-wg" class="mb-4"></div>
+      <div id="tg-insider"></div>
     </section>
 
     <!-- 경제지표 캘린더 -->
@@ -107,79 +125,53 @@
     <footer class="py-6 text-center text-xs opacity-70">© 개인 투자 대시보드 · 자료: TradingView</footer>
   </main>
 
+  <!-- 테마 토글 -->
   <script>
-    // ===== 테마 토글 =====
     const btn=document.getElementById('themeToggle');
     const root=document.documentElement;
     function setTheme(m){if(m==='dark'){root.classList.add('dark');localStorage.setItem('theme','dark');}else{root.classList.remove('dark');localStorage.setItem('theme','light');}}
     const saved=localStorage.getItem('theme');
     if(saved){setTheme(saved);}else{setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
     btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
+  </script>
 
-    // ===== Telegram 피드 (Cloudflare Worker 호출) =====
-    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev"; 
-    const FEEDS = [
-      { channel: 'WatcherGuru',     title: 'WatcherGuru',     mount: 'tg-wg' },
-      { channel: 'bloomberg',       title: 'Bloomberg',       mount: 'tg-bloomberg' },
-    ];
+  <!-- 무료 LLM (WebLLM) -->
+  <script src="https://unpkg.com/@mlc-ai/web-llm/dist/webllm.min.js"></script>
+  <script>
+    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev";
+    const $ = (id)=>document.getElementById(id);
+    const status=(t)=>{ $("symStatus").textContent=t||""; };
 
-    function fmtDate(s){ try { return new Date(s).toLocaleString('ko-KR'); } catch { return s; } }
-
-    function renderFeed({mount, title}, items){
-      const el=document.getElementById(mount);
-      const top=(items||[]).slice(0,6).map(it=>{
-        const link = it.url || it.link || '#';
-        const date = it.date_published || it.pubDate || '';
-        const text = (it.content_text || it.description || '').replace(/<[^>]*>/g,'');
-        return `
-          <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition"
-             target="_blank" href="${link}">
-            <div class="text-xs opacity-70">${fmtDate(date)}</div>
-            <div class="font-medium my-1">${it.title || '(무제)'}</div>
-            <p class="text-sm opacity-90 line-clamp-3">${text}</p>
-          </a>
-        `;
-      }).join('');
-      el.innerHTML = `
-        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
-          <div class="flex items-center justify-between p-3">
-            <div class="font-semibold">${title}</div>
-            <div class="text-xs opacity-70">via Cloudflare Worker</div>
-          </div>
-          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">
-            ${top || '<div class="p-3 text-sm opacity-70">표시할 항목이 없습니다.</div>'}
-          </div>
-        </div>`;
+    async function ensureLLM(){
+      if(window.llm) return window.llm;
+      status("LLM 로딩 중…");
+      const cfg={model_list:[{model_url:"https://huggingface.co/mlc-ai/WebLLM-Llama-3.2-1B-Instruct-q4f16_1-MLC/resolve/main/",
+        model_id:"Llama-3.2-1B-Instruct-q4f16_1-MLC"}],
+        init_progress_callback:(p)=>status(`LLM 준비: ${Math.round((p.progress||0)*100)}%`)};
+      window.llm=await webllm.CreateMLCEngine(cfg.model_list[0].model_id,cfg);
+      status("LLM 준비 완료");
+      return window.llm;
     }
 
-    function renderError({mount, title, channel}){
-      const el=document.getElementById(mount);
-      el.innerHTML=`
-        <div class="rounded-xl border border-amber-300/60 dark:border-amber-700/60 p-3 bg-amber-50/60 dark:bg-amber-900/20">
-          <div class="font-semibold mb-1">${title}</div>
-          <p class="text-sm opacity-80 mb-2">피드를 불러오지 못했습니다.</p>
-          <a class="inline-block px-3 py-2 text-sm rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://t.me/s/${channel}">채널 열기</a>
-        </div>`;
+    async function runSummary(){
+      const sym=$("symInput").value.trim().toUpperCase();
+      if(!sym){alert("티커를 입력하세요.");return;}
+      status("데이터 수집 중…");
+      $("symResult").innerHTML=`<div class='text-sm opacity-70'>수집 중...</div>`;
+      const context=`회사 ${sym}에 대한 기본 개요와 최근 동향을 요약해줘.`;
+      const llm=await ensureLLM();
+      status("요약 생성 중…");
+      const res=await llm.chat.completions.create({
+        messages:[{role:"user",content:context}],
+        temperature:0.3,
+        stream:false,max_tokens:400
+      });
+      const txt=res?.choices?.[0]?.message?.content||"응답 없음";
+      $("symResult").innerHTML=`<pre class='whitespace-pre-wrap text-sm'>${txt}</pre>`;
+      status("");
     }
-
-    async function loadFeed({channel, title, mount}){
-      document.getElementById(mount).innerHTML = `
-        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3">
-          <div class="font-semibold mb-2">${title}</div>
-          <div class="animate-pulse h-24 rounded-lg bg-zinc-200/60 dark:bg-zinc-800/60"></div>
-        </div>`;
-      try{
-        const res = await fetch(`${WORKER_BASE}/api?ch=${encodeURIComponent(channel)}`);
-        if(!res.ok) throw new Error('fetch failed');
-        const data = await res.json();
-        const items = data?.items || data?.entry || [];
-        renderFeed({mount, title}, items);
-      }catch(e){
-        renderError({mount, title, channel});
-      }
-    }
-
-    FEEDS.forEach(loadFeed);
+    $("symRun").addEventListener("click",runSummary);
+    $("symInput").addEventListener("keydown",(e)=>{if(e.key==="Enter")runSummary();});
   </script>
 </body>
 </html>
