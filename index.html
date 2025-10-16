@@ -96,9 +96,8 @@
     <!-- 텔레그램 공식 채널 최신 메시지 -->
     <section class="card">
       <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
-      <div id="tg-bloomberg" class="mb-4"></div>
       <div id="tg-wg" class="mb-4"></div>
-      <div id="tg-insider"></div>
+      <div id="tg-bloomberg"></div>
     </section>
 
     <!-- 경제지표 캘린더 -->
@@ -172,6 +171,56 @@
     }
     $("symRun").addEventListener("click",runSummary);
     $("symInput").addEventListener("keydown",(e)=>{if(e.key==="Enter")runSummary();});
+  </script>
+
+  <!-- 텔레그램 피드 로딩 -->
+  <script>
+    const FEEDS = [
+      { channel: "WatcherGuru", title: "WatcherGuru", mount: "tg-wg" },
+      { channel: "bloomberg", title: "Bloomberg", mount: "tg-bloomberg" }
+    ];
+
+    function fmtDate(s){try{return new Date(s).toLocaleString('ko-KR')}catch{return s}}
+
+    function renderFeed({mount,title},items){
+      const el=document.getElementById(mount);
+      const top=(items||[]).slice(0,6).map(it=>`
+        <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition" target="_blank" href="${it.url||it.link}">
+          <div class="text-xs opacity-70">${fmtDate(it.date_published||it.pubDate)}</div>
+          <div class="font-medium my-1">${it.title||'(무제)'}</div>
+          <p class="text-sm opacity-90 line-clamp-3">${(it.content_text||it.description||'').replace(/<[^>]*>/g,'')}</p>
+        </a>
+      `).join('');
+      el.innerHTML=`
+        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
+          <div class="flex items-center justify-between p-3">
+            <div class="font-semibold">${title}</div>
+            <div class="text-xs opacity-70">via Cloudflare Worker</div>
+          </div>
+          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">${top}</div>
+        </div>`;
+    }
+
+    function renderError({mount,title,channel}){
+      document.getElementById(mount).innerHTML=`
+        <div class="rounded-xl border border-amber-300/60 dark:border-amber-700/60 p-3 bg-amber-50/60 dark:bg-amber-900/20">
+          <div class="font-semibold mb-1">${title}</div>
+          <p class="text-sm opacity-80 mb-2">피드를 불러오지 못했습니다.</p>
+          <a class="inline-block px-3 py-2 text-sm rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://t.me/s/${channel}">채널 열기</a>
+        </div>`;
+    }
+
+    async function loadFeed({channel,title,mount}){
+      document.getElementById(mount).innerHTML=`<div class="text-sm opacity-70 p-3">로딩 중...</div>`;
+      try{
+        const res=await fetch(`${WORKER_BASE}/api?ch=${encodeURIComponent(channel)}`);
+        if(!res.ok)throw new Error("fetch failed");
+        const data=await res.json();
+        const items=data?.items||data?.entry||[];
+        renderFeed({mount,title},items);
+      }catch(e){renderError({mount,title,channel});}
+    }
+    FEEDS.forEach(loadFeed);
   </script>
 </body>
 </html>
