@@ -71,20 +71,17 @@
       </div>
     </section>
 
-    <!-- 평안한 이미지 박스 (원본 비율 그대로 노크롭) -->
+    <!-- 평안한 이미지 -->
     <section class="card">
-      <img
-        src="assets/buddha.jpg"
-        alt="평안한 투자자의 마음"
-        class="w-full h-auto block rounded-xl"
-        loading="lazy"
-      />
+      <img src="assets/buddha.jpg" alt="평안한 투자자의 마음" class="w-full h-auto block rounded-xl" loading="lazy"/>
     </section>
 
-    <!-- 텔레그램 공식 채널 최신 메시지 (Cloudflare Worker 연동) -->
+    <!-- 텔레그램 공식 채널 최신 메시지 -->
     <section class="card">
       <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
+      <div id="tg-bloomberg" class="mb-4"></div>
       <div id="tg-wg" class="mb-4"></div>
+      <div id="tg-insider"></div>
     </section>
 
     <!-- 경제지표 캘린더 -->
@@ -121,7 +118,7 @@
     btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
 
     // ===== Telegram 피드 (Cloudflare Worker 호출) =====
-    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev"; // 본인 워커 주소
+    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev"; 
     const FEEDS = [
       { channel: 'bloomberg',       title: 'Bloomberg',       mount: 'tg-bloomberg' },
       { channel: 'WatcherGuru',     title: 'WatcherGuru',     mount: 'tg-wg' },
@@ -168,7 +165,6 @@
     }
 
     async function loadFeed({channel, title, mount}){
-      // 로딩 스켈레톤
       document.getElementById(mount).innerHTML = `
         <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3">
           <div class="font-semibold mb-2">${title}</div>
