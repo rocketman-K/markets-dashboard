@@ -1,25 +1,34 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>시장 지표 대시보드</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    // Tailwind CSS 다크 모드 설정은 그대로 유지
-    window.tailwind = window.tailwind || {};
-    tailwind.config = { darkMode: 'class' };
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>시장 지표 대시보드</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>window.tailwind=window.tailwind||{};tailwind.config={darkMode:'class'};</script>
+  <style>
+    .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
+    .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
+  <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
+      <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
+      <div class="ml-auto flex items-center gap-2 text-sm">
+        <button id="themeToggle" class="px-3 py-1 rounded-xl border border-zinc-300 dark:border-zinc-700">라이트/다크</button>
+      </div>
+    </div>
+  </header>
 
-    // TradingView 위젯 테마를 동적으로 설정하는 함수
-    function getTradingViewTheme() {
-      return document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-    }
-  </script>
-  <style>
-    .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
-    .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-    /* TradingView 위젯 컨테이너의 높이를 반응형으로 조정 (선택 사항) */
-    .tv-wrap-ticker { height: 60px; } /* Ticker Tape은 고정 높이가 적절 */
-    .tv-wrap-events { height: 420px; } /* Events 캘린더는 고정 높이가 적절 */
-    @media (max-width: 768px) {
-      .tv-wrap-events { height: 300px;
+  <main class="max-w-6xl mx-auto p-4 space-y-4">
+        <section class="card">
+      <div class="text-lg font-semibold mb-2">주요 지수/환율 빠른 보기</div>
+      <div class="tv-wrap" style="height:60px;">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+          {
+            "symbols": [
+              {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
+              {"proName": "NASDAQ:NDX", "title": "NASDAQ 100"},
