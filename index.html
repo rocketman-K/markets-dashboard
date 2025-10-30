@@ -13,7 +13,7 @@
 </head>
 <body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
   <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
-    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
+        <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
       <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
       <div class="ml-auto flex items-center gap-2 text-sm">
         <button id="themeToggle" class="px-3 py-1 rounded-xl border border-zinc-300 dark:border-zinc-700">라이트/다크</button>
@@ -21,13 +21,13 @@
     </div>
   </header>
 
-  <main class="max-w-6xl mx-auto p-4 space-y-4">
+    <main class="max-w-6xl mx-auto p-4 space-y-4">
         <section class="card">
       <div class="text-lg font-semibold mb-2">주요 지수/환율 빠른 보기</div>
       <div class="tv-wrap" style="height:60px;">
         <div class="tradingview-widget-container">
           <div class="tradingview-widget-container__widget"></div>
-                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
           {
             "symbols": [
               {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
@@ -49,8 +49,8 @@
 
         <section class="card">
       <div class="text-lg font-semibold mb-2">리서치 & 시황 바로가기</div>
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-2 text-sm">
-                <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://markets.hankyung.com/consensus">한경 컨센서스</a>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-2 text-sm">
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://markets.hankyung.com/consensus">한경 컨센서스</a>
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://finance.naver.com/research/">네이버 증권 리서치</a>
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a>
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a>
@@ -63,8 +63,8 @@
 
         <section class="card">
       <div class="text-lg font-semibold mb-2">심리 · 포지셔닝</div>
-            <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 text-sm">
-                <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed</a>
+            <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 text-sm">
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed</a>
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.naaim.org/programs/naaim-exposure-index/">NAAIM Exposure Index</a>
         <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.aaii.com/sentimentsurvey">AAII Sentiment Survey</a>
       </div>
@@ -85,7 +85,7 @@
       <div class="tv-wrap" style="height:420px;">
         <div class="tradingview-widget-container">
           <div class="tradingview-widget-container__widget"></div>
-                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
           {
             "colorTheme": "light",
             "isTransparent": false,
@@ -101,16 +101,14 @@
     </section>
 
     <footer class="py-6 text-center text-xs opacity-70">© 개인 투자 대시보드 · 자료: TradingView</footer>
-  </main>
-
-    <script>
+  </main>     <script>
     const btn=document.getElementById('themeToggle');
     const root=document.documentElement;
     function setTheme(m){if(m==='dark'){root.classList.add('dark');localStorage.setItem('theme','dark');}else{root.classList.remove('dark');localStorage.setItem('theme','light');}}
     const saved=localStorage.getItem('theme');
     if(saved){setTheme(saved);}else{setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
     btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
-A   </script>
+  </script>
 
     <script>
     const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev";
