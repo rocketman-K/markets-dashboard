@@ -1,177 +1,373 @@
 <!DOCTYPE html>
+
 <html lang="ko">
+
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>시장 지표 대시보드</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>window.tailwind=window.tailwind||{};tailwind.config={darkMode:'class'};</script>
-  <style>
-    .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
-    .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-  </style>
+
+  <meta charset="utf-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>시장 지표 대시보드</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <script>window.tailwind=window.tailwind||{};tailwind.config={darkMode:'class'};</script>
+
+  <style>
+
+    .card { border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.08); padding: 1rem; }
+
+    .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+  </style>
+
 </head>
+
 <body class="min-h-screen bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-black dark:to-zinc-950 text-zinc-900 dark:text-zinc-100">
-  <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
-        <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
-      <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
-      <div class="ml-auto flex items-center gap-2 text-sm">
-        <button id="themeToggle" class="px-3 py-1 rounded-xl border border-zinc-300 dark:border-zinc-700">라이트/다크</button>
-      </div>
-    </div>
-  </header>
 
-    <main class="max-w-6xl mx-auto p-4 space-y-4">
-        <section class="card">
-      <div class="text-lg font-semibold mb-2">주요 지수/환율 빠른 보기</div>
-      <div class="tv-wrap" style="height:60px;">
-        <div class="tradingview-widget-container">
-          <div class="tradingview-widget-container__widget"></div>
-          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
-          {
-            "symbols": [
-              {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
-              {"proName": "NASDAQ:NDX", "title": "NASDAQ 100"},
-              {"proName": "TVC:USOIL", "title": "WTI 현물"},
-              {"proName": "FX_IDC:USDKRW", "title": "USD/KRW"},
-              {"proName": "BITSTAMP:BTCUSD", "title": "BTC/USD"}
-            ],
-            "showSymbolLogo": true,
-            "colorTheme": "light",
-            "isTransparent": false,
-            "displayMode": "adaptive",
-            "locale": "kr"
-          }
-          </script>
-        </div>
-      </div>
-    </section>
+  <header class="sticky top-0 z-50 bg-white/70 dark:bg-zinc-900/70 backdrop-blur border-b border-zinc-200/60 dark:border-zinc-800/60">
 
-        <section class="card">
-      <div class="text-lg font-semibold mb-2">리서치 & 시황 바로가기</div>
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-2 text-sm">
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://markets.hankyung.com/consensus">한경 컨센서스</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://finance.naver.com/research/">네이버 증권 리서치</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://seekingalpha.com/latest-articles">Seeking Alpha 애널리시스</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://dart.fss.or.kr/">전자공시 (DART)</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.kcif.or.kr/">KCIF 국제금융센터</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://finviz.com/">FinViz</a>
-      </div>
-    </section>
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
 
-        <section class="card">
-      <div class="text-lg font-semibold mb-2">심리 · 포지셔닝</div>
-            <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 text-sm">
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.naaim.org/programs/naaim-exposure-index/">NAAIM Exposure Index</a>
-        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700 text-center" target="_blank" href="https://www.aaii.com/sentimentsurvey">AAII Sentiment Survey</a>
-      </div>
-    </section>
+      <div class="text-xl font-bold">📊 시장 지표 대시보드</div>
 
-        <section class="card">
-      <img src="assets/buddha.jpg" alt="평안한 투자자의 마음" class="w-full h-auto block rounded-xl" loading="lazy"/>
-    </section>
+      <div class="ml-auto flex items-center gap-2 text-sm">
 
-        <section class="card">
-      <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
-      <div id="tg-wg" class="mb-4"></div>
-      <div id="tg-bloomberg"></div>
-    </section>
+        <button id="themeToggle" class="px-3 py-1 rounded-xl border border-zinc-300 dark:border-zinc-700">라이트/다크</button>
 
-        <section class="card">
-      <div class="text-lg font-semibold mb-2">이번 주 경제지표 캘린더</div>
-      <div class="tv-wrap" style="height:420px;">
-        <div class="tradingview-widget-container">
-          <div class="tradingview-widget-container__widget"></div>
-          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
-          {
-            "colorTheme": "light",
-            "isTransparent": false,
-            "width": "100%",
-            "height": "100%",
-            "locale": "kr",
-            "importanceFilter": "1",
-            "countryFilter": "us,kr,cn"
-          }
-          </script>
-        </div>
-      </div>
-    </section>
+      </div>
 
-    <footer class="py-6 text-center text-xs opacity-70">© 개인 투자 대시보드 · 자료: TradingView</footer>
-  </main>     <script>
-    const btn=document.getElementById('themeToggle');
-    const root=document.documentElement;
-    function setTheme(m){if(m==='dark'){root.classList.add('dark');localStorage.setItem('theme','dark');}else{root.classList.remove('dark');localStorage.setItem('theme','light');}}
-    const saved=localStorage.getItem('theme');
-    if(saved){setTheme(saved);}else{setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
-    btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
-  </script>
+    </div>
 
-    <script>
-    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev";
+  </header>
 
-    const FEEDS = [
-      { channel: "WatcherGuru", title: "WatcherGuru", mount: "tg-wg" },
-      { channel: "bloomberg",   title: "Bloomberg",   mount: "tg-bloomberg" }
-    ];
 
-    function fmtDate(s){ try { return new Date(s).toLocaleString('ko-KR'); } catch { return s; } }
 
-    function renderFeed({mount,title},items){
-      const el=document.getElementById(mount);
-      const getDate = (it) => new Date(it.date_published || it.pubDate || it.isoDate || 0);
-      const top=(items||[])
-        .slice()
-        .sort((a,b)=>getDate(b)-getDate(a))  // 최신순 정렬
-        .slice(0,4)                          // 4개만 표시
-        .map(it=>`
-          <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition"
-             target="_blank" href="${it.url||it.link||'#'}">
-            <div class="text-xs opacity-70">${getDate(it).toLocaleString('ko-KR')}</div>
-            <div class="font-medium my-1">${it.title||'(무제)'}</div>
-            <p class="text-sm opacity-90 line-clamp-3">${(it.content_text||it.description||'').replace(/<[^>]*>/g,'')}</p>
-          </a>
-        `).join('');
-      el.innerHTML=`
-        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
-          <div class="flex items-center justify-between p-3">
-            <div class="font-semibold">${title}</div>
-            <div class="text-xs opacity-70">via Cloudflare Worker</div>
-          </div>
-          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">${top||'<div class="p-3 text-sm opacity-70">표시할 항목이 없습니다.</div>'}</div>
-        </div>`;
-    }
+  <main class="max-w-6xl mx-auto p-4 space-y-4">
 
-    function renderError({mount,title,channel}){
-      document.getElementById(mount).innerHTML=`
-        <div class="rounded-xl border border-amber-300/60 dark:border-amber-700/60 p-3 bg-amber-50/60 dark:bg-amber-900/20">
-          <div class="font-semibold mb-1">${title}</div>
-          <p class="text-sm opacity-80 mb-2">피드를 불러오지 못했습니다.</p>
-          <a class="inline-block px-3 py-2 text-sm rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://t.me/s/${channel}">채널 열기</a>
-        </div>`;
-    }
+    <!-- 주요 지수/환율 -->
 
-    async function loadFeed({channel,title,mount}){
-      document.getElementById(mount).innerHTML = `
-        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3">
-          <div class="font-semibold mb-2">${title}</div>
-          <div class="animate-pulse h-24 rounded-lg bg-zinc-200/60 dark:bg-zinc-800/60"></div>
-        </div>`;
-      try{
-        const res = await fetch(`${WORKER_BASE}/api?ch=${encodeURIComponent(channel)}`);
-        if(!res.ok) throw new Error('fetch failed');
-        const data = await res.json();
-        const items = data?.items || data?.entry || [];
-        renderFeed({mount,title}, items);
-      }catch(e){
-        renderError({mount,title,channel});
-      }
-    }
+    <section class="card">
 
-    FEEDS.forEach(loadFeed);
-  </script>
+      <div class="text-lg font-semibold mb-2">주요 지수/환율 빠른 보기</div>
+
+      <div class="tv-wrap" style="height:60px;">
+
+        <div class="tradingview-widget-container">
+
+          <div class="tradingview-widget-container__widget"></div>
+
+          <!-- 라이트 모드 가독성 개선: colorTheme: light, isTransparent: false -->
+
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+
+          {
+
+            "symbols": [
+
+              {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
+
+              {"proName": "NASDAQ:NDX", "title": "NASDAQ 100"},
+
+              {"proName": "TVC:USOIL", "title": "WTI 현물"},
+
+              {"proName": "FX_IDC:USDKRW", "title": "USD/KRW"},
+
+              {"proName": "BITSTAMP:BTCUSD", "title": "BTC/USD"}
+
+            ],
+
+            "showSymbolLogo": true,
+
+            "colorTheme": "light",
+
+            "isTransparent": false,
+
+            "displayMode": "adaptive",
+
+            "locale": "kr"
+
+          }
+
+          </script>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- 리서치 & 시황 -->
+
+    <section class="card">
+
+      <div class="text-lg font-semibold mb-2">리서치 & 시황 바로가기</div>
+
+      <div class="flex flex-wrap gap-2 text-sm">
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://markets.hankyung.com/consensus">한경 컨센서스</a>
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://finance.naver.com/research/">네이버 증권 리서치</a>
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalUDView?dummyVal=0">키움증권 미국 시황</a>
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www1.kiwoom.com/h/invest/research/VAnalCCView?dummyVal=0">키움증권 미국/선진국 리서치</a>
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://seekingalpha.com/latest-articles">Seeking Alpha 애널리시스</a>
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://dart.fss.or.kr/">전자공시 (DART)</a>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- 심리 · 포지셔닝 -->
+
+    <section class="card">
+
+      <div class="text-lg font-semibold mb-2">심리 · 포지셔닝</div>
+
+      <div class="flex flex-wrap gap-2 text-sm">
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.cnn.com/markets/fear-and-greed">CNN Fear & Greed</a>
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.naaim.org/programs/naaim-exposure-index/">NAAIM Exposure Index</a>
+
+        <a class="px-3 py-2 rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://www.aaii.com/sentimentsurvey">AAII Sentiment Survey</a>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- 평안한 이미지 -->
+
+    <section class="card">
+
+      <img src="assets/buddha.jpg" alt="평안한 투자자의 마음" class="w-full h-auto block rounded-xl" loading="lazy"/>
+
+    </section>
+
+
+
+    <!-- 텔레그램 공식 채널 최신 메시지 -->
+
+    <section class="card">
+
+      <div class="text-lg font-semibold mb-2">텔레그램 공식 채널 최신 메시지</div>
+
+      <div id="tg-wg" class="mb-4"></div>
+
+      <div id="tg-bloomberg"></div>
+
+    </section>
+
+
+
+    <!-- 경제지표 캘린더 -->
+
+    <section class="card">
+
+      <div class="text-lg font-semibold mb-2">이번 주 경제지표 캘린더</div>
+
+      <div class="tv-wrap" style="height:420px;">
+
+        <div class="tradingview-widget-container">
+
+          <div class="tradingview-widget-container__widget"></div>
+
+          <!-- 라이트 모드 가독성 개선 -->
+
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+
+          {
+
+            "colorTheme": "light",
+
+            "isTransparent": false,
+
+            "width": "100%",
+
+            "height": "100%",
+
+            "locale": "kr",
+
+            "importanceFilter": "1",
+
+            "countryFilter": "us,kr,cn"
+
+          }
+
+          </script>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <footer class="py-6 text-center text-xs opacity-70">© 개인 투자 대시보드 · 자료: TradingView</footer>
+
+  </main>
+
+
+
+  <!-- 테마 토글 -->
+
+  <script>
+
+    const btn=document.getElementById('themeToggle');
+
+    const root=document.documentElement;
+
+    function setTheme(m){if(m==='dark'){root.classList.add('dark');localStorage.setItem('theme','dark');}else{root.classList.remove('dark');localStorage.setItem('theme','light');}}
+
+    const saved=localStorage.getItem('theme');
+
+    if(saved){setTheme(saved);}else{setTheme(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}
+
+    btn.addEventListener('click',()=>{setTheme(root.classList.contains('dark')?'light':'dark');});
+
+  </script>
+
+
+
+  <!-- 텔레그램 피드 로딩 -->
+
+  <script>
+
+    const WORKER_BASE = "https://wo-de-telegram-proxy.snupil38kor.workers.dev";
+
+
+
+    const FEEDS = [
+
+      { channel: "WatcherGuru", title: "WatcherGuru", mount: "tg-wg" },
+
+      { channel: "bloomberg",   title: "Bloomberg",   mount: "tg-bloomberg" }
+
+    ];
+
+
+
+    function fmtDate(s){ try { return new Date(s).toLocaleString('ko-KR'); } catch { return s; } }
+
+
+
+    function renderFeed({mount,title},items){
+
+      const el=document.getElementById(mount);
+
+      const getDate = (it) => new Date(it.date_published || it.pubDate || it.isoDate || 0);
+
+      const top=(items||[])
+
+        .slice()
+
+        .sort((a,b)=>getDate(b)-getDate(a))  // 최신순 정렬
+
+        .slice(0,4)                          // 4개만 표시
+
+        .map(it=>`
+
+          <a class="block rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3 hover:bg-zinc-100/60 dark:hover:bg-zinc-800/40 transition"
+
+             target="_blank" href="${it.url||it.link||'#'}">
+
+            <div class="text-xs opacity-70">${getDate(it).toLocaleString('ko-KR')}</div>
+
+            <div class="font-medium my-1">${it.title||'(무제)'}</div>
+
+            <p class="text-sm opacity-90 line-clamp-3">${(it.content_text||it.description||'').replace(/<[^>]*>/g,'')}</p>
+
+          </a>
+
+        `).join('');
+
+      el.innerHTML=`
+
+        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60">
+
+          <div class="flex items-center justify-between p-3">
+
+            <div class="font-semibold">${title}</div>
+
+            <div class="text-xs opacity-70">via Cloudflare Worker</div>
+
+          </div>
+
+          <div class="grid md:grid-cols-2 gap-2 p-3 pt-0">${top||'<div class="p-3 text-sm opacity-70">표시할 항목이 없습니다.</div>'}</div>
+
+        </div>`;
+
+    }
+
+
+
+    function renderError({mount,title,channel}){
+
+      document.getElementById(mount).innerHTML=`
+
+        <div class="rounded-xl border border-amber-300/60 dark:border-amber-700/60 p-3 bg-amber-50/60 dark:bg-amber-900/20">
+
+          <div class="font-semibold mb-1">${title}</div>
+
+          <p class="text-sm opacity-80 mb-2">피드를 불러오지 못했습니다.</p>
+
+          <a class="inline-block px-3 py-2 text-sm rounded-xl border border-zinc-300 dark:border-zinc-700" target="_blank" href="https://t.me/s/${channel}">채널 열기</a>
+
+        </div>`;
+
+    }
+
+
+
+    async function loadFeed({channel,title,mount}){
+
+      document.getElementById(mount).innerHTML = `
+
+        <div class="rounded-xl border border-zinc-200/60 dark:border-zinc-800/60 p-3">
+
+          <div class="font-semibold mb-2">${title}</div>
+
+          <div class="animate-pulse h-24 rounded-lg bg-zinc-200/60 dark:bg-zinc-800/60"></div>
+
+        </div>`;
+
+      try{
+
+        const res = await fetch(`${WORKER_BASE}/api?ch=${encodeURIComponent(channel)}`);
+
+        if(!res.ok) throw new Error('fetch failed');
+
+        const data = await res.json();
+
+        const items = data?.items || data?.entry || [];
+
+        renderFeed({mount,title}, items);
+
+      }catch(e){
+
+        renderError({mount,title,channel});
+
+      }
+
+    }
+
+
+
+    FEEDS.forEach(loadFeed);
+
+  </script>
+
 </body>
+
 </html>
