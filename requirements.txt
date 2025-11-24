@@ -1,0 +1,5 @@
+google-generativeai
+yfinance
+pytz
+playwright
+beautifulsoup4
