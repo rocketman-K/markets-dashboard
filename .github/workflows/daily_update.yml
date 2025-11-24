@@ -4,8 +4,8 @@ on:
   schedule:
     # UTC 09:00 ~ 23:00 (KST 18:00 ~ 08:00) 매 시간 정각
     - cron: '0 9-23 * * *'
-    # UTC 23:30 (KST 08:30) 마지막 브리핑
-    - cron: '30 23 * * *'
+    # UTC 00:00 (KST 09:00) 오전 마지막 업데이트
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
