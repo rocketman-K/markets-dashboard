@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 25일 21:19",
+  "date": "2025년 11월 25일 22:27",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,705.12 (+1.55%)\nNASDAQ: 22,872.01 (+2.69%)\nKOSPI: 3,857.78 (+0.30%)\nUSD/KRW: 1,465.93 (-0.12%)",
+  "market_data": "S&P 500: 6,705.12 (+1.55%)\nNASDAQ: 22,872.01 (+2.69%)\nKOSPI: 3,857.78 (+0.30%)\nUSD/KRW: 1,464.73 (-0.20%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 어플라이드 머티어리얼즈, WFE 시장 성장에 따라 전망 밝아 - UBS                                                                        *연합인포맥스*UBS의 애널리스트는 ‘26~’27년 WFE 시장 성장 전망을 바탕으로 어플라이드 머티어리얼즈(NAS: AMAT)의 실적도 기대할 수 있...\n---\n제목 : [실적 속보] 포니 AI, 로보택시 성장세 주목받으며 상승                                                                                 *연합인포맥스*포니 AI(NAS: PONY)는 ‘25년 3분기 실적을 다음과 같이 발표했다.   ▲ 매출 2,544만 달러(+72% YoY)를 기록...\n---\n제목 : [실적 속보] 알리바바, 인공지능과 클라우드 성장세 주목받으며 상승                                                                     *연합인포맥스*알리바바(NYS: BABA)는 FY25 2분기(7~9월) 실적을 다음과 같이 발표했다.   ▲ 매출 2,478억 위안(+5% YoY)를 기록했다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$89,000@Bitcoin_Price\n---\n$89,000 Bitcoin Today vs Last Week@WatcherGuru\n---\n$89,000 Bitcoin Today vs Last Week@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 포니 AI, 로보택시 성장세 주목받으며 상승                                                                                 *연합인포맥스*포니 AI(NAS: PONY)는 ‘25년 3분기 실적을 다음과 같이 발표했다.   ▲ 매출 2,544만 달러(+72% YoY)를 기록...\n---\n제목 : [실적 속보] 알리바바, 인공지능과 클라우드 성장세 주목받으며 상승                                                                     *연합인포맥스*알리바바(NYS: BABA)는 FY25 2분기(7~9월) 실적을 다음과 같이 발표했다.   ▲ 매출 2,478억 위안(+5% YoY)를 기록했다....\n---\n제목 : [실적 속보] 베스트 바이, 가이던스 상향 이루어지며 상승                                                                               *연합인포맥스*베스트 바이(NAS: BBY)는 FY26 3분기(8~10월) 실적을 다음과 같이 발표했다.   ▲ 매출 96.7억 달러(+2.3% YoY...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$89,000@Bitcoin_Price\n---\n$89,000 Bitcoin Today vs Last Week@WatcherGuru\n---\n$89,000 Bitcoin Today vs Last Week@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
