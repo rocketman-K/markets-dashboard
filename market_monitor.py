@@ -16,32 +16,44 @@ if not API_KEY:
 if API_KEY != "DUMMY":
     genai.configure(api_key=API_KEY)
     
-    # 모델 순차 시도 (Fallback)
+    # 1. 사용 가능한 모델 목록 조회 및 자동 선택
     model = None
-    candidate_models = ['gemini-1.5-flash', 'gemini-pro', 'gemini-1.0-pro']
-    
-    for model_name in candidate_models:
-        try:
-            print(f"모델 연결 시도: {model_name}...")
-            test_model = genai.GenerativeModel(model_name)
-            # 간단한 테스트로 모델 존재 여부 확인 (실제 호출은 아님)
-            model = test_model
-            print(f"모델 선택 완료: {model_name}")
-            break
-        except Exception as e:
-            print(f"모델 {model_name} 연결 실패: {e}")
-            continue
-    
-    if model is None:
-        print("모든 모델 연결 실패. 사용 가능한 모델 목록을 확인합니다.")
-        try:
-            for m in genai.list_models():
-                if 'generateContent' in m.supported_generation_methods:
-                    print(f"사용 가능 모델: {m.name}")
-            # 기본값으로 gemini-pro 설정 (오류가 나더라도 객체는 생성)
-            model = genai.GenerativeModel('gemini-pro')
-        except Exception as e:
-            print(f"모델 목록 조회 실패: {e}")
+    try:
+        available_models = []
+        for m in genai.list_models():
+            if 'generateContent' in m.supported_generation_methods:
+                available_models.append(m.name)
+        
+        print(f"사용 가능 모델 목록: {available_models}")
+        
+        # 우선순위: 1.5-flash -> pro -> 1.0-pro -> 아무거나
+        target_model_name = None
+        
+        # models/ 접두사 처리
+        priority_keywords = ['gemini-1.5-flash', 'gemini-pro', 'gemini-1.0-pro']
+        
+        for keyword in priority_keywords:
+            for m_name in available_models:
+                if keyword in m_name:
+                    target_model_name = m_name
+                    break
+            if target_model_name:
+                break
+        
+        # 우선순위 모델이 없으면 목록의 첫 번째 선택
+        if not target_model_name and available_models:
+            target_model_name = available_models[0]
+            
+        if target_model_name:
+            print(f"최종 선택된 모델: {target_model_name}")
+            model = genai.GenerativeModel(target_model_name)
+        else:
+            print("사용 가능한 텍스트 생성 모델을 찾을 수 없습니다.")
+            
+    except Exception as e:
+        print(f"모델 목록 조회 중 오류: {e}")
+        # 최후의 수단으로 기본값 시도
+        model = genai.GenerativeModel('gemini-pro')
 
 # 2. 시간대 판단 함수
 def is_overnight_session():
