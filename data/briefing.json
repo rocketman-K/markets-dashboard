@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 25일 08:09",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,705.12 (+1.55%)\nNASDAQ: 22,872.01 (+2.69%)\nKOSPI: 3,846.06 (-0.19%)\nUSD/KRW: 1,475.87 (+0.18%)\nBitcoin: 88,555.38 (+2.02%)",
+  "date": "2025년 11월 25일 10:18",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,705.12 (+1.55%)\nNASDAQ: 22,872.01 (+2.69%)\nKOSPI: 3,912.18 (변동폭 계산 불가)\nUSD/KRW: 1,472.48 (+0.32%)\nBitcoin: 88,121.12 (변동폭 계산 불가)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략/주식 김승혁/조민주]🌏US Daily (11/25)(11/24 종가기준)- 주요 지수 수익률S&P500 6,705.12 / 1.55%NASDAQ 종합 22,872.01 / 2.69%다우산업 46,448.27 / 0.44%러셀2000 2,414.28 / 1.89%필라델피아 반도체 6,703.20 / 4.63%- 섹터별 수익률High 3: 자동...\n---\n[키움 글로벌 ETF 김진영]New ETF Line-Up (11/25)▲ ETF 6종 신규 상장① KoAct 글로벌K컬처밸류체인액티브 (0132D0)- 국내 대표 K컬처 기업 및 글로벌 플랫폼 등 K컬처와 간접적 연관이 있는 미국 상장 기업을 50:50으로 편입한 지수를 비교지수로 하는 액티브 ETF② SOL 차이나소비트렌드 (0131A0)- 중국의 MZ세...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (11/25)(11/24 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 2.56%SPY 1.47%DIA 0.40%IWM 1.83%*미국 상승 업종XLK (기술) 2.38%XLY (경기 소비재) 1.33%XLU (유틸리티) 1.13%XLC (통신서비스) ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$89,000@Bitcoin_Price\n---\n$89,000 Bitcoin Today vs Last Week@WatcherGuru\n---\n$89,000 Bitcoin Today vs Last Week@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "API 키가 설정되지 않아 AI 요약을 생성할 수 없습니다."
 }
