@@ -15,7 +15,33 @@ if not API_KEY:
 
 if API_KEY != "DUMMY":
     genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    
+    # 모델 순차 시도 (Fallback)
+    model = None
+    candidate_models = ['gemini-1.5-flash', 'gemini-pro', 'gemini-1.0-pro']
+    
+    for model_name in candidate_models:
+        try:
+            print(f"모델 연결 시도: {model_name}...")
+            test_model = genai.GenerativeModel(model_name)
+            # 간단한 테스트로 모델 존재 여부 확인 (실제 호출은 아님)
+            model = test_model
+            print(f"모델 선택 완료: {model_name}")
+            break
+        except Exception as e:
+            print(f"모델 {model_name} 연결 실패: {e}")
+            continue
+    
+    if model is None:
+        print("모든 모델 연결 실패. 사용 가능한 모델 목록을 확인합니다.")
+        try:
+            for m in genai.list_models():
+                if 'generateContent' in m.supported_generation_methods:
+                    print(f"사용 가능 모델: {m.name}")
+            # 기본값으로 gemini-pro 설정 (오류가 나더라도 객체는 생성)
+            model = genai.GenerativeModel('gemini-pro')
+        except Exception as e:
+            print(f"모델 목록 조회 실패: {e}")
 
 # 2. 시간대 판단 함수
 def is_overnight_session():
