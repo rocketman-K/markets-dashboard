@@ -15,7 +15,7 @@ if not API_KEY:
 
 if API_KEY != "DUMMY":
     genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel('gemini-pro')
+    model = genai.GenerativeModel('gemini-1.5-flash')
 
 # 2. 시간대 판단 함수
 def is_overnight_session():
