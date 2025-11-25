@@ -58,8 +58,7 @@ def fetch_market_data():
         "S&P 500": "^GSPC",
         "NASDAQ": "^IXIC",
         "KOSPI": "^KS11",
-        "USD/KRW": "KRW=X",
-        "Bitcoin": "BTC-USD"
+        "USD/KRW": "KRW=X"
     }
     
     data_summary = []
