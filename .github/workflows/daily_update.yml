@@ -2,10 +2,13 @@ name: Real-time Market Monitor
 
 on:
   schedule:
-    # UTC 09:00 ~ 23:00 (KST 18:00 ~ 08:00) 매 시간 정각
+    # 1. 야간 세션 (KST 18:00 ~ 08:00): 매 시간 정각 실행 (총 15회)
+    # UTC 09:00 ~ 23:00
     - cron: '0 9-23 * * *'
-    # UTC 00:00 (KST 09:00) 오전 마지막 업데이트
-    - cron: '0 0 * * *'
+    
+    # 2. 주간 세션 (KST 09:00 ~ 17:59): 3시간 간격 실행 (총 3회)
+    # UTC 00:00 (KST 09:00), UTC 03:00 (KST 12:00), UTC 06:00 (KST 15:00)
+    - cron: '0 0,3,6 * * *'
   workflow_dispatch:
 
 jobs:
