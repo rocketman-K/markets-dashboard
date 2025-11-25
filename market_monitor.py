@@ -16,44 +16,13 @@ if not API_KEY:
 if API_KEY != "DUMMY":
     genai.configure(api_key=API_KEY)
     
-    # 1. 사용 가능한 모델 목록 조회 및 자동 선택
-    model = None
+    # 가장 기본 모델 사용 (안전 제일)
     try:
-        available_models = []
-        for m in genai.list_models():
-            if 'generateContent' in m.supported_generation_methods:
-                available_models.append(m.name)
-        
-        print(f"사용 가능 모델 목록: {available_models}")
-        
-        # 우선순위: 1.5-flash -> pro -> 1.0-pro -> 아무거나
-        target_model_name = None
-        
-        # models/ 접두사 처리
-        priority_keywords = ['gemini-1.5-flash', 'gemini-pro', 'gemini-1.0-pro']
-        
-        for keyword in priority_keywords:
-            for m_name in available_models:
-                if keyword in m_name:
-                    target_model_name = m_name
-                    break
-            if target_model_name:
-                break
-        
-        # 우선순위 모델이 없으면 목록의 첫 번째 선택
-        if not target_model_name and available_models:
-            target_model_name = available_models[0]
-            
-        if target_model_name:
-            print(f"최종 선택된 모델: {target_model_name}")
-            model = genai.GenerativeModel(target_model_name)
-        else:
-            print("사용 가능한 텍스트 생성 모델을 찾을 수 없습니다.")
-            
-    except Exception as e:
-        print(f"모델 목록 조회 중 오류: {e}")
-        # 최후의 수단으로 기본값 시도
         model = genai.GenerativeModel('gemini-pro')
+        print("모델 설정 완료: gemini-pro")
+    except Exception as e:
+        print(f"모델 설정 실패: {e}")
+        model = None
 
 # 2. 시간대 판단 함수
 def is_overnight_session():
