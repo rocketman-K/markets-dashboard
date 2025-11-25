@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 25일 10:54",
+  "date": "2025년 11월 25일 11:10",
   "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,705.12 (+1.55%)\nNASDAQ: 22,872.01 (+2.69%)\nKOSPI: 3,892.13 (변동폭 계산 불가)\nUSD/KRW: 1,473.08 (+0.36%)\nBitcoin: 87,773.99 (변동폭 계산 불가)",
+  "market_data": "S&P 500: 6,705.12 (+1.55%)\nNASDAQ: 22,872.01 (+2.69%)\nKOSPI: 3,879.11 (변동폭 계산 불가)\nUSD/KRW: 1,472.58 (+0.33%)\nBitcoin: 87,766.92 (변동폭 계산 불가)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
   "telegram_data": null,
   "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
-  "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  "briefing": "AI 분석 중 오류 발생: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
