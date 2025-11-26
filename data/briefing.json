@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 27일 03:13",
+  "date": "2025년 11월 27일 04:08",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,820.80 (+0.81%)\nNASDAQ: 23,232.38 (+0.90%)\nKOSPI: 3,960.87 (+2.67%)\nUSD/KRW: 1,468.73 (-0.42%)",
+  "market_data": "S&P 500: 6,820.10 (+0.80%)\nNASDAQ: 23,025.59 (변동폭 계산 불가)\nKOSPI: 3,960.87 (+2.67%)\nUSD/KRW: 1,468.86 (-0.41%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 월마트, AI 쇼핑봇 ‘스파키’에 광고 도입 테스트  WSJ                                                                                 *연합인포맥스*월스트릿저널은 “월마트(NYS: WMT)가 자사 새로운 AI 쇼핑 에이전트 ‘스파키’에서 광고 테스트를 진행하고 있다. 이러한 시도...\n---\n제목 : [실적속보] 디어, FY26 가이던스 부진…주가 급락                                                                                       *연합인포맥스*디어(NYS: DE)는 FY25 4분기(’25년 8~10월) 영업실적을 다음과 같이 발표했다.   ▲ 매출 123.9억 달러(전...\n---\n제목 : 브로드컴, AI 매출 급증 기대  GS                                                                                                      *연합인포맥스*골드만삭스는 브로드컴(NAS: AVGO)에 대한 투자의견을 매수로 유지했고, 목표주가는 380달러에서 425달러로 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:JPMorgan says the S&P 500 could reach 8,000 in 2026.@WatcherGuru\n---\nJUST IN:JPMorgan says the S&P 500 could reach 8,000 in 2026.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $90,000@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 월마트, AI 쇼핑봇 ‘스파키’에 광고 도입 테스트  WSJ                                                                                 *연합인포맥스*월스트릿저널은 “월마트(NYS: WMT)가 자사 새로운 AI 쇼핑 에이전트 ‘스파키’에서 광고 테스트를 진행하고 있다. 이러한 시도...\n---\n제목 : [실적속보] 디어, FY26 가이던스 부진…주가 급락                                                                                       *연합인포맥스*디어(NYS: DE)는 FY25 4분기(’25년 8~10월) 영업실적을 다음과 같이 발표했다.   ▲ 매출 123.9억 달러(전...\n---\n제목 : 브로드컴, AI 매출 급증 기대  GS                                                                                                      *연합인포맥스*골드만삭스는 브로드컴(NAS: AVGO)에 대한 투자의견을 매수로 유지했고, 목표주가는 380달러에서 425달러로 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor says \"Bitcoin volatility is a feature, not a bug.\"@WatcherGuru\n---\nJUST IN:$USDT issuer Tether becomes largest independent holder of Gold in the world, FT reports.@WatcherGuru\n---\nJUST IN:$USDT issuer Tether becomes largest independent holder of Gold in the world, FT reports.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
