@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 28일 08:09",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,812.61 (+0.69%)\nNASDAQ: 23,214.69 (+0.82%)\nKOSPI: 3,986.91 (+0.66%)\nUSD/KRW: 1,462.31 (-0.18%)",
+  "date": "2025년 11월 28일 11:01",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,812.61 (+0.69%)\nNASDAQ: 23,214.69 (+0.82%)\nKOSPI: 3,943.07 (-1.10%)\nUSD/KRW: 1,465.07 (-0.38%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 WM부문 안석훈 부장매일 아침 7시 채널K글로벌에서전하는 뉴욕증시 브리핑 (2025.11.26 미국 기준)“금리인하 기대 확산에 4일째 강세! 알파벳은 -1%?”- 지수 : 강세 출발 후 등락.. 곧이어 상승폭 확대*다우 +0.67%, 나스닥 +0.82%*S&P500 +0.69%, 러셀2000 +0.82%*반도체지수 +2.76%, 비트코인 +2.9...\n---\nhttps://www.youtube.com/live/cnUO5vwQkBc?si=lXf0imsI7f9FPCcu\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (11/27)(11/26 종가기준)美 추수감사절 휴장(Daily News)▶Global X unveils Quantum Computing ETF- Global X, 27일(현지시간) 유럽 증시에 양자컴퓨팅 테마 ETF 'Global X AI Semiconductor & Quantum UCITS E...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:JPMorgan expects the Federal Reserve to cut interest rates in December.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $91,000.@WatcherGuru\n---\nBitcoin Price on Thanksgiving🦃2010: $0.282011: $2.492012: $12.512013: $8132014: $3762015: $3282016: $7392017: $8,7712018: $4,0152019: $7,1502020: $18,7642021: $58,9272022 $16,3532023: $37,0352024: $95...",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
