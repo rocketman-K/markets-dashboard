@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 28일 15:41",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,812.61 (+0.69%)\nNASDAQ: 23,214.69 (+0.82%)\nKOSPI: 3,927.73 (-1.48%)\nUSD/KRW: 1,470.10 (-0.03%)",
+  "date": "2025년 11월 28일 18:11",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,812.61 (+0.69%)\nNASDAQ: 23,214.69 (+0.82%)\nKOSPI: 3,926.59 (-1.51%)\nUSD/KRW: 1,470.61 (+0.00%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]ALPS Medical Breakthroughs ETF (SBIO.US) - 바이오텍, 돌아오는 온기▶FDA 임상 2~3상 신약후보를 1개 이상 보유한 美 상장 바이오텍에 투자▶美 금리인하와 함께 M&A 시장 활성화, FDA 신약 승인을 둘러싼 기대 개선 중▶바이오텍 산업은 이벤트에 따른 개별종목 변동성이 높아 ETF로 분산투자...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 11월 4주차자료링크:https://bbn.kiwoom.com/rfCA302더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 11월 4주차자료링크:https://bbn.kiwoom.com/rfCA302더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/...\n\n[WatcherGuru (@WatcherGuru)]\nBitcoin Price on Thanksgiving🦃2010: $0.282011: $2.492012: $12.512013: $8132014: $3762015: $3282016: $7392017: $8,7712018: $4,0152019: $7,1502020: $18,7642021: $58,9272022 $16,3532023: $37,0352024: $95...\n---\nJUST IN:🇺🇸President Trump says US may \"completely\" cut income tax due to tariff revenue.@WatcherGuru\n---\nJUST IN:$15,400,000,000 worth of Bitcoin & Ethereum options expire today.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
