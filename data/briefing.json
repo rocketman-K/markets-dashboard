@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 28일 23:10",
+  "date": "2025년 11월 29일 00:10",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,812.61 (+0.69%)\nNASDAQ: 23,214.69 (+0.82%)\nKOSPI: 3,926.59 (-1.51%)\nUSD/KRW: 1,470.10 (-0.03%)",
+  "market_data": "S&P 500: 6,829.50 (+0.25%)\nNASDAQ: 23,276.29 (+0.27%)\nKOSPI: 3,926.59 (-1.51%)\nUSD/KRW: 1,468.13 (-0.17%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 WM부문 안석훈 부장매일 밤 9시 네이버 블로그에서전하는 뉴욕증시 프리뷰 (2025.11.28)\"시카고상품거래소 마비.. 알 수 없는 11월의 마지막 거래일\"https://blog.naver.com/101ancha/224091580649#뉴욕증시#장전시황#CME#NVDA#GOOGL\n---\n제목 : 줌, 실적 개선·AI 전략 성과로 PT 상향 - 제프리스 외                                                                                  *연합인포맥스*줌 커뮤니케이션스(NYS: ZM)가 FY26 3분기(’25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은...\n---\n제목 : 애버크롬비, 3분기 호실적으로 연말 소비 수혜 기대 - 바클레이즈 외                                                                     *연합인포맥스*애버크롬비 앤드 피치(NYS: ANF)가 FY25 3분기(‘25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$15,400,000,000 worth of Bitcoin & Ethereum options expire today.@WatcherGuru\n---\nJUST IN:$92,000 Bitcoin@WatcherGuru\n---\nJUST IN:$92,000 Bitcoin@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 애버크롬비, 3분기 호실적으로 연말 소비 수혜 기대 - 바클레이즈 외                                                                     *연합인포맥스*애버크롬비 앤드 피치(NYS: ANF)가 FY25 3분기(‘25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 ...\n---\n제목 : 워크데이, M&A 효과 제외 시 성장 정체 지속 - 스티펄 외                                                                                *연합인포맥스*워크데이(NAS: WDAY)가 FY26 3분기(‘25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과...\n---\n제목 : 오라클, 컨소시엄과 대규모 차입 협의…프리마켓 약세                                                                                   *연합인포맥스*씨킹알파는 “은행 및 대출기관들로 구성된 컨소시엄이 오라클(NYS: ORCL)과 밴티지 데이터 센터(하이퍼스케일 데이터센터를 설계&mid...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Silver reaches new all-time high of $55.@WatcherGuru\n---\nJUST IN:Silver reaches new all-time high of $55.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says he will keep the stock market at \"all-time highs.\"@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
