@@ -1,9 +1,9 @@
 {
-  "date": "2025년 11월 29일 08:09",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,849.09 (+0.54%)\nNASDAQ: 23,365.69 (+0.65%)\nKOSPI: 3,926.59 (-1.51%)\nUSD/KRW: 1,467.32 (-0.22%)",
+  "date": "2025년 11월 29일 11:00",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,849.09 (+0.54%)\nNASDAQ: 23,365.69 (+0.65%)\nKOSPI: 3,926.59 (-1.51%)\nUSD/KRW: 1,461.40 (-0.62%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 워크데이, M&A 효과 제외 시 성장 정체 지속 - 스티펄 외                                                                                *연합인포맥스*워크데이(NAS: WDAY)가 FY26 3분기(‘25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과...\n---\n제목 : 오라클, 컨소시엄과 대규모 차입 협의…프리마켓 약세                                                                                   *연합인포맥스*씨킹알파는 “은행 및 대출기관들로 구성된 컨소시엄이 오라클(NYS: ORCL)과 밴티지 데이터 센터(하이퍼스케일 데이터센터를 설계&mid...\n---\n제목 : 알파벳, EU에서 MS 상대 반독점 신고 철회                                                                                              *연합인포맥스*씨킹알파는 “알파벳(NAS: GOOG, GOOGL)이 28일(금), 유럽연합(EU)에서 마이크로소프트(NAS: MSFT)의...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Odds of the Federal Reserve cutting interest rates by 25 bps in December rise to 87% on Polymarket.@WatcherGuru\n---\nJUST IN:🇺🇸Odds of the Federal Reserve cutting interest rates by 25 bps in December rise to 87% on Polymarket.@WatcherGuru\n---\nJUST IN:🇬🇧UK Government to crackdown on crypto tax avoidance in 2026.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
