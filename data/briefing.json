@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 01일 22:28",
+  "date": "2025년 12월 01일 23:11",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,849.09 (+0.54%)\nNASDAQ: 23,365.69 (+0.65%)\nKOSPI: 3,920.37 (-0.16%)\nUSD/KRW: 1,465.97 (+0.31%)",
+  "market_data": "S&P 500: 6,849.09 (+0.54%)\nNASDAQ: 23,365.69 (+0.65%)\nKOSPI: 3,920.37 (-0.16%)\nUSD/KRW: 1,466.09 (+0.32%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 WM부문 안석훈 부장매일 밤 9시 네이버 블로그에서전하는 뉴욕증시 프리뷰 (2025.12.01)\"12월의 첫거래일 맞아 하락세.. 쿠팡 -7.4%\"https://blog.naver.com/101ancha/224094682835#뉴욕증시#장전시황#CyberMonday#CPNG#BA\n---\n제목 : 브로드컴, TPU 성장 잠재력 주목해야 - MS                                                                                              *연합인포맥스*모간스탠리의 Joseph Moore 애널리스트는 TPU에 대한 관심이 커지면서, 브로드컴(NAS: AVGO) 커스텀 AS...\n---\n제목 : 일라이 릴리, 노보 노디스크에 이어 젭바운드 가격인하 발표                                                                             *연합인포맥스*CNBC는 일라이 릴리(NYS: LLY)가 젭바운드의 DTC 채널 가격을 인하한다고 보도했다.   “일라이 릴리는 자사의 DTC 채널인 Li...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $85,000.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 130 Bitcoin worth $11.7 million.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' now holds 650,000 Bitcoin worth $55.8 billion.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 브로드컴, TPU 성장 잠재력 주목해야 - MS                                                                                              *연합인포맥스*모간스탠리의 Joseph Moore 애널리스트는 TPU에 대한 관심이 커지면서, 브로드컴(NAS: AVGO) 커스텀 AS...\n---\n제목 : 일라이 릴리, 노보 노디스크에 이어 젭바운드 가격인하 발표                                                                             *연합인포맥스*CNBC는 일라이 릴리(NYS: LLY)가 젭바운드의 DTC 채널 가격을 인하한다고 보도했다.   “일라이 릴리는 자사의 DTC 채널인 Li...\n---\n제목 : [개장 전 특징주] 시놉시스, 엔비디아로부터 투자 받으며 상승                                                                           *연합인포맥스*▲ 시놉시스(NAS: SNPS): 엔비디아(NAS: NVDA)가 동사에 20억 달러를 투자한다고 발표했다. 프리마켓에서 7.1% 상승하고 있...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $85,000.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 130 Bitcoin worth $11.7 million.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' now holds 650,000 Bitcoin worth $55.8 billion.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
