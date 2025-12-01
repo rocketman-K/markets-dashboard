@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 02일 00:11",
+  "date": "2025년 12월 02일 01:14",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,824.15 (-0.36%)\nNASDAQ: 23,262.90 (-0.44%)\nKOSPI: 3,920.37 (-0.16%)\nUSD/KRW: 1,466.29 (+0.33%)",
+  "market_data": "S&P 500: 6,821.64 (-0.40%)\nNASDAQ: 23,248.43 (-0.50%)\nKOSPI: 3,920.37 (-0.16%)\nUSD/KRW: 1,467.08 (+0.39%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [개장 전 특징주] 시놉시스, 엔비디아로부터 투자 받으며 상승                                                                           *연합인포맥스*▲ 시놉시스(NAS: SNPS): 엔비디아(NAS: NVDA)가 동사에 20억 달러를 투자한다고 발표했다. 프리마켓에서 7.1% 상승하고 있...\n---\n제목 : 12월 1일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 엔비디아(NAS: NVDA): 시포트 리서치는 경쟁 리스크가 언급되고 있으며 특히 ‘26년에 리스크가 확대될 수 있다...\n---\n제목 : 알파벳, ‘26~’27년 성장세 가속 기대할 수 있어  구겐하임                                                                             *연합인포맥스*구겐하임의 Michael Morris 애널리스트는 알파벳(NAS: GOOGL, GOOG)이 ‘26~’27년에도 강력한 성장세를 구가할 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $85,000.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 130 Bitcoin worth $11.7 million.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' now holds 650,000 Bitcoin worth $55.8 billion.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [개장 전 특징주] 시놉시스, 엔비디아로부터 투자 받으며 상승                                                                           *연합인포맥스*▲ 시놉시스(NAS: SNPS): 엔비디아(NAS: NVDA)가 동사에 20억 달러를 투자한다고 발표했다. 프리마켓에서 7.1% 상승하고 있...\n---\n제목 : 12월 1일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 엔비디아(NAS: NVDA): 시포트 리서치는 경쟁 리스크가 언급되고 있으며 특히 ‘26년에 리스크가 확대될 수 있다...\n---\n제목 : 알파벳, ‘26~’27년 성장세 가속 기대할 수 있어  구겐하임                                                                             *연합인포맥스*구겐하임의 Michael Morris 애널리스트는 알파벳(NAS: GOOGL, GOOG)이 ‘26~’27년에도 강력한 성장세를 구가할 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Solana $SOL falls under $125.@WatcherGuru\n---\nJUST IN:Solana $SOL falls under $125.@WatcherGuru\n---\nJUST IN:$800,000,000 worth of crypto longs liquidated in the past 24 hours.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
