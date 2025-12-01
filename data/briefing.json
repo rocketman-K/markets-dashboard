@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 01일 15:44",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,849.09 (+0.54%)\nNASDAQ: 23,365.69 (+0.65%)\nKOSPI: 3,917.08 (-0.24%)\nUSD/KRW: 1,468.88 (+0.51%)",
+  "date": "2025년 12월 01일 18:17",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,849.09 (+0.54%)\nNASDAQ: 23,365.69 (+0.65%)\nKOSPI: 3,920.37 (-0.16%)\nUSD/KRW: 1,469.39 (+0.55%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 오토데스크, FY27 성장 신호 긍정적 - UBS 외                                                                                           *연합인포맥스*오토데스크(NAS: ADSK)가 FY26 3분기(8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다...\n---\n제목 : 디어, 관세 충격에도 재고 개선 - RBC 외                                                                                               *연합인포맥스*디어(NYS: DE)가 FY25 4분기(’25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다...\n---\n[키움 자동차 신윤철]토요타 모터스(TM.US): 미국 자동차 3대장 RAV4, 2026년형부터 hybrid-only◎6세대 RAV4 풀체인지 출시로 강력한 신차 사이클 예고- 25년형 RAV4는 풀체인지 앞둔 노후화 모델임에도 미국에서 10월 누계 기준 39.8만대(+2.1% YoY) 기록하며 Ford F-Series: 64.0만대(+12.5% YoY),...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $87,000.@WatcherGuru\n---\nJUST IN:$140,000,000,000 wiped out from the crypto market cap in the past 4 hours.@WatcherGuru\n---\nJUST IN:Bitcoin falls under $86,000.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
