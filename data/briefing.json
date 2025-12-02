@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 02일 08:10",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,812.63 (-0.53%)\nNASDAQ: 23,275.92 (-0.38%)\nKOSPI: 3,920.37 (-0.16%)\nUSD/KRW: 1,471.18 (+0.67%)",
+  "date": "2025년 12월 02일 11:06",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,812.63 (-0.53%)\nNASDAQ: 23,275.92 (-0.38%)\nKOSPI: 3,975.69 (+1.41%)\nUSD/KRW: 1,469.41 (+0.26%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/QR2a96vjTiw?si=It7WTzfOkSywMnVA\n---\n[키움 미국전략/주식 김승혁/조민주]🌏US Daily (12/2)(12/1 종가기준)- 주요 지수 수익률S&P500 6,812.63 / -0.53%NASDAQ 종합 23,275.92 / -0.38%다우산업 47,289.33 / -0.90%러셀2000 2,469.13 / -1.25%필라델피아 반도체 7,020.53 / -0.07%- 섹터별 수익률High 3:...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (12/2)(12/1 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.34%SPY -0.46%DIA -0.81%IWM -1.26%*미국 상승 업종XLE (에너지) 0.96%XLY (경기 소비재) 0.06%XLK (기술) 0.05%*미국 하락 업종XL...\n\n[WatcherGuru (@WatcherGuru)]\nHow it started vs How it's going@WatcherGuru\n---\nJUST IN:🇺🇸Federal Reserve Vice Chair Michelle Bowman says bank regulators are working on crypto stablecoin rules.@WatcherGuru\n---\nJUST IN:Apple $AAPL Artificial Intelligence Chief resigns.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
