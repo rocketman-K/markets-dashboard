@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 02일 15:42",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,812.63 (-0.53%)\nNASDAQ: 23,275.92 (-0.38%)\nKOSPI: 3,989.90 (+1.77%)\nUSD/KRW: 1,468.27 (+0.18%)",
+  "date": "2025년 12월 02일 18:15",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,812.63 (-0.53%)\nNASDAQ: 23,275.92 (-0.38%)\nKOSPI: 3,994.93 (+1.90%)\nUSD/KRW: 1,467.72 (+0.14%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 유나이티드헬스, 남미 사업 완전 철수                                                                                                  *연합인포맥스*프라이빗 에퀴티 인사이츠는 “브라질 사모펀드 파트리아 인베스트먼츠가 유나이티드헬스 그룹(NYS: UNH)의 남미 내 마지막 ...\n---\n제목 : 마이클 버리, “테슬라 터무니없이 고평가돼있어”                                                                                      *연합인포맥스*시킹 알파는 유명 투자자 마이클 버리가 테슬라(NAS: TSLA)의 밸류에이션이 심각하게 고평가되어 있음을 지적했다고 보도했다.   “...\n---\n제목 : 마블 테크놀로지, 셀레스티얼 AI 논의 중                                                                                               *연합인포맥스*마블 테크놀로지(NAS: MRVL)는 금일 폐장 후에 FY26 3분기(8~10월) 실적을 발표할 예정이다.   시킹 알파는 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Apple $AAPL Artificial Intelligence Chief resigns.@WatcherGuru\n---\nJUST IN:$11 trillion Vanguard officially lists BlackRock's Spot Bitcoin ETF, with trading set to go live tomorrow.@WatcherGuru\n---\nJUST IN:🇺🇸Federal Reserve officially ends quantitative tightening.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
