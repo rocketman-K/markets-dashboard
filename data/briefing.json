@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 03일 15:42",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,829.37 (+0.25%)\nNASDAQ: 23,413.67 (+0.59%)\nKOSPI: 4,038.90 (+1.10%)\nUSD/KRW: 1,468.64 (-0.10%)",
+  "date": "2025년 12월 03일 18:15",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,829.37 (+0.25%)\nNASDAQ: 23,413.67 (+0.59%)\nKOSPI: 4,036.30 (+1.04%)\nUSD/KRW: 1,466.02 (-0.28%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 서비스나우, 베자 인수로 AI 경쟁력 강화  MS                                                                                           *연합인포맥스*모건스탠리의 키스 와이스 애널리스트는 “서비스나우(NYS: NOW)가 아이덴티티 보안 스타트업 베자를 인수한 것은 에이전틱 ...\n---\n제목 : 포드 모터, 배터리 전기차 판매량 감소 주의                                                                                            *연합인포맥스*시킹 알파는 포드 모터(NYS: F) 배터리 전기차 판매량이 빠르게 감소하고 있다고 보도했다.   \"포드 모터의 11월 미국 자...\n---\n제목 : 비스트라 에너지, S&P 글로벌로부터 신용등급 상향돼                                                                                    *연합인포맥스*시킹 알파는 신용평가기관 S&P 글로벌이 비스트라 에너지(NYS: VST)의 신용등급을 상향 조정했다고 밝혔다.   \"S&P 글로벌은...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Total Spot Bitcoin ETF volume surpasses $5.1 billion today.@WatcherGuru\n---\nJUST IN:$180,000,000,000 added to the crypto market cap today.@WatcherGuru\n---\nJUST IN:$93,000 Bitcoin@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
