@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 04일 19:12",
+  "date": "2025년 12월 04일 20:10",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,849.72 (+0.30%)\nNASDAQ: 23,454.09 (+0.17%)\nKOSPI: 4,028.51 (-0.19%)\nUSD/KRW: 1,470.86 (+0.24%)",
+  "market_data": "S&P 500: 6,849.72 (+0.30%)\nNASDAQ: 23,454.09 (+0.17%)\nKOSPI: 4,028.51 (-0.19%)\nUSD/KRW: 1,471.36 (+0.27%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 스노우플레이크, 앤트로픽과 2억 달러 제휴 발표                                                                                        *연합인포맥스*시킹 알파는 스노우플레이크(NYS: SNOW)가 앤트로픽과 협력하면서 인공지능 에이전트 이용 확대를 추구하고 있다고 보도했다.   ...\n---\n제목 : 월마트, 적극적인 기술 혁신이 투자매력 지지  티그레스                                                                                 *연합인포맥스*티그레스 파이낸셜의 애널리스트는 월마트(NYS: WMT)가 기술적 혁신에 적극적인 점이 투자매력을 높인다고 평가했다.   “월마트는 인공...\n---\n제목 : GE 베르노바, 가이던스 상향 발표될 전망 - DB                                                                                          *연합인포맥스*GE 베르노바(NYS: GEV)는 오는 12월 9일에 연례 투자자 간담회가 예정되어 있다.   도이체방크의 Nicole De...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:World's biggest YouTuber 'MrBeast' to launch financial services platform.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $94,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $94,000@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : GE 베르노바, 가이던스 상향 발표될 전망 - DB                                                                                          *연합인포맥스*GE 베르노바(NYS: GEV)는 오는 12월 9일에 연례 투자자 간담회가 예정되어 있다.   도이체방크의 Nicole De...\n---\n제목 : 메타, 왓츠앱 인공지능 기능 두고 EU 반독점 조사 알려져                                                                                *연합인포맥스*CNBC는 메타 플랫폼스(NAS: META)의 메신저앱 왓츠앱이 EU의 반독점 조사 대상이 되었다고 보도했다.   “메타의 메신저앱 W...\n---\n제목 : 세일스포스, 가치 상승세 기대되는 포트폴리오 가져  시티즌스 JMP                                                                       *연합인포맥스*시티즌스 JMP의 애널리스트는 세일스포스(NYS: CRM) 실적 펀더멘털을 분석하면서, 장기적인 가치 상승을 기대할 수 있다고 발언했다.   ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:World's biggest YouTuber 'MrBeast' to launch financial services platform.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $94,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $94,000@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
