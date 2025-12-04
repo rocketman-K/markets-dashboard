@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 04일 15:41",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,849.72 (+0.30%)\nNASDAQ: 23,454.09 (+0.17%)\nKOSPI: 4,023.74 (-0.31%)\nUSD/KRW: 1,473.55 (+0.42%)",
+  "date": "2025년 12월 04일 18:14",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,849.72 (+0.30%)\nNASDAQ: 23,454.09 (+0.17%)\nKOSPI: 4,028.51 (-0.19%)\nUSD/KRW: 1,472.27 (+0.33%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 몽고DB, 핵심 지표 모두 호조  RBC 외                                                                                                  *연합인포맥스*몽고DB(NYS: MDB)가 FY26 3분기(’25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB ...\n---\n제목 : 파라마운트, 워너 브로스 인수 전 파기 수수료 대폭 인상                                                                                *연합인포맥스*시킹 알파는 파라마운트 스카이댄스가 워너 브로스 인수 성사에 대한 자신감을 보이면서 파기 수수료를 인상했다고 보도했다.   “▲ 파라마운...\n---\n제목 : 스노우플레이크, 앤트로픽과 2억 달러 제휴 발표                                                                                        *연합인포맥스*시킹 알파는 스노우플레이크(NYS: SNOW)가 앤트로픽과 협력하면서 인공지능 에이전트 이용 확대를 추구하고 있다고 보도했다.   ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:World's biggest YouTuber 'MrBeast' to launch financial services platform.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $94,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $94,000@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
