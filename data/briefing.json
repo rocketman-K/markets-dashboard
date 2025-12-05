@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 05일 15:42",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,857.12 (+0.11%)\nNASDAQ: 23,505.14 (+0.22%)\nKOSPI: 4,094.22 (+1.63%)\nUSD/KRW: 1,468.09 (+0.21%)",
+  "date": "2025년 12월 05일 18:12",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,857.12 (+0.11%)\nNASDAQ: 23,505.14 (+0.22%)\nKOSPI: 4,100.05 (+1.78%)\nUSD/KRW: 1,471.05 (+0.41%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n키움 반도체 박유악입니다.☀️채널:https://t.me/kiwoom_semibat♠Marvell Technology (MRVL.US): Custom Chip 부문 실적 강세 전환 예상♠투자 포인트1) 3Q25CY 실적 기대치 부합, 4Q25CY 가이던스 역시 시장 컨센서스 부합2) 다만 커스텀 부문의 성장세가 가속화되며, 2027년 2배 수준의 성장을 보...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 12월 1주차자료링크:https://bbn.kiwoom.com/rfCA303더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 12월 1주차자료링크:https://bbn.kiwoom.com/rfCA303더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸White House economic adviser Hassett says the Federal Reserve will likely cut interest rates next week.@WatcherGuru\n---\nJUST IN:Binance Founder CZ meets Michael Saylor for the first time.@WatcherGuru\n---\nJUST IN:Tom Lee says crypto has \"bottomed.\"@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
