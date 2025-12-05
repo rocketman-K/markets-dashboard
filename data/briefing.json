@@ -1,7 +1,7 @@
 {
-  "date": "2025년 12월 05일 12:55",
+  "date": "2025년 12월 05일 15:42",
   "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,857.12 (+0.11%)\nNASDAQ: 23,505.14 (+0.22%)\nKOSPI: 4,061.52 (+0.82%)\nUSD/KRW: 1,473.48 (+0.58%)",
+  "market_data": "S&P 500: 6,857.12 (+0.11%)\nNASDAQ: 23,505.14 (+0.22%)\nKOSPI: 4,094.22 (+1.63%)\nUSD/KRW: 1,468.09 (+0.21%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
   "telegram_data": null,
   "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
