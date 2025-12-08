@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 08일 15:45",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,870.40 (+0.19%)\nNASDAQ: 23,578.13 (+0.31%)\nKOSPI: 4,153.09 (+1.29%)\nUSD/KRW: 1,466.29 (-0.41%)",
+  "date": "2025년 12월 08일 18:17",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,870.40 (+0.19%)\nNASDAQ: 23,578.13 (+0.31%)\nKOSPI: 4,154.85 (+1.34%)\nUSD/KRW: 1,468.01 (-0.30%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 파이브나인, 구조조정·AI 강화에도 성장 둔화 부담 - 베어드 외                                                                         *연합인포맥스*파이브나인(NAS: FIVN)이 ‘25년 3분기 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 같다.   ▲ 베어드: 투자...\n---\n제목 : 아메리칸 이글, 회복은 확인, 상승여력은 제한 - MS 외                                                                                  *연합인포맥스*아메리칸이글(NYS: AEO)이 FY26 3분기(’25년 8~10월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음...\n---\n제목 : 트럼프, “넷플릭스-워너 브로스 거래 검토 필요할 것”                                                                                 *연합인포맥스*시킹 알파는 넷플릭스-워너 브로스 디스커버리 M&A가 미국 정부로부터 승인받을 수 있을지 불투명하다고 보도했다.   “▲ 넷플릭스(NAS...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇪🇺JPMorgan CEO Jamie Dimon says \"Europe has real problem.\"\"They've driven business out, they've driven investment out, they've driven innovation out.\"@WatcherGuru\n---\nJUST IN:🇨🇳China's annual trade surplus hits a record $1 trillion, despite trade war with the US.@WatcherGuru\n---\nJUST IN:🇨🇳China's annual trade surplus hits a record $1 trillion, despite trade war with the US.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
