@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 10일 01:14",
+  "date": "2025년 12월 10일 02:12",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,859.30 (+0.19%)\nNASDAQ: 23,571.73 (+0.11%)\nKOSPI: 4,143.55 (-0.27%)\nUSD/KRW: 1,469.51 (-0.16%)",
+  "market_data": "S&P 500: 6,861.55 (+0.22%)\nNASDAQ: 23,601.11 (+0.23%)\nKOSPI: 4,143.55 (-0.27%)\nUSD/KRW: 1,469.60 (-0.15%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마이크론, 메모리 공급부족 속에 상승여력 남아있어 - DB                                                                                *연합인포맥스*마이크론 테크놀로지(NAS: MU)는 오는 12월 17일에 FY26 1분기(9~11월) 실적을 발표할 예정이다.   도이체방크의 Mel...\n---\n제목 : 12월 9일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 엔비디아(NAS: NVDA): 번스타인은 트럼프 대통령이 H200 GPU의 중국 수출을 허가하면서 시장 확대를 기대할...\n---\n제목 : 버티브, 3년간 강력한 랠리 겪으며 추가 상승여력 제한적  울프                                                                          *연합인포맥스*울프 리서치의 애널리스트는 버티브(NYS: VRT)의 지난 3년간 랠리가 강력했다고 언급하면서, 밸류에이션 문제가 대두될 것이라고 예상했다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$93,000 Bitcoin@WatcherGuru\n---\nJUST IN:Silver reaches new all-time high of $60.@WatcherGuru\n---\nJUST IN:Silver reaches new all-time high of $60.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마이크론, 메모리 공급부족 속에 상승여력 남아있어 - DB                                                                                *연합인포맥스*마이크론 테크놀로지(NAS: MU)는 오는 12월 17일에 FY26 1분기(9~11월) 실적을 발표할 예정이다.   도이체방크의 Mel...\n---\n제목 : 12월 9일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 엔비디아(NAS: NVDA): 번스타인은 트럼프 대통령이 H200 GPU의 중국 수출을 허가하면서 시장 확대를 기대할...\n---\n제목 : 버티브, 3년간 강력한 랠리 겪으며 추가 상승여력 제한적  울프                                                                          *연합인포맥스*울프 리서치의 애널리스트는 버티브(NYS: VRT)의 지난 3년간 랠리가 강력했다고 언급하면서, 밸류에이션 문제가 대두될 것이라고 예상했다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$3,300 $ETH@WatcherGuru\n---\nJUST IN:$3,300 $ETH@WatcherGuru\n---\nJUST IN:$94,000 Bitcoin@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
