@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 11일 08:08",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,886.68 (+0.67%)\nNASDAQ: 23,654.16 (+0.33%)\nKOSPI: 4,135.00 (-0.21%)\nUSD/KRW: 1,469.95 (+0.10%)",
+  "date": "2025년 12월 11일 11:10",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,886.68 (+0.67%)\nNASDAQ: 23,654.16 (+0.33%)\nKOSPI: 4,162.87 (변동폭 계산 불가)\nUSD/KRW: 1,468.58 (+0.04%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략/주식 김승혁/조민주]🌏US Daily (12/11)(12/10 종가기준)- 주요 지수 수익률S&P500 6,886.68 / 0.67%NASDAQ 종합 23,654.15 / 0.33%다우산업 48,057.75 / 1.05%러셀2000 2,559.61 / 1.32%필라델피아 반도체 7,467.49 / 1.29%- 섹터별 수익률High 3: 내구...\n---\n[키움증권 미국 주식 박기현]TJX (TJX.US) - 글로벌 1위 Off-Price 리테일러▶압도적인 구매력과 유연한 비즈니스 모델- T.J. Maxx, Marshalls 등을 운영하는 세계 최대 오프 프라이스(Off-Price) 유통업체- 1,300여 명의 바이어 조직 기반, 백화점 대비 20~60% 저렴한 가격 경쟁력 확보- 빠른 재고 회전과 고객에게...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (12/11)(12/10 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.41%SPY 0.66%DIA 1.03%IWM 1.36%*미국 상승 업종XLB (원자재) 1.96%XLI (산업재) 1.83%XLY (경기 소비재) 1.47%XLV (헬스케어) 1...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Fed Chair Jerome Powell says \"we will deliver 2% inflation.\"\"It is really tariffs that is causing most of the inflation overshoot.\"@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says the stock market should continue to go up.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says the stock market should continue to go up.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
