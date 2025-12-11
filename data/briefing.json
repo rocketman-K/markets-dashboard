@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 11일 20:11",
+  "date": "2025년 12월 11일 21:21",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,886.68 (+0.67%)\nNASDAQ: 23,654.15 (+0.33%)\nKOSPI: 4,110.62 (-0.59%)\nUSD/KRW: 1,471.92 (+0.27%)",
+  "market_data": "S&P 500: 6,886.68 (+0.67%)\nNASDAQ: 23,654.15 (+0.33%)\nKOSPI: 4,110.62 (-0.59%)\nUSD/KRW: 1,470.84 (+0.20%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 인텔 CEO, 사적 이득 취했다는 의혹 제기돼                                                                                             *연합인포맥스*시킹 알파는 인텔(NAS: INTC)의 립부 탄 CEO가 인텔 경영에 있어서 사적 이득을 취했다는 의혹이 제기되고 있다고 보...\n---\n제목 : 머스크, 스페이스X IPO 준비하고 있다고 시인                                                                                           *연합인포맥스*시킹 알파는 머스크 CEO의 우주개발 기업 스페이스X가 IPO를 준비하고 있다고 보도했다.   “▲ 테슬라(NAS: TSLA)...\n---\n제목 : 아마존, 신선식품 서비스 확대하며 소비 활성화 기대  TD 코웬                                                                           *연합인포맥스*TD 코웬의 애널리스트는 아마존닷컴(NAS: AMZN)의 신선식품 당일배송 서비스 확대가 고객들의 아마존 이용 증가를 촉발할 수 있다고 예...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk confirms SpaceX plans to IPO.@WatcherGuru\n---\nJUST IN:Elon Musk confirms SpaceX plans to IPO.@WatcherGuru\n---\nJUST IN:Coinbase to allow users to trade all Solana tokens through DEX without official listings.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 WM부문 안석훈 부장매일 밤 9시 네이버 블로그에서전하는 뉴욕증시 프리뷰 (2025.12.11)\"FOMC 2일차 맞아 약보합.. GE 버노바 +10%\"https://blog.naver.com/101ancha/224106432750#뉴욕증시#장전시황#FOMC#ORCL#AI\n---\n제목 : 오라클, 이익률 하락하는 등 재무상태 우려 커져  D.A.                                                                                  *연합인포맥스*D.A. 데이비슨의 Gil Luria 애널리스트는 오라클(NYS: ORCL) 실적내용을 분석했을 때, 이익률 압박과 부채 확대 등 ...\n---\n제목 : 일라이 릴리, 차세대 다이어트약 체중감량 효과 강력해                                                                                  *연합인포맥스*CNBC는 일라이 릴리(NYS: LLY)의 차세대 다이어트약 retatrutide 임상 결과 기존 제품보다 우수한 체중감량 효과를 보였다...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk confirms SpaceX plans to IPO.@WatcherGuru\n---\nJUST IN:Elon Musk confirms SpaceX plans to IPO.@WatcherGuru\n---\nJUST IN:Coinbase to allow users to trade all Solana tokens through DEX without official listings.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
