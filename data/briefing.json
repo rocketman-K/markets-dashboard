@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 11일 15:44",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,886.68 (+0.67%)\nNASDAQ: 23,654.15 (+0.33%)\nKOSPI: 4,117.49 (-0.42%)\nUSD/KRW: 1,472.38 (+0.30%)",
+  "date": "2025년 12월 11일 18:15",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,886.68 (+0.67%)\nNASDAQ: 23,654.15 (+0.33%)\nKOSPI: 4,110.62 (-0.59%)\nUSD/KRW: 1,472.92 (+0.34%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 아마존, 신선식품 ‘당일 배송’ 2,300개 도시로 확대                                                                                   *연합인포맥스*바론스는 “아마존닷컴(NYS:AMZN)은 신선식품 ‘당일 배송’ 서비스를 2,300개 도시로 확대할 방침이다. 이는 기존 서비스 지...\n---\n제목 : 인텔 CEO, 사적 이득 취했다는 의혹 제기돼                                                                                             *연합인포맥스*시킹 알파는 인텔(NAS: INTC)의 립부 탄 CEO가 인텔 경영에 있어서 사적 이득을 취했다는 의혹이 제기되고 있다고 보...\n---\n제목 : 머스크, 스페이스X IPO 준비하고 있다고 시인                                                                                           *연합인포맥스*시킹 알파는 머스크 CEO의 우주개발 기업 스페이스X가 IPO를 준비하고 있다고 보도했다.   “▲ 테슬라(NAS: TSLA)...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk confirms SpaceX plans to IPO.@WatcherGuru\n---\nJUST IN:Elon Musk confirms SpaceX plans to IPO.@WatcherGuru\n---\nJUST IN:Coinbase to allow users to trade all Solana tokens through DEX without official listings.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
