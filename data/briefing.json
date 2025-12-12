@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 12일 08:10",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,901.00 (+0.21%)\nNASDAQ: 23,593.86 (-0.25%)\nKOSPI: 4,110.62 (-0.59%)\nUSD/KRW: 1,472.35 (+0.30%)",
+  "date": "2025년 12월 12일 11:10",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,901.00 (+0.21%)\nNASDAQ: 23,593.86 (-0.25%)\nKOSPI: 4,155.17 (변동폭 계산 불가)\nUSD/KRW: 1,471.58 (+0.17%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략/주식 김승혁/조민주]🌏US Daily (12/12)(12/11 종가기준)- 주요 지수 수익률S&P500 6,901.00 / 0.21%NASDAQ 종합 23,593.86 / -0.25%다우산업 48,704.01 / 1.34%러셀2000 2,590.61 / 1.21%필라델피아 반도체 7,411.48 / -0.75%- 섹터별 수익률High 3: ...\n---\n[키움증권 미국 주식 조민주]에어로바이런먼트 (AVAV.US) : 반등의 조건은 마진 개선▶FY2Q26 실적 Review- FY2Q26 매출은 4.7억달러로 사상 최고치 및 컨센 상회(+1.8%)였으나, EBITDA 마진/조정 EPS 및 FY26 가이던스가 시장 기대를 크게 하회- 경영진은 마진·EPS 악화를 ERP 업그레이드 일회성 비용, 셧다운에 따른 ...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (12/12)(12/11 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.32%SPY 0.23%DIA 1.35%IWM 1.17%*미국 상승 업종XLB (원자재) 1.99%XLF (금융) 1.82%XLI (산업재) 1.07%XLV (헬스케어) 0.95...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸SEC Chair Paul Atkins says US financial markets are moving \"on-chain.\"\"SEC is prioritizing innovation and embracing new technologies to enable this on-chain future.\"@WatcherGuru\n---\nJUST IN:🇺🇸SEC Chair Paul Atkins says US financial markets are moving \"on-chain.\"\"SEC is prioritizing innovation and embracing new technologies to enable this on-chain future.\"@WatcherGuru\n---\nJUST IN:🇺🇸SEC approves DTCC plan to tokenize stocks, bonds and treasuries.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
