@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 12일 15:43",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,901.00 (+0.21%)\nNASDAQ: 23,593.86 (-0.25%)\nKOSPI: 4,164.91 (+1.32%)\nUSD/KRW: 1,474.58 (+0.38%)",
+  "date": "2025년 12월 12일 18:15",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,901.00 (+0.21%)\nNASDAQ: 23,593.86 (-0.25%)\nKOSPI: 4,167.16 (+1.38%)\nUSD/KRW: 1,476.03 (+0.48%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 로쿠, '26년 최선호주 선정 - 제프리스 외                                                                                              *연합인포맥스*제프리스는 로쿠(NAS:ROKU)에 대한 투자의견을 보유에서 매수로, 목표주가는 100달러에서 135달러로 각각 상향 조정...\n---\n제목 : 팔란티어, 전 직원·퍼셉타 AI CEO 제소                                                                                                *연합인포맥스*CNBC는 “팔란티어 테크놀로지(NYS:PLTR)는 두 명의 전 직원을 상대로 소송을 제기했다”고 보도했다.   이와 관...\n---\n제목 : 테슬라, 11월 美 판매량 3만9,800대로 3년래 최저                                                                                       *연합인포맥스*시킹알파는 “테슬라(NYS:TSLA)의 11월 미국 판매량은 3만 9,800대로 3년래 최저 수준을 기록했다”고 보도했다. ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump says the stock market keeps hitting all-time highs \"because of tariffs.\"@WatcherGuru\n---\nJUST IN:🇺🇸YouTube now allows US creators to receive payouts in crypto stablecoins.@WatcherGuru\n---\nJUST IN:$4,300,000,000 worth of Bitcoin & Ethereum options expire today.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
