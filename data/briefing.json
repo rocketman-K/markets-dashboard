@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 13일 15:39",
-  "session_type": "주간 세션 (시황 정리)",
+  "date": "2025년 12월 13일 18:09",
+  "session_type": "야간 세션 (실시간 모니터링)",
   "market_data": "S&P 500: 6,827.41 (-1.07%)\nNASDAQ: 23,195.17 (-1.69%)\nKOSPI: 4,167.16 (+1.38%)\nUSD/KRW: 1,477.30 (+0.44%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 브로드컴, 이익률 하락 예상되지만 목표주가는 상향  트루이스트                                                                         *연합인포맥스*배런스는 브로드컴(NAS: AVGO) 경영진이 이익률 하락을 경고하면서 브로드컴 주가가 타격을 입고 있다고 보도했다.   “브로드컴은 우수한 실...\n---\n제목 : 오라클, 일부 데이터센터 건설 일정 연기                                                                                               *연합인포맥스*오라클(NYS: ORCL)이 계획하고 있는 인공지능 데이터센터 일부의 완공 시기를 연기한 것으로 알려졌다.   오픈AI로부터 ...\n---\n키움증권 WM부문 안석훈 부장매일 아침 7시 채널K글로벌에서전하는 뉴욕증시 브리핑 (2025.12.12 미국 기준)\"오라클과 브로드컴의 흑화로 AI 빌런의 탄생\"https://youtu.be/9duC6rgOsLE#뉴욕증시#마감시황#AI#ORCL#AVGO잠시 후 오전 7시10분에 전해드리겠습니다~\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:⚽️$USDT issuer Tether submits proposal to acquire Juventus Football Club.@WatcherGuru\n---\nJUST IN:⚽️$USDT issuer Tether submits proposal to acquire Juventus Football Club.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says interest rates should be 1% or lower next year.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
