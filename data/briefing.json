@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 16일 15:44",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,816.51 (-0.16%)\nNASDAQ: 23,057.41 (-0.59%)\nKOSPI: 4,002.43 (-2.16%)\nUSD/KRW: 1,474.78 (+0.13%)",
+  "date": "2025년 12월 16일 18:16",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,816.51 (-0.16%)\nNASDAQ: 23,057.41 (-0.59%)\nKOSPI: 3,999.13 (-2.24%)\nUSD/KRW: 1,472.89 (-0.00%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 질로우, 구글 주택 매물 검색 테스트 소식에 급락                                                                                       *연합인포맥스*씨킹알파는 “질로우 그룹(NAS: Z, ZG)은 알파벳(NAS: GOOG, GOOGL) 산하 구글이 검색 결과에 주택 매물 정보를 ...\n---\n제목 : 테슬라, 포드 모터의 전기차 전략 선회로부터 수혜 기대                                                                                 *연합인포맥스*벤징가는 테슬라(NAS: TSLA)에게는 포드 모터의 전기차 전략 선회가 유리하게 작용할 수 있다고 보도했다.   \"▲ 포드 모터(NYS...\n---\n제목 : 서비스나우, M&A 전략에 대한 투자자 불안에 하락 - 오펜하이머                                                                          *연합인포맥스*오펜하이머의 Brian Schwartz 애널리스트는 서비스나우(NYS: NOW) 주가가 아르미스 M&A 관련 우려 속에 하락했다고 분석했다...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Nasdaq prepares filing to extend stock trading hours to 23 hours on weekdays.@WatcherGuru\n---\nJUST IN:🇺🇸Treasury Secretary Bessent calls to ban stock trading by Congress.@WatcherGuru\n---\nJUST IN:🇺🇸Treasury Secretary Bessent calls to ban stock trading by Congress.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
