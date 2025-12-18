@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 18일 15:43",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,721.43 (-1.16%)\nNASDAQ: 22,693.32 (-1.81%)\nKOSPI: 4,000.23 (-1.38%)\nUSD/KRW: 1,477.98 (+0.42%)",
+  "date": "2025년 12월 18일 18:16",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,721.43 (-1.16%)\nNASDAQ: 22,693.32 (-1.81%)\nKOSPI: 3,994.51 (-1.53%)\nUSD/KRW: 1,476.05 (+0.29%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 행동주의 투자자 엘리엇 매니지먼트, 룰루레몬 지분 10억 달러 확보                                                                      *연합인포맥스*시킹 알파는 행동주의 투자자 엘리엇 매니지먼트가 룰루레몬 애슬레티카(NAS: LULU) 경영에 개입할 것으로 보인다고 보도했다.   “행동주의 ...\n---\n제목 : 오픈AI, 최대 1,000억 달러의 자금조달 논의 중                                                                                         *연합인포맥스*시킹 알파는 핵심적인 인공지능 종목인 오픈AI가 수백억 달러 규모의 자금조달에 나설 것으로 보인다고 보도했다.   “오픈AI...\n---\n제목 : 도큐사인, 안정적인 성장 펀더멘털 나타나고 있어  니덤                                                                                 *연합인포맥스*니덤의 Scott Berg 애널리스트는 도큐사인(NAS: DOCU) 성장 펀더멘털이 안정적으로 유지되고 있다고 설명했다.   “도큐사인 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Coinbase launches stock trading.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says next year will be the \"largest tax refund season of all time.\"@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says the US is preparing for a historic \"economic boom.\"@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
