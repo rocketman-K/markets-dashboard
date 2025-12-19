@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 19일 08:10",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,774.76 (+0.79%)\nNASDAQ: 23,006.36 (+1.38%)\nKOSPI: 3,994.51 (-1.53%)\nUSD/KRW: 1,475.21 (+0.24%)",
+  "date": "2025년 12월 19일 11:09",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,774.76 (+0.79%)\nNASDAQ: 23,006.36 (+1.38%)\nKOSPI: 4,010.96 (변동폭 계산 불가)\nUSD/KRW: 1,478.06 (+0.28%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/eOfhQQ1jxDY?si=46gg0K58NyOilPX_\n---\n[키움 미국전략/주식 김승혁/조민주]🌏US Daily (12/19)(12/18 종가기준)- 주요 지수 수익률S&P500 6,774.76 / 0.79%NASDAQ 종합 23,006.36 / 1.38%다우산업 47,951.85 / 0.14%러셀2000 2,507.87 / 0.62%필라델피아 반도체 6,863.63 / 2.51%- 섹터별 수익률High 3: 자동...\n---\n제목 : 마이크론, 강력한 메모리 사이클 더 이어질 것으로 보여 - BofA                                                                          *연합인포맥스*뱅크오브아메리카의 Vivek Arya 애널리스트는 마이크론 테크놀로지(NAS: MU)의 강력한 실적과 성장 전망을 바탕으로 투자의견을 상...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $85,000.@WatcherGuru\n---\nJUST IN:Elon Musk says \"the future is going to be amazing\" with AI and robots allowing sustainable income for all.@WatcherGuru\n---\nJUST IN:🇺🇸Trump administration says \"we are closer than ever to passing the landmark crypto market structure legislation.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
