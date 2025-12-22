@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 22일 20:10",
+  "date": "2025년 12월 22일 21:20",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,834.50 (+0.88%)\nNASDAQ: 23,307.62 (+1.31%)\nKOSPI: 4,105.93 (+2.12%)\nUSD/KRW: 1,480.50 (+0.42%)",
+  "market_data": "S&P 500: 6,834.50 (+0.88%)\nNASDAQ: 23,307.62 (+1.31%)\nKOSPI: 4,105.93 (+2.12%)\nUSD/KRW: 1,478.10 (+0.25%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 샌디스크, 메모리 공급부족으로 ‘27년까지 성장세 낙관  번스타인 외                                                                    *연합인포맥스*번스타인의 Mark Miller 애널리스트는 메모리 공급부족을 중심으로 샌디스크(NAS: SNDK)의 ‘26~’27년 성장세에 대한 자신감을 언급...\n---\n제목 : 커민스, 트럭운송 시장 회복 신호 나타나며 관심 가져야  레이먼드제임스                                                                 *연합인포맥스*레이먼드제임스의 Tim Thein 애널리스트는 미국 트럭운송 시장에서 회복 신호가 나타나고 있다고 분석하면서, 커민스(NYS: CMI) 투자 전망을긍...\n---\n제목 : 페덱스, 실적 퀄리티 향상 확인  트루이스트                                                                                            *연합인포맥스*트루이스트의 애널리스트는 페덱스(NYS: FDX) 실적 퀄리티가 향상되고 있으며, 일시적 문제들이 해소된 이후의 실적 추이가 기...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Silver reaches new all-time high of $69@WatcherGuru\n---\nJUST IN:Gold reaches new all-time high of $4,400@WatcherGuru\n---\nJUST IN:Gold reaches new all-time high of $4,400@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 커민스, 트럭운송 시장 회복 신호 나타나며 관심 가져야  레이먼드제임스                                                                 *연합인포맥스*레이먼드제임스의 Tim Thein 애널리스트는 미국 트럭운송 시장에서 회복 신호가 나타나고 있다고 분석하면서, 커민스(NYS: CMI) 투자 전망을긍...\n---\n제목 : 페덱스, 실적 퀄리티 향상 확인  트루이스트                                                                                            *연합인포맥스*트루이스트의 애널리스트는 페덱스(NYS: FDX) 실적 퀄리티가 향상되고 있으며, 일시적 문제들이 해소된 이후의 실적 추이가 기...\n---\n키움증권 WM부문 안석훈 부장매일 밤 9시 네이버 블로그에서전하는 뉴욕증시 프리뷰 (2025.12.22)\"이어지는 AI 모멘텀.. 테슬라 +1%\"https://blog.naver.com/101ancha/224119023629#뉴욕증시#장전시황#Robotaxi#Waymo#Tesla#AI\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Gold reaches new all-time high of $4,400@WatcherGuru\n---\nJUST IN:$90,000 Bitcoin@WatcherGuru\n---\nJUST IN:$90,000 Bitcoin@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
