@@ -1,9 +1,9 @@
 {
-  "date": "2025년 12월 22일 23:11",
+  "date": "2025년 12월 23일 00:11",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,834.50 (+0.88%)\nNASDAQ: 23,307.62 (+1.31%)\nKOSPI: 4,105.93 (+2.12%)\nUSD/KRW: 1,480.44 (+0.41%)",
+  "market_data": "S&P 500: 6,860.40 (+0.38%)\nNASDAQ: 23,409.68 (+0.44%)\nKOSPI: 4,105.93 (+2.12%)\nUSD/KRW: 1,477.87 (+0.24%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마블 낙폭 컸기 때문에 매수기회로 볼 수 있어  씨티                                                                                    *연합인포맥스*씨티의 애널리스트는 마블 테크놀로지(NAS: MRVL)의 최근 주가 낙폭이 과도했다고 보고, 매수기회가 있다고 판단했다.   “마블이...\n---\n제목 : [개장 전 특징주] 가상화폐 종목들, 비트코인 회복세에 상승                                                                             *연합인포맥스*▲ 스트래티지(NAS: MSTR) ▲ 마라 홀딩스(NAS: MARA): 비트코인 가격이 9.0만 달러로 회복하면서 가상화폐 종목들도 상승하...\n---\n제목 : 파라마운트, 워너 브로스 인수에 래리 엘리슨 참여할 것이라고 확인                                                                      *연합인포맥스*CNBC는 파라마운트 스카이댄스가 워너 브로스 디스커버리 인수 계획이 래리 엘리슨의 자금지원을 받는다는 점을 명확히 했다고 보도했다.   “▲ 워...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$90,000 Bitcoin@WatcherGuru\n---\nJUST IN:$90,000 Bitcoin@WatcherGuru\n---\nJUST IN:$4 trillion JPMorgan is considering offering crypto trading for institutional clients.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 파라마운트, 워너 브로스 인수에 래리 엘리슨 참여할 것이라고 확인                                                                      *연합인포맥스*CNBC는 파라마운트 스카이댄스가 워너 브로스 디스커버리 인수 계획이 래리 엘리슨의 자금지원을 받는다는 점을 명확히 했다고 보도했다.   “▲ 워...\n---\n제목 : 12월 22일 주요 종목에 대한 IB 투자의견                                                                                               *연합인포맥스*▲ 아마존닷컴(NAS: AMZN) ▲ 월마트(NAS: WMT): 뱅크오브아메리카는 연말성수기 소매 섹터 가격 추이를 분석...\n---\n제목 : 엔비디아 H200 GPU, ‘26년 2월부터 중국 수출 목표                                                                                     *연합인포맥스*시킹 알파는 엔비디아(NAS: NVDA)가 ‘26년 2월부터 중국으로 H200 GPU를 수출할 계획이라고 보도했다.   “엔...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$90,000 Bitcoin@WatcherGuru\n---\nJUST IN:$90,000 Bitcoin@WatcherGuru\n---\nJUST IN:$4 trillion JPMorgan is considering offering crypto trading for institutional clients.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
