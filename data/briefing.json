@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 15일 16:00",
-  "session_type": "주간 세션 (시황 정리)",
+  "date": "2026년 02월 15일 18:20",
+  "session_type": "야간 세션 (실시간 모니터링)",
   "market_data": "S&P 500: 6,836.17 (+0.05%)\nNASDAQ: 22,546.67 (-0.22%)\nKOSPI: 5,507.01 (-0.28%)\nUSD/KRW: 1,443.30 (+0.17%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 2월 13일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 어플라이드 머티어리얼즈(NAS: AMAT): 제이피모간체이스는 실적발표와 가이던스를 통해 ‘26년 성장 전망이 크게 ...\n---\n제목 : 어플라이드 머티어리얼즈, ‘26년 견고한 성장 펀더멘털 예상돼  웰스파                                                                  *연합인포맥스*웰스파고의 Joe Quatrochi 애널리스트는 어플라이드 머티어리얼즈(NAS: AMAT) 실적발표를 통해 ‘26년 성장 자신감이 강화되었다고 설명...\n---\n키움증권 WM부문 안석훈 부장매일 아침 7시 네프콘 THE STOCK에서전하는 뉴욕증시 브리핑 (2026.02.13 미국 기준)\"인플레이션 우려 둔화 속 AI 공포 이어져.. 코인베이스 +16.5%\"https://naver.me/GcAmQK6I#뉴욕증시#마감시황#CPI#AI#기준금리#BIG7#COIN\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin reclaims $70,000.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $70,000.@WatcherGuru\n---\nJUST IN:🇺🇸$4 trillion JPMorgan says a weaker US dollar will not effect the stock market.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
