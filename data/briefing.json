@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 19일 16:10",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,881.31 (+0.56%)\nNASDAQ: 22,753.63 (+0.78%)\nKOSPI: 5,677.25 (+3.09%)\nUSD/KRW: 1,446.18 (+0.43%)",
+  "date": "2026년 02월 19일 18:33",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,881.31 (+0.56%)\nNASDAQ: 22,753.63 (+0.78%)\nKOSPI: 5,677.25 (+3.09%)\nUSD/KRW: 1,446.99 (+0.49%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 아침 7시에 전하는 뉴욕증시 브리핑(2026.02.18 미국 기준)\"연준의 금리 불확실성에도 이틀째 강세.. 엔비디아 +1.6%\"https://naver.me/xtNXGNZZ#뉴욕증시#마감시황#연준정책#불확실성#기준금리\n---\n제목 : 오픈AI, 펀딩라운드 통해 가치 8,500억 달러 이상으로 평가받아                                                                          *연합인포맥스*시킹 알파는 오픈AI가 진행하고 있는 펀딩라운드에서 그 가치가 8,500억 달러 이상으로 평가받고 있다고 보도했다.   “인공지능 스타트...\n---\n제목 : 메타, 엔비디아 GPU와 CPU 구매 발표… 경쟁 우려 완화                                                                                  *연합인포맥스*배런스는 메타 플랫폼스가 엔비디아 반도체 구매 확대를 발표하면서, 엔비디아에 대해 제기되었던 경쟁 우려가 완화되고 있다고 보도했다...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Eric Trump says Bitcoin will reach $1 million.\"I've never been more bullish on Bitcoin in my life.\"@WatcherGuru\n---\nJUST IN:OpenAI launches benchmarking system to help secure crypto tokens and smart contracts.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says US will have its first trade surplus in decades because tariffs cut deficit by 78%.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
