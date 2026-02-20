@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 20일 16:06",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,861.89 (-0.28%)\nNASDAQ: 22,682.73 (-0.31%)\nKOSPI: 5,808.53 (+2.31%)\nUSD/KRW: 1,445.41 (+0.36%)",
+  "date": "2026년 02월 20일 18:29",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,861.89 (-0.28%)\nNASDAQ: 22,682.73 (-0.31%)\nKOSPI: 5,808.53 (+2.31%)\nUSD/KRW: 1,447.38 (+0.50%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 테슬라, Cybertruck 가격인하 발표                                                                                                     *연합인포맥스*시킹 알파는 테슬라(NAS: TSLA) 판매량 감소세가 계속되는 가운데, 테슬라가 Cybertruck의 가격인하를...\n---\n[키움 중국 전략 박주영]ACM Research (ACMR.US) : 중국 반도체 국산화 수혜- 중국 주요 반도체 장비 기업으로 세정 부문에서 높은 경쟁력 보유- 과거 YMTC 증설 기간 매출 비중 20%대 기록. 올해 우한 3공장 증설도 수혜 기대- 중국 반도체 산업의 설비투자 확대로 밸류에이션 리레이팅 전망보고서:https://bbn.kiwoom.com...\n---\n[키움증권 미국 전략 김승혁]옥시덴털 페트롤리엄 (OXY.US) : 태풍 속에서 피어난 꽃▶FY4Q25 실적 Review- FY4Q25(12 월 말) 실적: 순매출액 51.12 억 달러(YoY -9.3%, QoQ -7.4%, 컨센서스 대비 +2.0%), 계속영업이익률은 4.6%(YoY -4.5%p, QoQ -8.2%p, 컨센서스 대비 -2.8%p), EPS...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸White House pressures banks to agree to stablecoin rewards and advance the crypto market structure bill.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump orders government to release classified files on aliens, UFOs, extraterrestrial life, and unidentified aerial phenomena.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump orders government to release classified files on aliens, UFOs, extraterrestrial life, and unidentified aerial phenomena.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
