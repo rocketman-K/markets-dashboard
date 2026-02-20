@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 20일 08:19",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,861.89 (-0.28%)\nNASDAQ: 22,682.73 (-0.31%)\nKOSPI: 5,677.25 (+3.09%)\nUSD/KRW: 1,448.51 (+0.59%)",
+  "date": "2026년 02월 20일 11:43",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,861.89 (-0.28%)\nNASDAQ: 22,682.73 (-0.31%)\nKOSPI: 5,755.05 (+1.37%)\nUSD/KRW: 1,448.59 (+0.59%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략/주식 김승혁/조민주]🌏US Daily (2/20)(2/19 종가기준)- 주요 지수 수익률S&P500 6,861.89 / -0.28%NASDAQ 종합 22,682.73 / -0.31%다우산업 49,395.16 / -0.54%러셀2000 2,665.09 / 0.24%필라델피아 반도체 8,173.30 / -0.50%- 섹터별 수익률High 3: ...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (2/20)(2/19 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -3.28%SPY -0.85%DIA 1.51%IWM 4.70%*미국 상승 업종XLU (유틸리티) 1.10%XLI (산업재) 0.74%XLE (에너지) 0.73%XLC (통신서비스) 0....\n---\n제목 : [실적공시] 뉴몬트, 4분기 실적 컨센 상회…시간외 상승                                                                                 *연합인포맥스*뉴몬트(NYS: NEM)는 ‘25년 4분기 영업실적을 다음과 같이 발표했다.   ▲ 매출 68.1억 달러(전년 동기 대비 +20.5%)...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳US trade deficit with China falls to lowest level in over 20 years.@WatcherGuru\n---\nJUST IN:Binance's stablecoin reserves surpass $45 billion, now holding 65% of all stablecoins on centralized exchanges.📰Full Story@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says he solved the affordability crisis\"Everything is down.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
