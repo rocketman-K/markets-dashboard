@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 23일 16:16",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,909.51 (+0.69%)\nNASDAQ: 22,886.07 (+0.90%)\nKOSPI: 5,846.09 (+0.65%)\nUSD/KRW: 1,439.68 (-0.56%)",
+  "date": "2026년 02월 23일 18:41",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,909.51 (+0.69%)\nNASDAQ: 22,886.07 (+0.90%)\nKOSPI: 5,846.09 (+0.65%)\nUSD/KRW: 1,442.89 (-0.34%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)] 수집 실패: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://t.me/s/kwusa\", waiting until \"load\"\n\n\n[WatcherGuru (@WatcherGuru)] 수집 실패: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://t.me/s/WatcherGuru\", waiting until \"load\"\n",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
