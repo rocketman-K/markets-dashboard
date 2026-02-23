@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 23일 19:38",
+  "date": "2026년 02월 23일 20:31",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,909.51 (+0.69%)\nNASDAQ: 22,886.07 (+0.90%)\nKOSPI: 5,846.09 (+0.65%)\nUSD/KRW: 1,442.45 (-0.37%)",
+  "market_data": "S&P 500: 6,909.51 (+0.69%)\nNASDAQ: 22,886.07 (+0.90%)\nKOSPI: 5,846.09 (+0.65%)\nUSD/KRW: 1,442.73 (-0.35%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 웨이페어, 비용 효율화로 수익성 개선 - GS 외                                                                                          *연합인포맥스*웨이페어(NYS: W)가 ‘25년 4분기 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 같다.   ▲ 골드만...\n---\n제목 : 노보 노디스크 CagriSema, 경쟁사 대비 효과 부족… 주가 급락                                                                           *연합인포맥스*CNBC는 노보 노디스크(NYS: NVO)의 CagriSema가 경쟁사만큼의 체중감량 효과를 보여주지 못한 것으로 알려지면서, 동사 ...\n---\n제목 : 알파벳, ‘28년까지 컨센서스 상회하는 성장세 기대돼  웰스파고                                                                         *연합인포맥스*웰스파고의 애널리스트는 알파벳(NAS: GOOGL, GOOG) 클라우드 및 인공지능 성장세가 월가 예상보다 빠를 것이라고 기대했다.   “알파...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor hints at buying more Bitcoin.\"The Orange Century.\"@WatcherGuru\n---\nJUST IN:$200,000,000 worth of crypto longs liquidated in the past 60 minutes.@WatcherGuru\n---\nJUST IN:Bitcoin falls under $65,000@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 알파벳, ‘28년까지 컨센서스 상회하는 성장세 기대돼  웰스파고                                                                         *연합인포맥스*웰스파고의 애널리스트는 알파벳(NAS: GOOGL, GOOG) 클라우드 및 인공지능 성장세가 월가 예상보다 빠를 것이라고 기대했다.   “알파...\n---\n제목 : 드래프트킹스, 스포츠베팅 시장 펀더멘털 긍정적… 이익률 우수  시티즌스                                                                *연합인포맥스*시티즌스 JMP의 애널리스트는 드래프트킹스(NAS: DKNG) 플랫폼의 베팅총액 증가세와 이익률 추이를 긍정적으로 언급했다.   “드래프트킹스는 최근 ...\n---\n제목 : [실적 속보] 도미노 피자, 미국 동일매장매출 성장세와 배당인상 발표에                                                                  *연합인포맥스*도미노 피자(NAS: DPZ)는 ‘25년 4분기 실적을 다음과 같이 발표했다.   ▲ 매출 15.4억 달러(+6.4% YoY)를 기록했다. 이는 컨...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor hints at buying more Bitcoin.\"The Orange Century.\"@WatcherGuru\n---\nJUST IN:$200,000,000 worth of crypto longs liquidated in the past 60 minutes.@WatcherGuru\n---\nJUST IN:Bitcoin falls under $65,000@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
