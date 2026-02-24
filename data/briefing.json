@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 24일 16:11",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,837.75 (-1.04%)\nNASDAQ: 22,627.27 (-1.13%)\nKOSPI: 5,969.64 (+2.11%)\nUSD/KRW: 1,442.97 (-0.03%)",
+  "date": "2026년 02월 24일 18:39",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,837.75 (-1.04%)\nNASDAQ: 22,627.27 (-1.13%)\nKOSPI: 5,969.64 (+2.11%)\nUSD/KRW: 1,442.69 (-0.05%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 아카마이, AI 투자 확대 속 투자 부담 우려 공존  파이퍼 샌들러 외                                                                      *연합인포맥스*아카마이 테크놀로지스(NAS: AKAM)가 ‘25년 4분기 실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 같다.   ▲ 파이퍼...\n---\n제목 : IBM 인공지능 경쟁위협, 실질적인 고객이탈 크지 않을 것 - 에버코어                                                                     *연합인포맥스*에버코어의 애널리스트는 인공지능 경쟁위협에 IBM(NYS: IBM) 주가가 큰 폭으로 하락했지만, 대규모 고객이탈을 예상하기는 어렵다고 분석했...\n---\n제목 : 노보 노디스크, CagriSema 임상 실망... 실적 전망치 하향 조정                                                                          *연합인포맥스*제이피모간체이스의 애널리스트는 노보 노디스크(NYS: NVO) CagriSema의 임상 실망을 반영하여 향후 수년간의 실적 전망치를...\n\n[WatcherGuru (@WatcherGuru)]\n16 years ago today, Satoshi Nakamoto unveiled the iconic Bitcoin logo for the first time.@WatcherGuru\n---\nJUST IN:Michael Saylor's Strategy currently has a $9,500,000,000 unrealized loss on its Bitcoin investment.@WatcherGuru\n---\nJUST IN:Michael Saylor's Strategy currently has a $9,500,000,000 unrealized loss on its Bitcoin investment.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
