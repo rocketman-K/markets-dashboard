@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 24일 08:25",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,837.75 (-1.04%)\nNASDAQ: 22,627.27 (-1.13%)\nKOSPI: 5,846.09 (+0.65%)\nUSD/KRW: 1,443.03 (-0.33%)",
+  "date": "2026년 02월 24일 11:47",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,837.75 (-1.04%)\nNASDAQ: 22,627.27 (-1.13%)\nKOSPI: 5,945.06 (+1.69%)\nUSD/KRW: 1,446.03 (+0.18%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략/주식 김승혁/조민주]🌏US Daily (2/24)(2/23 종가기준)- 주요 지수 수익률S&P500 6,837.75 / -1.04%NASDAQ 종합 22,627.27 / -1.13%다우산업 48,804.06 / -1.66%러셀2000 2,620.99 / -1.61%필라델피아 반도체 8,213.46 / -0.57%- 섹터별 수익률High 3:...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (2/24)(2/23 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -3.61%SPY -1.16%DIA 0.21%IWM 3.08%*미국 상승 업종XLP (필수 소비재) 1.23%XLV (헬스케어) 1.10%XLU (유틸리티) 0.76%XLE (에너지) ...\n---\n제목 : 엔비디아, 전보다 투자자 관심 약해져… 실적발표 이후 반응 주목  D.                                                                    *연합인포맥스*엔비디아(NAS: NVDA)는 오는 2월 25일에 FY26 4분기(‘25년 11월~’26년 1월) 실적을 발표할 예정이다.   D.A. 데이비슨...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Over $700,000,000,000 wiped out from the US stock market today.@WatcherGuru\n---\nJUST IN:Coinbase CEO Brian Armstrong says Bitcoin is an \"inflation-resistant asset\" and crypto is the \"path to economic freedom.\"@WatcherGuru\n---\nJUST IN:Coinbase CEO Brian Armstrong says Bitcoin is an \"inflation-resistant asset\" and crypto is the \"path to economic freedom.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
