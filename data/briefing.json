@@ -1,9 +1,9 @@
 {
-  "date": "2026년 02월 27일 16:04",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,908.86 (-0.54%)\nNASDAQ: 22,878.38 (-1.18%)\nKOSPI: 6,244.13 (-1.00%)\nUSD/KRW: 1,440.00 (+0.92%)",
+  "date": "2026년 02월 27일 18:29",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,908.86 (-0.54%)\nNASDAQ: 22,878.38 (-1.18%)\nKOSPI: 6,244.13 (-1.00%)\nUSD/KRW: 1,439.78 (+0.90%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 2월 4주차자료링크:https://bbn.kiwoom.com/rfCA317더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n---\n제목 : 팔란티어, 10월 이후 33% 하락… 진입기회 나타나  로젠블랫                                                                             *연합인포맥스*로젠블랫의 애널리스트는 팔란티어 테크놀로지스(NAS: PLTR) 주가가 지난 수개월간 30% 이상 하락하면서, 투자기회를 가질 수 있다...\n---\n제목 : 시놉시스, 단기적으로 분명한 성장동력 나타나지 않아 - MS                                                                              *연합인포맥스*모간스탠리의 애널리스트는 시놉시스(NAS: SNPS) 실적과 상품 출시 전망 등을 종합한 결과, 뚜렷한 성장동력이 나타나지 못하고 있다고...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Senator Elizabeth Warren calls to pass bill banning insider trading and prohibit Congress from owning stocks.@WatcherGuru\n---\nJUST IN:🇺🇸US now has 44% more home sellers than buyers, one of the largest gaps in history.@WatcherGuru\n---\nJUST IN:🇺🇸US federal banking regulator proposes rule to restrict stablecoin rewards.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
