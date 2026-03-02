@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 02일 08:13",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,878.88 (-0.43%)\nNASDAQ: 22,668.21 (-0.92%)\nKOSPI: 6,244.13 (-1.00%)\nUSD/KRW: 1,440.09 (+0.54%)",
+  "date": "2026년 03월 02일 11:44",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,878.88 (-0.43%)\nNASDAQ: 22,668.21 (-0.92%)\nKOSPI: 6,244.13 (-1.00%)\nUSD/KRW: 1,450.57 (+1.27%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 넷플릭스, 워너 브로스 자산 인수하지 못한 것이 더 유리  제프리스 외                                                                   *연합인포맥스*제프리스의 James Heaney 애널리스트는 넷플릭스(NAS: NFLX)가 워너 브로스 디스커버리 자산 인수를 포기한 것이 투자 전망에 더 유리...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 아침 7시에 전하는 뉴욕증시 브리핑(2026.02.27 미국 기준)\"이란, 물가, AI, 사모신용 우려 속 일제히 하락.. 델 +22%\"https://naver.me/IGs2Pex1#뉴욕증시#마감시황#물가#이란#AI#사모신용#DELL#XYZ#CRWV\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 아침 7시에 전하는 뉴욕증시 브리핑2026년 3월 1주차#뉴욕증시#주간전망https://blog.naver.com/101ancha/224200956099#중동확전#스태그플레이션#브로드컴#애플#유가#배당\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:World's 2nd largest shipping company 'Maersk' suspends transit through the Strait of Hormuz amid US-Israeli war with Iran.@WatcherGuru\n---\nJUST IN:Oil rises 12% to $75 per barrel as US and Israel's war with Iran continues.@WatcherGuru\n---\nJUST IN:Oil rises 12% to $75 per barrel as US and Israel's war with Iran continues.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
