@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 03일 16:03",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,881.62 (+0.04%)\nNASDAQ: 22,748.86 (+0.36%)\nKOSPI: 5,791.91 (-7.24%)\nUSD/KRW: 1,463.58 (+1.74%)",
+  "date": "2026년 03월 03일 18:29",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,881.62 (+0.04%)\nNASDAQ: 22,748.86 (+0.36%)\nKOSPI: 5,791.91 (-7.24%)\nUSD/KRW: 1,475.53 (+2.57%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n키움 반도체 박유악입니다.☀️채널:https://t.me/kiwoom_semibat♠Lam Research (LRCX.US): 2026년 DRAM, 2027년 NAND로 이어지는 투자 사이클♠투자 포인트1) 4Q25CY 실적 기대치 상회, 1Q26CY 가이던스도 시장 컨센서스 크게 상회2) 2026년 WFE $135B(+25%YoY) 예상. 첨단 패키징 실...\n---\n[키움증권/김진구] 테이크 투 인터랙티브 소프트웨어 (TTWO.US) 기업리포트: 단기 우려는 제한적, GTA VI 판매량은 시장 컨센서스 상회 여지 존재◆동사 FY3Q26 매출액은 $1.7B(-4%QoQ, +25%YoY)로, 시장 전망치(Bloomberg Consensus: $1.6B)를 +6% 상회, FY4Q26E 가이던스는 $1.57B~$1.62B(-...\n---\n[키움증권/김진구] 세일즈포스 (CRM.US) 기업리포트: 중기 이상 이익 성장성을 높일 필요 명확◆당사는 거대 AI 백본을 보유한 글로벌 빅테크들이 엔터프라이즈 솔루션 영역에 진입하면서 기존 레거시 기반 B2B 솔루션 업체에 대한 경쟁강도 증가로 이어질 것을 선제적으로 제시 하였으며, 이는 연중 동사를 포함한 레거시 SaaS 업체들의 기업가치 레벨다운과 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Average US gas prices rise to $3 for the first time since November 2025.@WatcherGuru\n---\nJUST IN:🇺🇸Average US gas prices rise to $3 for the first time since November 2025.@WatcherGuru\n---\nJUST IN:🇮🇷🇺🇸Iran says the US is \"trillions of dollars in debt and thirsty for Middle Eastern oil.\"@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
