@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 04일 08:14",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,816.63 (-0.94%)\nNASDAQ: 22,516.69 (-1.02%)\nKOSPI: 5,791.91 (-7.24%)\nUSD/KRW: 1,485.69 (+3.28%)",
+  "date": "2026년 03월 04일 11:40",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,816.63 (-0.94%)\nNASDAQ: 22,516.69 (-1.02%)\nKOSPI: 5,322.93 (변동폭 계산 불가)\nUSD/KRW: 1,478.88 (+1.83%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (3/4)(3/3 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -1.07%SPY -0.88%DIA -0.75%IWM -1.73%*미국 상승 업종XLC (통신서비스) 0.08%*미국 하락 업종XLB (원자재) -2.46%XLI (산업재) -1.93%XL...\n---\n[키움증권 미국 주식 박기현]엔비디아의 루멘텀·코히어런트 투자가 가진 전략적 함의▶엔비디아 - 루멘텀·코히어런트 투자 단행- 수년간의 제품 구매 확약과 미래 생산 CAPA 우선권 확보를 포함하며, 특히 양사의 미국 내 신규 제조 시설(Fab) 확충을 직접 지원함으로써 공급망의 회복 탄력성을 강화했다는 점에 주목- 향후 발생할 수 있는 광학 부품 품귀 현상에...\n---\n제목 : 팰로 앨토 네트웍스, 사이버보안 섹터 경쟁우위 매력적  웰스파고                                                                        *연합인포맥스*웰스파고의 Michael Turrin 애널리스트는 사이버보안 섹터에서 팰로 앨토 네트웍스(NAS: PANW)의 성장여력이 매력적이라고 분석했다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳President Trump warns the crypto industry \"will end up going to China\" if banks don't stop undermining crypto market structure bill.@WatcherGuru\n---\nJUST IN:🇺🇸CFTC Chair Mike Selig says crypto market structure legislation \"must pass.\"\"It's critical we have a future-proof digital asset market structure in place.\"@WatcherGuru\n---\nJUST IN:🇺🇸CFTC Chair Mike Selig says crypto market structure legislation \"must pass.\"\"It's critical we have a future-proof digital asset market structure in place.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
