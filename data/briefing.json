@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 09일 16:12",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,740.02 (-1.33%)\nNASDAQ: 22,387.68 (-1.59%)\nKOSPI: 5,251.87 (-5.96%)\nUSD/KRW: 1,494.17 (+0.99%)",
+  "date": "2026년 03월 09일 18:35",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,740.02 (-1.33%)\nNASDAQ: 22,387.68 (-1.59%)\nKOSPI: 5,251.87 (-5.96%)\nUSD/KRW: 1,486.18 (+0.45%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (3/9)▶주간 ETF 수익률 상위* 주식: PLTY+11.7%, CONY +9.4%, WCLD +9.0%, IGV +7.8%, IZRL +7.2%* 채권: FLBL +0.9%, XMPT +0.8%, BWX +0.7%, MUST +0.6%, PICB +0.6%* 대체: USO+32.7%, DBO...\n---\n[키움증권 US Strategy 김승혁]미국 주식 Weekly: 큠틴 아메리카▶3월 2일 ~ 3월 6일 Review- 3월 첫째 주 미국 증시는 고용 부진(-92K)과 유가 급등($100 돌파)이 겹친 스태그플레이션 우려를 더 크게 반영하며 급락- 이에 S&P500 -2.0%, 나스닥 -1.2%, 다우 -3.0%, VIX +48.5%, 필라델피아 반도체지수...\n---\n[키움증권 미국 주식 박기현]시에나 (CIEN.US) : AI 데이터센터 Scale-Across 기술의 선두주자▶(AI 인프라 핵심 주역)- 자체 DSP 기반 코히어런트 광학 기술을 바탕으로 장거리·대용량 광전송 시장에서 경쟁력 보유- AI 학습용 Scale-Across 수요 확대에 힘입어, 2026년 현재 매출의 54% 이상이 하이퍼스케일러향에서 발생- ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Silver crashes under $80, falling over 5% today.@WatcherGuru\n---\nJUST IN:Brent crude oil surges to $115, up 25% today.@WatcherGuru\n---\nJUST IN:Jim Cramer says he does not see a \"path to de-escalation\" between the US, Israel and Iran.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
