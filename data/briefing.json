@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 11일 08:16",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,781.48 (-0.21%)\nNASDAQ: 22,697.10 (+0.01%)\nKOSPI: 5,532.59 (+5.35%)\nUSD/KRW: 1,473.80 (-0.68%)",
+  "date": "2026년 03월 11일 11:39",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,781.48 (-0.21%)\nNASDAQ: 22,697.10 (+0.01%)\nKOSPI: 5,715.72 (+3.31%)\nUSD/KRW: 1,472.18 (+0.53%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/lPImZlvP_0E?si=zmZOFWKWvYW9t2TI\n---\n[키움증권 미국 전략 김승혁]미국은 지금: 엔비디아가 만든 AI 비서, NemoClaw▶GTC 2026의 시사점(Feat. NemoClaw)- 엔비디아가 'NemoClaw'라는 오픈소스 AI 에이전트 플랫폼 출시를 준비 중이라는 내용 공개- 칩 메이커가 칩 없이도 쓸 수 있는 소프트웨어를 무상으로 푼다는 선택은, 단순한 제품 출시가 아닌 사업 모델 전환의 ...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (3/11)(3/10 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.00%SPY -0.16%DIA -0.04%IWM -0.10%*미국 하락 업종XLE (에너지) -1.28%XLV (헬스케어) -0.72%XLU (유틸리티) -0.62%XLI (산업재)...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇮🇷Oil prices rise above $85 after US intelligence detects Iran may be deploying mines in the Straight of Hormuz.@WatcherGuru\n---\nJUST IN:🇮🇷🇺🇸Iranian Foreign Minister says \"US officials are posting fake news to manipulate markets.\"\"It won't protect them from inflationary tsunami they've imposed on Americans. Markets are facing b...\n---\nJUST IN:🇮🇷🇺🇸Iranian Foreign Minister says \"US officials are posting fake news to manipulate markets.\"\"It won't protect them from inflationary tsunami they've imposed on Americans. Markets are facing b...",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
