@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 14일 01:24",
+  "date": "2026년 03월 14일 02:25",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: 22,166.54 (-0.65%)\nKOSPI: 5,487.24 (-1.72%)\nUSD/KRW: 1,499.68 (+1.65%)",
+  "market_data": "S&P 500: 6,653.89 (-0.28%)\nNASDAQ: 22,160.23 (-0.68%)\nKOSPI: 5,487.24 (-1.72%)\nUSD/KRW: 1,496.80 (+1.45%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 우버, Motional과 협력하여 라스베이거스 로보택시 서비스 개시                                                                          *연합인포맥스*시킹 알파는 우버 테크놀로지스(NYS: UBER)가 제휴 전략을 통해 라스베이거스에서 로보택시 서비스를 개시한다고 보도했다.   “▲ 현...\n---\n제목 : 코히어런트, 광학 트랜시버 수요 강력… 생산 계획 유연성도 주목 - TD                                                                   *연합인포맥스*TD 코웬의 Sean O&#39;Loughlin 애널리스트는 코히어런트(NYS: COHR)의 광학 트랜시버 사업이 강력한 수요를 누리고 있으며,...\n---\n제목 : 마이크론, 1분기 메모리 가격 상승세로부터 수혜 기대  웨드부시                                                                         *연합인포맥스*마이크론 테크놀로지(NAS: MU)는 오는 3월 18일에 FY26 2분기(‘25년 12월~’26년 2월) 실적을 발표할 예정이다.   웨드부시...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇨🇦Canada's economy lost 83,900 jobs in February.@WatcherGuru\n---\nJUST IN:🇨🇦Canada's economy lost 83,900 jobs in February.@WatcherGuru\n---\nJUST IN:Silver crashes under $80, falling 5% today.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 우버, Motional과 협력하여 라스베이거스 로보택시 서비스 개시                                                                          *연합인포맥스*시킹 알파는 우버 테크놀로지스(NYS: UBER)가 제휴 전략을 통해 라스베이거스에서 로보택시 서비스를 개시한다고 보도했다.   “▲ 현...\n---\n제목 : 코히어런트, 광학 트랜시버 수요 강력… 생산 계획 유연성도 주목 - TD                                                                   *연합인포맥스*TD 코웬의 Sean O&#39;Loughlin 애널리스트는 코히어런트(NYS: COHR)의 광학 트랜시버 사업이 강력한 수요를 누리고 있으며,...\n---\n제목 : 마이크론, 1분기 메모리 가격 상승세로부터 수혜 기대  웨드부시                                                                         *연합인포맥스*마이크론 테크놀로지(NAS: MU)는 오는 3월 18일에 FY26 2분기(‘25년 12월~’26년 2월) 실적을 발표할 예정이다.   웨드부시...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇨🇦Canada's economy lost 83,900 jobs in February.📰Full Story@WatcherGuru\n---\nJUST IN:Silver crashes under $80, falling 5% today.@WatcherGuru\n---\nJUST IN:Jim Cramer says the market is \"oversold\" and he is \"buying.\"@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
