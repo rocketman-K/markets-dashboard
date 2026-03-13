@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 13일 22:51",
+  "date": "2026년 03월 13일 23:34",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,718.12 (+0.68%)\nNASDAQ: 22,465.35 (+0.69%)\nKOSPI: 5,487.24 (-1.72%)\nUSD/KRW: 1,490.38 (+1.02%)",
+  "market_data": "S&P 500: 6,708.42 (+0.54%)\nNASDAQ: 22,434.36 (+0.55%)\nKOSPI: 5,487.24 (-1.72%)\nUSD/KRW: 1,491.08 (+1.07%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 애플, 중국 앱스토어 수수료 인하                                                                                                      *연합인포맥스*배런스는 애플(NAS: AAPL)이 중국 당국과의 조율을 거쳐 중국 앱스토어 수수료를 인하한다고 보도했다.   “애플이 ...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.03.13)\"강세.. 러시아 원유 제재 완화 덕분? 4Q GDP 수정치와 PCE물가지수 대기\"https://blog.naver.com/101ancha/224215563894#뉴욕증시#장전시황#유가#100달러#러시아원유#GDP#PCE\n---\n제목 : 우버, Motional과 협력하여 라스베이거스 로보택시 서비스 개시                                                                          *연합인포맥스*시킹 알파는 우버 테크놀로지스(NYS: UBER)가 제휴 전략을 통해 라스베이거스에서 로보택시 서비스를 개시한다고 보도했다.   “▲ 현...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Trader accidentally swaps $50 million $USDT for $36,000 $AAVE on Ethereum.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $72,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $72,000@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 우버, Motional과 협력하여 라스베이거스 로보택시 서비스 개시                                                                          *연합인포맥스*시킹 알파는 우버 테크놀로지스(NYS: UBER)가 제휴 전략을 통해 라스베이거스에서 로보택시 서비스를 개시한다고 보도했다.   “▲ 현...\n---\n제목 : 코히어런트, 광학 트랜시버 수요 강력… 생산 계획 유연성도 주목 - TD                                                                   *연합인포맥스*TD 코웬의 Sean O&#39;Loughlin 애널리스트는 코히어런트(NYS: COHR)의 광학 트랜시버 사업이 강력한 수요를 누리고 있으며,...\n---\n제목 : 마이크론, 1분기 메모리 가격 상승세로부터 수혜 기대  웨드부시                                                                         *연합인포맥스*마이크론 테크놀로지(NAS: MU)는 오는 3월 18일에 FY26 2분기(‘25년 12월~’26년 2월) 실적을 발표할 예정이다.   웨드부시...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin reclaims $72,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $73,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $73,000@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
