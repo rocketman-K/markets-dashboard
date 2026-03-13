@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 13일 21:29",
+  "date": "2026년 03월 13일 22:51",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,672.62 (-1.52%)\nNASDAQ: 22,311.98 (-1.78%)\nKOSPI: 5,487.24 (-1.72%)\nUSD/KRW: 1,492.58 (+1.17%)",
+  "market_data": "S&P 500: 6,718.12 (+0.68%)\nNASDAQ: 22,465.35 (+0.69%)\nKOSPI: 5,487.24 (-1.72%)\nUSD/KRW: 1,490.38 (+1.02%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 어도비, 인공지능 경쟁위협 돌파 위해 경영진 교체 나서  윌리엄 블레어                                                                  *연합인포맥스*배런스는 어도비(NAS: ADBE)가 인공지능 기술 경쟁이라는 악재를 돌파하기 위해 경영진 교체에 나서고 있다고 보도했다.   윌리엄 블레어의 Ar...\n---\n제목 : [개장 전 특징주] 어도비, 경영진 사임 발표에 급락 외                                                                                  *연합인포맥스*▲ 어도비(NAS: ADBE): 지난 18년간 CEO로 재직했던 Shantanu Narayen CEO의 사임이 발표되었다. 프리마켓에...\n---\n제목 : 애플, 중국 앱스토어 수수료 인하                                                                                                      *연합인포맥스*배런스는 애플(NAS: AAPL)이 중국 당국과의 조율을 거쳐 중국 앱스토어 수수료를 인하한다고 보도했다.   “애플이 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Trader accidentally swaps $50 million $USDT for $36,000 $AAVE on Ethereum.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $72,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $72,000@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 애플, 중국 앱스토어 수수료 인하                                                                                                      *연합인포맥스*배런스는 애플(NAS: AAPL)이 중국 당국과의 조율을 거쳐 중국 앱스토어 수수료를 인하한다고 보도했다.   “애플이 ...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.03.13)\"강세.. 러시아 원유 제재 완화 덕분? 4Q GDP 수정치와 PCE물가지수 대기\"https://blog.naver.com/101ancha/224215563894#뉴욕증시#장전시황#유가#100달러#러시아원유#GDP#PCE\n---\n제목 : 우버, Motional과 협력하여 라스베이거스 로보택시 서비스 개시                                                                          *연합인포맥스*시킹 알파는 우버 테크놀로지스(NYS: UBER)가 제휴 전략을 통해 라스베이거스에서 로보택시 서비스를 개시한다고 보도했다.   “▲ 현...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Trader accidentally swaps $50 million $USDT for $36,000 $AAVE on Ethereum.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $72,000@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $72,000@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
