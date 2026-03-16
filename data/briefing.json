@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 17일 07:21",
+  "date": "2026년 03월 17일 08:20",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,699.38 (+1.01%)\nNASDAQ: 22,374.18 (+1.22%)\nKOSPI: 5,549.85 (+1.14%)\nUSD/KRW: 1,490.30 (+1.34%)",
+  "market_data": "S&P 500: 6,699.38 (+1.01%)\nNASDAQ: 22,374.18 (+1.22%)\nKOSPI: 5,549.85 (+1.14%)\nUSD/KRW: 1,490.26 (+1.34%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/zaA4InIuYlo?si=Eg4BXZC7KJ02Cjo4\n---\n[키움증권 보험/증권/지주 안영준]🏹로빈후드(HOOD.US) - 2월 주요 지표: 연초 이후 암호화폐 거래대금 증가세 지속◆2월 수탁자산 -3% (MoM), 주식 거래대금 -14% (MoM)- 작년 4Q부터 이어진 미국 증시 부진으로 2월 수탁자산/주식거래대금은 전월대비 감소- 유잔고고객수는 전월대비 1% 증가, 역대 최고치 경신- 암호화폐 시장 부진 지속...\n---\n[키움 글로벌 ETF 김진영]미국 ETF 분석 - SPDR S&P Telecom ETF (XTL.US)광(光)통신과 위성통신을 담은 ETF▶ETF 개요- S&P Telecom Select Industry Index 를 기초지수로 삼아, 미국 통신장비(63%), 대안 통신사업자(17%), 종합 통신서비스(13%), 무선 통신서비스(9%) 산업에 투자하는 ET...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Nvidia $NVDA CEO Jensen Huang expects revenue to surpass $1 trillion by 2027.@WatcherGuru\n---\nJUST IN:🇺🇸SEC prepares proposal to eliminate quarterly reporting requirements for companies, WSJ reports.@WatcherGuru\n---\nJUST IN:ETH reclaims $2,350, rising over 8% today.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 주식 박기현]어플라이드 옵토일렉트로닉스 (AAOI.US): 숨겨진 광통신 강자▶(광 트랜시버 수직계열화)- 광 트랜시버의 레이저 칩 제조부터 최종 제품 조립까지 전 공정을 수직 계열화하여 원가 경쟁령, 공급 안정성 확보- 마이크로소프트(MSFT)와 아마존(AMZN) 등 주요 하이퍼스케일러를 대상으로 AI 인프라 구축에 필수적인 400G 및 ...\n---\n제목 : AMD, 셀레스티카와 Helios 플랫폼 제휴 발표                                                                                            *연합인포맥스*시킹 알파는 AMD가 Helios 플랫폼의 성능 향상과 공급체인 확보를 위해 셀레스티카와의 제휴를 발표했다고 보도했다. ...\n---\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (3/16)▶주간 ETF 수익률 상위* 주식: WGMI+6.1%, BITQ +5.6%, ICLN +5.5%, BKCH +5.1%, DAPP +4.9%* 채권: RISR +1.4%, NCLO +1.0%, TFLR +0.6%, BKLN +0.5%, SRLN +0.5%* 대체: DBO+12.5%, B...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Nvidia $NVDA CEO Jensen Huang expects revenue to surpass $1 trillion by 2027.@WatcherGuru\n---\nJUST IN:🇺🇸SEC prepares proposal to eliminate quarterly reporting requirements for companies, WSJ reports.@WatcherGuru\n---\nJUST IN:ETH reclaims $2,350, rising over 8% today.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
