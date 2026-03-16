@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 16일 23:11",
+  "date": "2026년 03월 17일 00:53",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,721.32 (+1.34%)\nNASDAQ: 22,443.48 (+1.53%)\nKOSPI: 5,549.85 (+1.14%)\nUSD/KRW: 1,486.56 (+1.09%)",
+  "market_data": "S&P 500: 6,702.26 (+1.06%)\nNASDAQ: 22,402.45 (+1.34%)\nKOSPI: 5,549.85 (+1.14%)\nUSD/KRW: 1,491.50 (+1.42%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/zaA4InIuYlo?si=Eg4BXZC7KJ02Cjo4\n---\n[키움증권 보험/증권/지주 안영준]🏹로빈후드(HOOD.US) - 2월 주요 지표: 연초 이후 암호화폐 거래대금 증가세 지속◆2월 수탁자산 -3% (MoM), 주식 거래대금 -14% (MoM)- 작년 4Q부터 이어진 미국 증시 부진으로 2월 수탁자산/주식거래대금은 전월대비 감소- 유잔고고객수는 전월대비 1% 증가, 역대 최고치 경신- 암호화폐 시장 부진 지속...\n---\n[키움 글로벌 ETF 김진영]미국 ETF 분석 - SPDR S&P Telecom ETF (XTL.US)광(光)통신과 위성통신을 담은 ETF▶ETF 개요- S&P Telecom Select Industry Index 를 기초지수로 삼아, 미국 통신장비(63%), 대안 통신사업자(17%), 종합 통신서비스(13%), 무선 통신서비스(9%) 산업에 투자하는 ET...\n\n[WatcherGuru (@WatcherGuru)]\nBREAKING:Michael Saylor's 'Strategy' buys 22,337 Bitcoin worth $1.6 billion.@WatcherGuru\n---\nJUST IN:$2,300 $ETH@WatcherGuru\n---\nJUST IN:$2,300 $ETH@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/zaA4InIuYlo?si=Eg4BXZC7KJ02Cjo4\n---\n[키움증권 보험/증권/지주 안영준]🏹로빈후드(HOOD.US) - 2월 주요 지표: 연초 이후 암호화폐 거래대금 증가세 지속◆2월 수탁자산 -3% (MoM), 주식 거래대금 -14% (MoM)- 작년 4Q부터 이어진 미국 증시 부진으로 2월 수탁자산/주식거래대금은 전월대비 감소- 유잔고고객수는 전월대비 1% 증가, 역대 최고치 경신- 암호화폐 시장 부진 지속...\n---\n[키움 글로벌 ETF 김진영]미국 ETF 분석 - SPDR S&P Telecom ETF (XTL.US)광(光)통신과 위성통신을 담은 ETF▶ETF 개요- S&P Telecom Select Industry Index 를 기초지수로 삼아, 미국 통신장비(63%), 대안 통신사업자(17%), 종합 통신서비스(13%), 무선 통신서비스(9%) 산업에 투자하는 ET...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$2,300 $ETH@WatcherGuru\n---\nJUST IN:Elon Musk's xAI recruiting Wall Street bankers, portfolio managers, and traders to train Grok on financial modeling.@WatcherGuru\n---\nJUST IN:Elon Musk's xAI recruiting Wall Street bankers, portfolio managers, and traders to train Grok on financial modeling.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
