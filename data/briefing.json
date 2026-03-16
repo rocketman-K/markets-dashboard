@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 16일 08:18",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,632.19 (-0.61%)\nNASDAQ: 22,105.36 (-0.93%)\nKOSPI: 5,487.24 (-1.72%)\nUSD/KRW: 1,499.99 (+2.00%)",
+  "date": "2026년 03월 16일 12:21",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,632.19 (-0.61%)\nNASDAQ: 22,105.36 (-0.93%)\nKOSPI: 5,473.93 (-0.24%)\nUSD/KRW: 1,496.98 (+1.80%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n★ 키움 음식료 Weekly (3/16)[키움 음식료/유통 박상준]★ Weekly News & Comments1)라면·과자·빵·식용유 ‘릴레이 가격 인하’…李대통령 “민생 안정에 큰 도움”(iii.ad/1a14c9)- 식품업계에 따르면 농심, 오뚜기, 삼양식품 등 라면 3사는 다음 달부터 주요 제품 가격을 인하- 제빵, 제과, 식용우 업계의 해태제과, 파리...\n---\nhttps://www.youtube.com/live/zaA4InIuYlo?si=Eg4BXZC7KJ02Cjo4\n---\n[키움증권 보험/증권/지주 안영준]🏹로빈후드(HOOD.US) - 2월 주요 지표: 연초 이후 암호화폐 거래대금 증가세 지속◆2월 수탁자산 -3% (MoM), 주식 거래대금 -14% (MoM)- 작년 4Q부터 이어진 미국 증시 부진으로 2월 수탁자산/주식거래대금은 전월대비 감소- 유잔고고객수는 전월대비 1% 증가, 역대 최고치 경신- 암호화폐 시장 부진 지속...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Brent crude oil rises above $106 at open.@WatcherGuru\n---\nJUST IN:$73,000 Bitcoin@WatcherGuru\n---\nJUST IN:$73,000 Bitcoin@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
