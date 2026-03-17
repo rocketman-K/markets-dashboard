@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 17일 16:15",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,699.38 (+1.01%)\nNASDAQ: 22,374.18 (+1.22%)\nKOSPI: 5,640.48 (변동폭 계산 불가)\nUSD/KRW: 1,492.03 (변동폭 계산 불가)",
+  "date": "2026년 03월 17일 18:42",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,699.38 (+1.01%)\nNASDAQ: 22,374.18 (+1.22%)\nKOSPI: 5,640.48 (+1.63%)\nUSD/KRW: 1,490.42 (-0.75%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 센티널원, 성장 스토리 여전히 유효 - 오펜하이머 외                                                                                    *연합인포맥스*센티넬원(NYS: S)이 FY26 4분기(’25년 11월~’26년 1월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다...\n---\n제목 : 울타 뷰티, 매수 기회 vs 둔화 우려 - JPM 외                                                                                           *연합인포맥스*울타 뷰티(NAS: ULTA)가 FY26 4분기(’25년 11월~’26년 1월) 영업실적을 발표한 가운데, 동사에 대한 ...\n---\n제목 : 오픈AI, 생산성 애플리케이션 강조... 주변 사업 축소 예정                                                                              *연합인포맥스*시킹 알파는 오픈AI가 생산성 향상을 위한 인공지능 애플리케이션을 강조하면서, 주변 사업들을 축소할 계획이라고 보도했다.   \"오픈AI...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Odds of Bitcoin hitting $80,000 this month reach new all-time high of 52%@WatcherGuru\n---\nJUST IN:Odds of Bitcoin hitting $80,000 this month reach new all-time high of 52%@WatcherGuru\n---\nJUST IN:$450,000,000 worth of crypto shorts liquidated in the past 24 hours.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
