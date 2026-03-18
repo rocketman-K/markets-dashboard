@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 18일 08:20",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,716.09 (+0.25%)\nNASDAQ: 22,479.53 (+0.47%)\nKOSPI: 5,640.48 (+1.63%)\nUSD/KRW: 1,485.89 (-1.06%)",
+  "date": "2026년 03월 18일 11:51",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,716.09 (+0.25%)\nNASDAQ: 22,479.53 (+0.47%)\nKOSPI: 5,846.81 (+3.66%)\nUSD/KRW: 1,484.88 (-0.27%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/e8TwXbgcH1s?si=XJi--mS4KgpsWyZr\n---\n[키움 미국전략 김승혁]🌏US Daily (3/18)(3/17 종가기준)- 주요 지수 수익률S&P500 6,716.09 / 0.25%NASDAQ 종합 22,479.53 / 0.47%다우산업 46,993.26 / 0.10%러셀2000 2,519.99 / 0.67%필라델피아 반도체 7,836.83 / 0.52%- 섹터별 수익률High 3: 운송 (1.68%),...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (3/18)(3/17 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.49%SPY 0.26%DIA 0.13%IWM 0.45%*미국 상승 업종XLE (에너지) 1.05%XLY (경기 소비재) 0.87%XLK (기술) 0.55%XLF (금융) 0.53%*...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸SEC Chair Paul Atkins says the former administration \"refused\" to recognize that most crypto assets are not \"securities.\"@WatcherGuru\n---\nJUST IN:🇺🇸CFTC issues clarity for non-custodial crypto wallet providers to facilitate trades.@WatcherGuru\n---\nJUST IN:🇺🇸US national debt reaches new all-time high of $39 trillion.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
