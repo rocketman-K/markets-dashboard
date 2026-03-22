@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 22일 08:14",
-  "session_type": "야간 세션 (실시간 모니터링)",
+  "date": "2026년 03월 22일 11:53",
+  "session_type": "주간 세션 (시황 정리)",
   "market_data": "S&P 500: 6,506.48 (-1.51%)\nNASDAQ: 21,647.61 (-2.01%)\nKOSPI: 5,781.20 (+0.31%)\nUSD/KRW: 1,504.83 (-0.03%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 셰브론, 유가 급등에 따른 수혜 기대할 수 있어 - HSBC                                                                                  *연합인포맥스*HSBC의 Kim Fustier 애널리스트는 중동 위기와 유가 급등 상황에서 셰브론(NYS: CVX)이 엑슨 모빌보다 유리하다고 ...\n---\n제목 : 3월 20일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 엔비디아(NAS: NVDA): 울프 리서치는 강세 시나리오를 기준으로 동사의 PER 주가배수가 13배에 불과하기 때문...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 아침 7시에 전하는 뉴욕증시 브리핑(2026.03.20 미국 기준)\"조정 국면 진입.. 슈퍼 마이크로 컴퓨터 -33.3%\"https://naver.me/GZDqW8O5#뉴욕증시#마감시황#이라크#불가항력#조정국면#SMCI\n\n[WatcherGuru (@WatcherGuru)]\nYesterday vs Today@WatcherGuru\n---\nJUST IN:\"Hawk Tuah\" girl Haliey Welch breaks silence on her crypto meme coin that crashed 95% hours after launch.\"I was not controlling the coin.\"@WatcherGuru\n---\nJUST IN:Video shows ship traffic in the Strait of Hormuz over the last 24 hours.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
