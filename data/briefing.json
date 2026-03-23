@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 23일 20:35",
+  "date": "2026년 03월 23일 21:36",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,506.48 (-1.51%)\nNASDAQ: 21,647.61 (-2.01%)\nKOSPI: 5,405.75 (-6.49%)\nUSD/KRW: 1,489.25 (-0.04%)",
+  "market_data": "S&P 500: 6,506.48 (-1.51%)\nNASDAQ: 21,647.61 (-2.01%)\nKOSPI: 5,405.75 (-6.49%)\nUSD/KRW: 1,490.75 (+0.06%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (3/23)▶주간 ETF 수익률 상위* 주식: XOP+5.5%, PSCE +4.8%, IEZ +4.7%, FCG +4.6%, AMDY +4.6%* 채권: HYHG +0.8%, IGHG +0.5%, ISHG +0.5%, IGBH +0.5%, LQDH +0.5%* 대체: UGA+8.3%, BNO +...\n---\n[키움증권 US Strategy 김승혁]미국 주식 Weekly: 큠틴 아메리카▶3월 16일~3월 20일 Review- 3월 셋째주 미국 증시는 S&P500 -1.9%, 나스닥 -2.1%, 다우 -2.1%로 4주 연속 하락, VIX는 26선 후반까지 상승- 스태그플레이션 우려가 매파적 통화정책 부담으로 이어졌고, FOMC는 PCE 전망을 2.7%로 상향- 금...\n---\n3/23 국내 상장 ETF 수익률 상/하위 TOP5\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Binance Founder CZ says \"Bitcoin is a hard asset.\"@WatcherGuru\n---\nJUST IN:Gold crashes under $4,300, falling 5% today.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷$265,000,000 worth of crypto shorts liquidated in the past 15 minutes, following President Trump's statement on having a productive talk with Iran to end the war.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 US Strategy 김승혁]미국 주식 Weekly: 큠틴 아메리카▶3월 16일~3월 20일 Review- 3월 셋째주 미국 증시는 S&P500 -1.9%, 나스닥 -2.1%, 다우 -2.1%로 4주 연속 하락, VIX는 26선 후반까지 상승- 스태그플레이션 우려가 매파적 통화정책 부담으로 이어졌고, FOMC는 PCE 전망을 2.7%로 상향- 금...\n---\n3/23 국내 상장 ETF 수익률 상/하위 TOP5\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.03.23)\"TACO Again? 트럼프 한 마디에 폭등세! 엔비디아 +2%\"https://blog.naver.com/101ancha/224226997713#뉴욕증시#장전시황#트럼프#최후통첩#공습5일연기#지수선물\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$71,000 Bitcoin@WatcherGuru\n---\nJUST IN:$71,000 Bitcoin@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 1,031 Bitcoin worth $77 million.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
