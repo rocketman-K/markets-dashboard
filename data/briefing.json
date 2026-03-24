@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 24일 08:20",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,581.00 (+1.15%)\nNASDAQ: 21,946.76 (+1.38%)\nKOSPI: 5,405.75 (-6.49%)\nUSD/KRW: 1,486.30 (-0.24%)",
+  "date": "2026년 03월 24일 11:45",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,581.00 (+1.15%)\nNASDAQ: 21,946.76 (+1.38%)\nKOSPI: 5,466.79 (+1.13%)\nUSD/KRW: 1,498.68 (-0.37%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/NJhyDnA3SLE?si=gj04iZcCgl0FQqcf\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (3/24)(3/23 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 1.02%SPY 1.05%DIA 1.33%IWM 2.16%*미국 상승 업종XLY (경기 소비재) 2.21%XLK (기술) 1.23%XLB (원자재) 1.21%XLI (산업재) 0.85%...\n---\n[키움 미국전략 김승혁]🌏US Daily (3/24)(3/23 종가기준)- 주요 지수 수익률S&P500 6,581.00 / 1.15%NASDAQ 종합 21,946.76 / 1.38%다우산업 46,208.47 / 1.38%러셀2000 2,494.23 / 2.29%필라델피아 반도체 7,773.13 / 1.34%- 섹터별 수익률High 3: 자동차 및 부품 (3...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Goldman Sachs raises US recession probability to 30%.@WatcherGuru\n---\nJUST IN:BlackRock CEO Larry Fink says tokenization could transform finance like the internet did in 1996.@WatcherGuru\n---\nJUST IN:Nvidia $NVDA CEO Jensen Huang says \"we've achieved AGI.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
