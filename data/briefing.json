@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 24일 16:14",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,581.00 (+1.15%)\nNASDAQ: 21,946.76 (+1.38%)\nKOSPI: 5,553.92 (+2.74%)\nUSD/KRW: 1,488.16 (-1.07%)",
+  "date": "2026년 03월 24일 18:42",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,581.00 (+1.15%)\nNASDAQ: 21,946.76 (+1.38%)\nKOSPI: 5,553.92 (+2.74%)\nUSD/KRW: 1,497.08 (-0.47%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : HSBC, 테슬라 목표주가 하향... 70% 가까운 하락리스크 가리켜                                                                           *연합인포맥스*HSBC의 Michael Tyndall 애널리스트는 자동차 시장 부진과 자본지출 부담 속에 테슬라(NAS: TSLA) 주가가 큰 폭으...\n---\n제목 : 마이크로소프트 Copilot, 수익성 문제 커지고 있어 - 멜리어스                                                                           *연합인포맥스*멜리어스 리서치의 Ben Reitzes 애널리스트는 마이크로소프트(NAS: MSFT) Copilot이 수익성 개선에 도움이 되지 못하고...\n---\n제목 : 테슬라, 차별화된 인공지능 기술 없어... 관성적 투자 피해야 - 글로벌                                                                   *연합인포맥스*글로벌 에쿼티스 리서치의 Trip Chowdhry 애널리스트는 테슬라(NAS: TSLA)가 특별한 인공지능 기술력을 가지지 않았으며, 관성적으로...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:BlackRock CEO Larry Fink says tokenization could transform finance like the internet did in 1996.@WatcherGuru\n---\nJUST IN:Nvidia $NVDA CEO Jensen Huang says \"we've achieved AGI.\"@WatcherGuru\n---\nJUST IN:🇺🇸Massive fire erupts at oil refinery in Port Arthur, Texas following reported explosion.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
