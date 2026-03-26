@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 26일 08:22",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,591.90 (+0.54%)\nNASDAQ: 21,929.83 (+0.77%)\nKOSPI: 5,642.21 (+1.59%)\nUSD/KRW: 1,501.99 (+1.12%)",
+  "date": "2026년 03월 26일 11:57",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,591.90 (+0.54%)\nNASDAQ: 21,929.83 (+0.77%)\nKOSPI: 5,468.97 (-3.07%)\nUSD/KRW: 1,508.29 (+0.73%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (3/26)(3/25 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.66%SPY 0.56%DIA 0.64%IWM 1.22%*미국 상승 업종XLB (원자재) 1.98%XLV (헬스케어) 1.00%XLY (경기 소비재) 0.96%XLI (산업재) 0.6...\n---\n[키움 미국전략 김승혁]🌏US Daily (3/26)(3/25 종가기준)- 주요 지수 수익률S&P500 6,591.90 / 0.54%NASDAQ 종합 21,929.83 / 0.77%다우산업 46,429.49 / 0.66%러셀2000 2,536.38 / 1.23%필라델피아 반도체 7,967.75 / 1.21%- 섹터별 수익률High 3: 소재 (1.97%),...\n---\n제목 : 서클, 스테이블코인 사업 다각화 잠재력 주목  클리어스트리트                                                                           *연합인포맥스*클리어스트리트의 애널리스트는 서클 인터넷 그룹(NYS: CRCL)의 스테이블코인 사업이 다각화되고 있어, 성장잠재력에 주목해야 한다고 분석했다...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳Iran war is threatening US dollar dominance, pushing countries to use Chinese yuan in oil trade, Deutsche Bank says.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳Iran war is threatening US dollar dominance, pushing countries to use Chinese yuan in oil trade, Deutsche Bank says.@WatcherGuru\n---\nJUST IN:🇺🇸US Postal Service to impose 8% surcharge on packages to cover rising fuel costs.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
