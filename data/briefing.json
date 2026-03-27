@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 27일 08:19",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,477.16 (-1.74%)\nNASDAQ: 21,408.08 (-2.38%)\nKOSPI: 5,460.46 (-3.22%)\nUSD/KRW: 1,509.16 (+0.79%)",
+  "date": "2026년 03월 27일 12:18",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,477.16 (-1.74%)\nNASDAQ: 21,408.08 (-2.38%)\nKOSPI: 5,322.27 (-2.53%)\nUSD/KRW: 1,505.78 (+0.32%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/IlkbiG-7uk0?si=WbzL2rx8z6tGAjf9\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (3/27)(3/26 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -2.39%SPY -1.79%DIA -1.04%IWM -1.74%*미국 상승 업종XLE (에너지) 1.57%XLU (유틸리티) 0.18%XLRE (부동산) 0.05%*미국 하락 업종XL...\n---\n[키움증권 미국 전략 김승혁]미국은 지금 - 유동성의 계절이 바뀌다▶방향성을 잃은 증시와 그 원인- 10월 이후 미국 증시 부진은 실적 둔화나 AI 투자 약화보다 유동성의 구조적 경색 영향이 더 컸음- RRP가 사실상 소진된 가운데 QT 중단에도 시스템 유동성은 타이트해졌고, T-bill 발행 확대와 셧다운에 따른 재정지출 동결이 겹쳤음- 민간 자금이 시장...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸US dollar bills to be printed with President Trump's signature, removing Treasurer signature for the first time.@WatcherGuru\n---\nJUST IN:🇺🇸US dollar bills to be printed with President Trump's signature, removing Treasurer signature for the first time.@WatcherGuru\n---\nJUST IN:🇺🇸David Sacks' term as President Trump's crypto and AI czar ends.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
