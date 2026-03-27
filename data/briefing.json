@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 27일 16:19",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,477.16 (-1.74%)\nNASDAQ: 21,408.08 (-2.38%)\nKOSPI: 5,438.87 (-0.40%)\nUSD/KRW: 1,505.67 (+0.31%)",
+  "date": "2026년 03월 27일 18:41",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,477.16 (-1.74%)\nNASDAQ: 21,408.08 (-2.38%)\nKOSPI: 5,438.87 (-0.40%)\nUSD/KRW: 1,506.28 (+0.35%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 클라우드플레어, 인공지능 에이전트 이용 확대로부터 수혜 전망  오펜하이                                                                *연합인포맥스*오펜하이머의 Param Singh 애널리스트는 인공지능 에이전트를 중심으로 데이터 트래픽이 증가하면서, 클라우드플레어(NYS: NET)의 성장세도가속될...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 3월 4주차자료링크:https://bbn.kiwoom.com/rfCA322더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 3월 4주차자료링크:https://bbn.kiwoom.com/rfCA322더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸David Sacks' term as President Trump's crypto and AI czar ends.@WatcherGuru\n---\nJUST IN:🇺🇸Senator Elizabeth Warren says she has \"questions for MrBeast\" over his cryptocurrency plans following banking app acquisition.@WatcherGuru\n---\nJUST IN:🇺🇸Senator Elizabeth Warren says she has \"questions for MrBeast\" over his cryptocurrency plans following banking app acquisition.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
