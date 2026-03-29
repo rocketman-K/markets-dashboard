@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 29일 08:19",
-  "session_type": "야간 세션 (실시간 모니터링)",
+  "date": "2026년 03월 29일 12:22",
+  "session_type": "주간 세션 (시황 정리)",
   "market_data": "S&P 500: 6,368.85 (-1.67%)\nNASDAQ: 20,948.36 (-2.15%)\nKOSPI: 5,438.87 (-0.40%)\nUSD/KRW: 1,508.36 (+0.49%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [개장 전 특징주] 유니티, 아간 등 우수한 실적 발표하며 상승                                                                           *연합인포맥스*▲ 유니티 소프트웨어(NYS: U): 컨센서스를 상회하는 예비실적을 발표했다. 프리마켓에서 15.0% 급등하고 있다.   ▲ 아간(NYS:...\n---\n제목 : [실적 속보] 카니발, 호실적에도 유가 급등 우려 나타나며 하락                                                                          *연합인포맥스*카니발(NYS: CCL)은 FY26 1분기(‘25년 12월~’26년 2월) 실적을 다음과 같이 발표했다.   ▲ 매출 61.7억 달러(+6....\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 아침 7시에 전하는 뉴욕증시 브리핑(2026.03.27 미국 기준)\"전쟁 지속과 경기 불안 속 급락.. 조정 국면 돌입\"https://naver.me/xM5zl5Vu#경기불안#전쟁지속#앤쓰로픽#미쏘스#조정국면#뉴욕증시#마감시황\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump says the US will be the undisputed Bitcoin and crypto \"superpower\" of the world.@WatcherGuru\n---\nJUST IN:🇸🇦Saudi Arabia's East-West oil pipeline bypassing the Strait of Hormuz is now pumping at full capacity of 7 million barrels per day.@WatcherGuru\n---\nJUST IN:🇸🇦Saudi Arabia's East-West oil pipeline bypassing the Strait of Hormuz is now pumping at full capacity of 7 million barrels per day.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
