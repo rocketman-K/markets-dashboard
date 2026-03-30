@@ -1,9 +1,9 @@
 {
-  "date": "2026년 03월 30일 16:55",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,368.85 (-1.67%)\nNASDAQ: 20,948.36 (-2.15%)\nKOSPI: 5,277.30 (-2.97%)\nUSD/KRW: 1,517.78 (+0.62%)",
+  "date": "2026년 03월 30일 19:04",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,368.85 (-1.67%)\nNASDAQ: 20,948.36 (-2.15%)\nKOSPI: 5,277.30 (-2.97%)\nUSD/KRW: 1,516.01 (+0.51%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 주식 박기현]플래닛 랩스 (PL.US): 흑자 전환으로 자생력을 증명한 우주+AI 플랫폼▶('우주 + AI' 플랫폼)- 세계 최대 규모의 소형 위성 군집을 기반으로 지구 전역을 매일 촬영하며, 위성 데이터와 분석 서비스를 제공- 자체 위성으로 확보한 고해상도 이미지에 AI 기반 자동 탐지·시계열 분석을 결합해, 농업·국방·환경·금융 등 다양...\n---\n[키움 중국 박주영]킹소프트 클라우드 홀딩스 (KC.US): 높은 클라우드 사업 노출도가 매력적- 4Q25 매출 28억위안(YoY +24%), Non-GAAP 영업이익 0.5억위안(YoY +124%)- 샤오미/킹소프트 생태계 매출 YoY +63%, 그 외 매출 탑5 고객사도 YoY 44% 증가- 높은 클라우드 사업 노출도로 인해 중국 AI 모멘텀 부각 시 ...\n---\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (3/30)▶주간 ETF 수익률 상위* 주식: REMX +8.8%, SLVR +8.6%, SETM +8.3%, SMCY +8.1%, OIH +7.6%* 채권: QBER +0.7%, NCLO +0.6%, CLOX +0.6%, NHYB +0.5%, JEMB +0.4%* 대체: VIXY +9.3%, ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $65,000$190,000,000 liquidated from the crypto market in the past 15 minutes.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says he wants to \"take the oil in Iran,\" FT reports.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says he wants to \"take the oil in Iran,\" FT reports.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
