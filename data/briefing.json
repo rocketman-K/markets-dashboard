@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 01일 16:45",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,528.52 (+2.91%)\nNASDAQ: 21,590.63 (+3.83%)\nKOSPI: 5,478.70 (+8.44%)\nUSD/KRW: 1,501.46 (-0.97%)",
+  "date": "2026년 04월 01일 18:56",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,528.52 (+2.91%)\nNASDAQ: 21,590.63 (+3.83%)\nKOSPI: 5,478.70 (+8.44%)\nUSD/KRW: 1,506.68 (-0.62%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 노보 노디스크, 인도서 오젬픽·위고비 가격 인하                                                                                       *연합인포맥스*씨킹알파는 “노보 노디스크(NYS: NVO)가 당뇨 및 비만 치료제로 각각 판매되는 GLP-1 계열 약물 세마글루타이드의 가격을 인도...\n---\n제목 : 머스크, 스페이스X IPO서 로빈후드·소파이 제외설 부인                                                                                 *연합인포맥스*씨킹알파는 “테슬라(NAS: TSLA)의 일론 머스크는 스페이스X IPO에서 로빈후드(NAS: HOOD)와 소파이 테크놀로지스(NAS:...\n---\n제목 : 버티브, AI 수요로 설비 확대…밸류 부담 - 제프리스                                                                                    *연합인포맥스*버티브(NYS: VRT)는 3월 31일(화) 5.6% 상승 마감했다. 이는 동사가 AI 데이터센터용 핵심 열 관리 기술 생산을 확대...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇮🇷President Trump says US \"will not have anything to do with\" what happens to the Strait of Hormuz and will withdraw within 2-3 weeks.@WatcherGuru\n---\nFUN FACT:13 years ago today, Bitcoin reached $100 for the first time.@WatcherGuru\n---\nJUST IN:🇲🇹🇪🇺Malta says EU's crypto regulation plans will push firms away to US, UAE, & Asia.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
