@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 01일 08:22",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,528.52 (+2.91%)\nNASDAQ: 21,590.63 (+3.83%)\nKOSPI: 5,277.30 (변동폭 계산 불가)\nUSD/KRW: 1,516.13 (변동폭 계산 불가)",
+  "date": "2026년 04월 01일 12:29",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,528.52 (+2.91%)\nNASDAQ: 21,590.63 (+3.83%)\nKOSPI: 5,389.07 (+6.66%)\nUSD/KRW: 1,508.49 (-0.50%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략 김승혁]🌏US Daily (4/1)(3/31 종가기준)- 주요 지수 수익률S&P500 6,528.52 / 2.91%NASDAQ 종합 21,590.63 / 3.83%다우산업 46,341.51 / 2.49%러셀2000 2,496.37 / 3.41%필라델피아 반도체 7,588.20 / 6.24%- 섹터별 수익률High 3: 반도체 및 장비 (5....\n---\n▶알코아 (AA.US) : 중동발 알루미늄 가격 상승의 수혜주◎ 미국 1위 알루미늄 생산 기업◎ 최근 알루미늄 가격 상승의 이유① 중동 공급망 리스크최근 미국 이란 갈등으로 호르무즈 해협 운행에 차질 발생. 알루미늄 공급 우려로 알루미늄 가격 약 한달간 8% 상승② 에너지 비용 상승- 알코아 알루미늄 제련 원가의 27%는 전력 비용- 최근 LNG 및 유가 ...\n---\n[키움 글로벌 ETF/주식 김진영]🌏글로벌 ETF Daily (4/1)(3/31 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 3.39%SPY 2.91%DIA 2.46%IWM 3.50%*미국 상승 업종XLK (기술) 4.24%XLI (산업재) 3.27%XLY (경기 소비재) 3.14%XLC (통신서비스) 2.69...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:OpenAI raises $122,000,000,000 at $852 billion valuation.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says US \"will not have anything to do with\" what happens to the Strait of Hormuz and will withdraw within 2-3 weeks.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says US \"will not have anything to do with\" what happens to the Strait of Hormuz and will withdraw within 2-3 weeks.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
