@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 02일 16:24",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,575.32 (+0.72%)\nNASDAQ: 21,840.95 (+1.16%)\nKOSPI: 5,234.05 (-4.47%)\nUSD/KRW: 1,514.28 (+0.73%)",
+  "date": "2026년 04월 02일 18:49",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,575.32 (+0.72%)\nNASDAQ: 21,840.95 (+1.16%)\nKOSPI: 5,234.05 (-4.47%)\nUSD/KRW: 1,513.55 (+0.68%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 매코믹, 유니레버 식품사업 인수 부담 - 스티펄 외                                                                                      *연합인포맥스*매코믹(NYS: MKC)에 대한 일부 IB 의견은 다음과 같다.   ▲ 스티펄: 투자의견 보유 유지, 목표주가 65달러에서 55달러...\n---\n[키움증권 미국 전략 김승혁]미국은 지금 - SpaceX의 Project Apex▶SEC 에 제출한 비공개 IPO 서류- SpaceX는 1일(현지시간) SEC에 IPO 등록 서류를 비공개 제출했으며, 6월 상장을 목표로 공모를 추진 중- 목표 기업가치 1.75조달러, 공모 규모 400억~800억달러로 현실화 시 역대 최대 IPO 가능성- 비상장 기업의 초대...\n---\n제목 : 글로벌스타, 아마존과의 M&A 기대감에 주가 급등                                                                                        *연합인포맥스*CNBC는 글로벌스타(NAS: GSAT)가 아마존닷컴으로부터 인수될 가능성이 주목받으면서 주가가 급등하고 있다고 보도했다.   “...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Gold crashes under $4,600Over $1 trillion wiped out from its market cap today.@WatcherGuru\n---\nJUST IN:Silver crashes under $70, falling 7% today.@WatcherGuru\n---\nJUST IN:Silver crashes under $70, falling 7% today.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
