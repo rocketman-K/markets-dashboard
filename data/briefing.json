@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 03일 03:38",
+  "date": "2026년 04월 03일 04:40",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,559.96 (-0.23%)\nNASDAQ: 21,780.78 (-0.28%)\nKOSPI: 5,478.70 (변동폭 계산 불가)\nUSD/KRW: 1,510.70 (+0.49%)",
+  "market_data": "S&P 500: 6,571.72 (-0.05%)\nNASDAQ: 21,827.15 (-0.06%)\nKOSPI: 5,478.70 (변동폭 계산 불가)\nUSD/KRW: 1,510.29 (+0.46%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 다이아몬드백 에너지, 글로벌 유가 상승에 유리, top pick  미즈                                                                         *연합인포맥스*다이아몬드백 에너지(NYS: FANG)는 오는 5월 5일에 ‘26년 1분기 실적을 발표할 예정이다.   미즈호의 Nitin Kumar ...\n---\n제목 : 테슬라 1분기 인도대수, 월가 기대 못 미쳐                                                                                             *연합인포맥스*테슬라(NAS: TSLA)는 오는 4월 22일에 ‘26년 1분기 실적을 발표할 예정이다.   시킹 알파는 테슬라 발표 자료를 ...\n---\n제목 : 테슬라 1분기 인도대수, 월가 기대 못 미쳐                                                                                             *연합인포맥스*테슬라(NAS: TSLA)는 오는 4월 22일에 ‘26년 1분기 실적을 발표할 예정이다.   시킹 알파는 테슬라 발표 자료를 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:IMF says \"tokenization is reshaping regulated finance.\"@WatcherGuru\n---\nJim Cramer is a national treasure@WatcherGuru\n---\nJim Cramer is a national treasure@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 다이아몬드백 에너지, 글로벌 유가 상승에 유리, top pick  미즈                                                                         *연합인포맥스*다이아몬드백 에너지(NYS: FANG)는 오는 5월 5일에 ‘26년 1분기 실적을 발표할 예정이다.   미즈호의 Nitin Kumar ...\n---\n제목 : 테슬라 1분기 인도대수, 월가 기대 못 미쳐                                                                                             *연합인포맥스*테슬라(NAS: TSLA)는 오는 4월 22일에 ‘26년 1분기 실적을 발표할 예정이다.   시킹 알파는 테슬라 발표 자료를 ...\n---\n제목 : 테슬라 1분기 인도대수, 월가 기대 못 미쳐                                                                                             *연합인포맥스*테슬라(NAS: TSLA)는 오는 4월 22일에 ‘26년 1분기 실적을 발표할 예정이다.   시킹 알파는 테슬라 발표 자료를 ...\n\n[WatcherGuru (@WatcherGuru)]\nJim Cramer is a national treasure@WatcherGuru\n---\nJim Cramer is a national treasure@WatcherGuru\n---\nJUST IN:🇺🇸Hyundai to invest $26,000,000,000 in the US over the next 2 years, creating 25,000 new jobs.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
