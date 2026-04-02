@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 02일 20:36",
+  "date": "2026년 04월 02일 21:42",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,575.32 (+0.72%)\nNASDAQ: 21,840.95 (+1.16%)\nKOSPI: 5,234.05 (-4.47%)\nUSD/KRW: 1,516.71 (+0.89%)",
+  "market_data": "S&P 500: 6,575.32 (+0.72%)\nNASDAQ: 21,840.95 (+1.16%)\nKOSPI: 5,234.05 (-4.47%)\nUSD/KRW: 1,516.64 (+0.89%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 글로벌스타, 아마존과의 M&A 기대감에 주가 급등                                                                                        *연합인포맥스*CNBC는 글로벌스타(NAS: GSAT)가 아마존닷컴으로부터 인수될 가능성이 주목받으면서 주가가 급등하고 있다고 보도했다.   “...\n---\n제목 : 넷플릭스, 강력한 가격결정력 바탕으로 요금인상 확대 - BofA                                                                            *연합인포맥스*넷플릭스(NAS: NFLX)는 오는 4월 16일에 ‘26년 1분기 실적을 발표할 예정이다.   뱅크오브아메리카의 애널리스트는 넷플릭스가 ...\n---\n제목 : 일라이 릴리 파운다요, 컨센서스 크게 상회하는 장기 기회 가져  트루이                                                                  *연합인포맥스*일라이 릴리(NYS: LLY)는 오는 4월 30일에 ‘26년 1분기 실적을 발표할 예정이다.   트루이스트의 Srikripa Devarakonda ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Gold crashes under $4,600Over $1 trillion wiped out from its market cap today.@WatcherGuru\n---\nJUST IN:Silver crashes under $70, falling 7% today.@WatcherGuru\n---\nJUST IN:Silver crashes under $70, falling 7% today.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 일라이 릴리 파운다요, 컨센서스 크게 상회하는 장기 기회 가져  트루이                                                                  *연합인포맥스*일라이 릴리(NYS: LLY)는 오는 4월 30일에 ‘26년 1분기 실적을 발표할 예정이다.   트루이스트의 Srikripa Devarakonda ...\n---\n제목 : [개장 전 특징주] 에너지 섹터 상승하는 반면 항공, 여행 섹터 하락                                                                      *연합인포맥스*▲ 에너지 종목들: 미국-이란 전쟁 종전 기대감이 약화되면서 글로벌 유가가 다시 급등하고 있다. 이에 따라 엑슨 모빌(NYS: XOM) +2....\n---\n제목 : 다이아몬드백 에너지, 글로벌 유가 상승에 유리, top pick  미즈                                                                         *연합인포맥스*다이아몬드백 에너지(NYS: FANG)는 오는 5월 5일에 ‘26년 1분기 실적을 발표할 예정이다.   미즈호의 Nitin Kumar ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Gold crashes under $4,600Over $1 trillion wiped out from its market cap today.@WatcherGuru\n---\nJUST IN:Silver crashes under $70, falling 7% today.@WatcherGuru\n---\nJUST IN:Silver crashes under $70, falling 7% today.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
