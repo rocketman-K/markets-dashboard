@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 03일 08:22",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,582.69 (+0.11%)\nNASDAQ: 21,879.18 (+0.18%)\nKOSPI: 5,478.70 (변동폭 계산 불가)\nUSD/KRW: 1,512.09 (변동폭 계산 불가)",
+  "date": "2026년 04월 03일 11:57",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,582.69 (+0.11%)\nNASDAQ: 21,879.18 (+0.18%)\nKOSPI: 5,332.67 (+1.88%)\nUSD/KRW: 1,510.48 (-0.11%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/63cec_5_5OE?si=Uo4qp2pkA2tbTXZp\n---\n[키움 미국전략 김승혁]🌏US Daily (4/3)(4/2 종가기준)- 주요 지수 수익률S&P500 6,582.69 / 0.11%NASDAQ 종합 21,879.18 / 0.18%다우산업 46,504.67 / -0.13%러셀2000 2,530.04 / 0.70%필라델피아 반도체 7,833.39 / 0.40%- 섹터별 수익률High 3: 부동산 (1.49%),...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (4/3)(4/2 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.11%SPY 0.09%DIA -0.09%IWM 0.69%*미국 상승 업종XLRE (부동산) 1.61%XLK (기술) 0.80%XLP (필수 소비재) 0.53%XLU (유틸리티) 0.50%*미...\n\n[WatcherGuru (@WatcherGuru)]\nJim Cramer is a national treasure@WatcherGuru\n---\nJUST IN:🇺🇸Hyundai to invest $26,000,000,000 in the US over the next 2 years, creating 25,000 new jobs.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump to unveil $1.5 trillion defense budget, the largest yearly US military spending increase since World War II, Reuters reports.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
