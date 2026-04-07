@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 07일 16:43",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,611.83 (+0.44%)\nNASDAQ: 21,996.34 (+0.54%)\nKOSPI: 5,494.78 (+0.82%)\nUSD/KRW: 1,501.33 (-0.53%)",
+  "date": "2026년 04월 07일 18:55",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,611.83 (+0.44%)\nNASDAQ: 21,996.34 (+0.54%)\nKOSPI: 5,494.78 (+0.82%)\nUSD/KRW: 1,498.28 (-0.73%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 스페이스X, 6월 둘째 주에 IPO 로드쇼 예정                                                                                             *연합인포맥스*시킹 알파는 스페이스X가 6월에 IPO 로드쇼를 개최할 예정인 것으로 알려졌다고 보도했다.   \"▲ 테슬라(NAS: TSL...\n---\n제목 : 앤트로픽, TPU 구매하며 컴퓨팅 용량 확대 중                                                                                           *연합인포맥스*시킹 알파는 앤트로픽이 알파벳, 브로드컴과 협력하여 TPU를 구매한다고 보도했다.   \"앤트로픽이 ▲ 알파벳(NAS: GOOG...\n---\n제목 : 로빈훗, 실적 전망치 하향... 상승여력은 긍정적 - 미즈호                                                                               *연합인포맥스*로빈훗 마케츠(NAS: HOOD)는 오는 4월 28일에 ‘26년 1분기 실적을 발표할 예정이다.   미즈호의 애널리스트는 로빈훗 마케츠...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:JPMorgan says tokenized real-world assets market could grow to $13 trillion by 2030.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump considers charging tolls for ships passing through the Strait of Hormuz.@WatcherGuru\n---\nJUST IN:🇫🇷🇰🇷France and South Korea's central banks hold joint talks to discuss the future of crypto.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
