@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 09일 16:49",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: nan (+nan%)\nKOSPI: 5,778.01 (변동폭 계산 불가)\nUSD/KRW: 1,481.49 (-1.18%)",
+  "date": "2026년 04월 09일 19:00",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,782.81 (+2.51%)\nNASDAQ: 22,634.99 (+2.80%)\nKOSPI: 5,778.01 (-1.61%)\nUSD/KRW: 1,478.38 (-1.38%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마이크론, DRAM·NAND 가격 상승 지속 - UBS                                                                                            *연합인포맥스*UBS는 마이크론 테크놀로지(NAS: MU)에 대한 투자의견을 매수로 유지했고, 목표주가는 510달러에서 535달러로...\n---\n제목 : 메타, 신규 LLM ‘뮤즈 스파크’로 AI 경쟁력 강화  BofA                                                                                *연합인포맥스*뱅크오브아메리카는 메타 플랫폼스(NAS: META)에 대한 투자의견 매수, 목표주가 885달러를 유지했다.   저스틴 포스트 애...\n---\n제목 : 앱러빈, 광고 사업 장기 성장 기대  맥쿼리                                                                                             *연합인포맥스*맥쿼리의 아론 리 애널리스트는 앱러빈(NAS: APP)에 대해 투자의견 비중확대, 목표주가 710달러로 커버리지를 개시했다. ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Traders placed $950,000,000 in bets on oil prices falling just hours before President Trump announced ceasefire with Iran.@WatcherGuru\n---\nJUST IN:No oil or gas tankers have passed through the Strait of Hormuz since the ceasefire was announced, only 4 vessels carrying dry cargo.@WatcherGuru\n---\nJUST IN:🇺🇸Treasury Secretary Bessent calls for Congress to pass crypto market structure legislation before it's too late.\"Time is scarce, and now is the time to act.\"@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
