@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 13일 17:16",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,816.89 (-0.11%)\nNASDAQ: 22,902.89 (+0.35%)\nKOSPI: 5,808.62 (-0.86%)\nUSD/KRW: 1,488.09 (+1.01%)",
+  "date": "2026년 04월 13일 19:24",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,816.89 (-0.11%)\nNASDAQ: 22,902.89 (+0.35%)\nKOSPI: 5,808.62 (-0.86%)\nUSD/KRW: 1,486.98 (+0.93%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 전략 김승혁]미국은 지금 - 아르테미스 프로젝트▶아르테미스 II 임무의 시작과 끝- 4월 1일~4월 10일(현지시간) 아르테미스 II 임무 성공적으로 마무리▶절묘했던 타이밍- 54년만의 유인 달 근접 비행 시작된 날 Space X의 IPO 예비 서류 기밀 제출- 아르테미스 III·IV 부터 스타십이 유인 달 착륙선(HLS)으로 공식 채택- ...\n---\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (4/13)▶주간 ETF 수익률 상위* 주식: WGMI +18.0%, DRAM +16.8%, SOXX +13.8%, FTXL +13.8%, SOXQ +13.5%* 채권: FEMB +3.0%, EMLC +2.9%, EBND +2.7%, WIP +2.7%, LEMB +2.5%* 대체: BLOX +1...\n---\n[키움증권 미국 전략 김승혁]미국 주식 Weekly: 큠틴 아메리카▶04월 06일 ~ 04월 10일 Review- 4월 2주차 미국 증시는 2주 휴전 합의와 호르무즈 협상 재개 기대를 반영하며 S&P500 +3.56%, 나스닥 +4.68%, 다우 +3.04%, 러셀2000 +3.97%로 작년 11월 이후 최대 주간 상승률 기록- 다만 이번 반등은 실적·경기...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Brent crude oil surges 8% at open to $104 after US and Iran fail to reach agreement.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says he created the \"greatest stock market in history.\"@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says US has \"much more oil\" than Russia and Saudi Arabia combined.\"Boats are coming here & filling up. We don't have to go through the Hormuz.\"@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
