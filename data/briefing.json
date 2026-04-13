@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 13일 08:22",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,816.89 (-0.11%)\nNASDAQ: 22,902.89 (+0.35%)\nKOSPI: 5,858.87 (+1.40%)\nUSD/KRW: 1,483.09 (+0.67%)",
+  "date": "2026년 04월 13일 12:38",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 6,816.89 (-0.11%)\nNASDAQ: 22,902.89 (+0.35%)\nKOSPI: 5,775.94 (-1.42%)\nUSD/KRW: 1,488.01 (+1.00%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.04.10)\"대면 협상 하루 앞두고 강보합세.. 샌디스크 +3%\"https://blog.naver.com/101ancha/224248159076#뉴욕증시#장전시황#대면협상#종전협상#미국이란#이스라엘\n---\n★ 키움 음식료 Weekly (4/13)[키움 음식료/유통 박상준]★ Weekly News & Comments1) 식품업계 \"일부 포장재 재고 2주치\"… 정부 지원 요청(iii.ad/993ba7)- 나프타 대란'이 전 산업으로 확산되면서 식품 업계의 핵심 포장재의 원료 재고가 2주 수준까지 감소- 식품·외식업계는 식품 포장재 핵심 원료의 '우선 공급권'을 ...\n---\nhttps://www.youtube.com/live/4vrbk7GIzFs?si=BcbgEVaBn0fKJLVG\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳President Trump threatens 50% tariff on China if it sends weapons to Iran.@WatcherGuru\n---\nJUST IN:Brent crude oil surges 8% at open to $104 after US and Iran fail to reach agreement.@WatcherGuru\n---\nJUST IN:Brent crude oil surges 8% at open to $104 after US and Iran fail to reach agreement.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
