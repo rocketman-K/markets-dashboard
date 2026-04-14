@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 14일 16:58",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,886.24 (+1.02%)\nNASDAQ: 23,183.74 (+1.23%)\nKOSPI: 5,967.75 (+2.74%)\nUSD/KRW: 1,475.75 (-0.43%)",
+  "date": "2026년 04월 14일 19:04",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,886.24 (+1.02%)\nNASDAQ: 23,183.74 (+1.23%)\nKOSPI: 5,967.75 (+2.74%)\nUSD/KRW: 1,471.74 (-0.70%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 샌디스크, 메모리 공급부족 수혜주, 목표주가 1,200달러 - 에버코어                                                                      *연합인포맥스*샌디스크(NAS: SNDK)는 오는 4월 30일에 FY26 3분기(1~3월) 실적을 발표할 예정이다. <br />     에버코어의 Amit...\n---\n제목 : 유나이티드 에어라인스 CEO, 아메리칸 합병 희망한 것으로 알려져                                                                        *연합인포맥스*벤징가는 유나이티드 에어라인스가 아메리칸 에어라인스와의 합병을 검토했던 것으로 알려지자, 금일 프리마켓에서 아메리칸 에어라인스 주가가 상승하고...\n---\n제목 : 오라클, 블룸에너지 계약 확대                                                                                                         *연합인포맥스*CNBC는 “오라클(NYSE:ORCL)은 블룸에너지(NAS:BE)와 공급 용량 확대 계약을 체결했다”고 보도했다.   ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:X Head of Product Nikita Bier says \"crypto has had a rough year.\"\"Maybe we should launch something to fix it.\"@WatcherGuru\n---\nJUST IN:105,000 blocks remaining until the next Bitcoin Halving, officially reaching halfway point.💸Bitcoin Halving Countdown\n---\nJUST IN:🇩🇪German stock exchange operator Deutsche Börse buys $200,000,000 stake in Kraken crypto exchange.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
