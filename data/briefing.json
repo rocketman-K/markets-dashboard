@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 15일 00:59",
+  "date": "2026년 04월 15일 02:02",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 6,954.11 (+0.99%)\nNASDAQ: 23,552.41 (+1.59%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,471.23 (-0.74%)",
+  "market_data": "S&P 500: 6,955.59 (+1.01%)\nNASDAQ: 23,590.36 (+1.75%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,482.18 (변동폭 계산 불가)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.04.14)\"2차 협상 기대감 속 강세.. 오라클 +4.5%\"https://blog.naver.com/101ancha/224252403194#뉴욕증시#장전시황#2차협상#어닝시즌#ORCL#UAL\n---\n제목 : [실적 속보] 씨티그룹, 호실적 발표하며 상승                                                                                           *연합인포맥스*씨티그룹(NYS: C)은 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 246.3억 달러(+14.0% YoY)를 기...\n---\n제목 : [개장 전 특징주] 아마존, 글로벌스타 인수 발표 외                                                                                     *연합인포맥스*▲ 글로벌스타(NAS: GSAT): 아마존닷컴(NAS: AMZN)이 위성 사업을 강화하기 위해 동사를 인수한다고 발표했다. 프리마켓...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$76,000 Bitcoin@WatcherGuru\n---\nJUST IN:$3.5 trillion Goldman Sachs files for Bitcoin Premium Income ETF.@WatcherGuru\n---\nJUST IN:$3.5 trillion Goldman Sachs files for Bitcoin Premium Income ETF.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.04.14)\"2차 협상 기대감 속 강세.. 오라클 +4.5%\"https://blog.naver.com/101ancha/224252403194#뉴욕증시#장전시황#2차협상#어닝시즌#ORCL#UAL\n---\n제목 : [실적 속보] 씨티그룹, 호실적 발표하며 상승                                                                                           *연합인포맥스*씨티그룹(NYS: C)은 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 246.3억 달러(+14.0% YoY)를 기...\n---\n제목 : [개장 전 특징주] 아마존, 글로벌스타 인수 발표 외                                                                                     *연합인포맥스*▲ 글로벌스타(NAS: GSAT): 아마존닷컴(NAS: AMZN)이 위성 사업을 강화하기 위해 동사를 인수한다고 발표했다. 프리마켓...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$76,000 Bitcoin@WatcherGuru\n---\nJUST IN:$3.5 trillion Goldman Sachs files for Bitcoin Premium Income ETF.📰Full Story@WatcherGuru\n---\nJUST IN:$3.5 trillion Goldman Sachs files for Bitcoin Premium Income ETF.📰Full Story@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
