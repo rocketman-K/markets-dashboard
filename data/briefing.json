@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 15일 16:59",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 6,967.38 (+1.18%)\nNASDAQ: 23,639.08 (+1.96%)\nKOSPI: 6,091.39 (+2.07%)\nUSD/KRW: 1,474.58 (-0.15%)",
+  "date": "2026년 04월 15일 19:05",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 6,967.38 (+1.18%)\nNASDAQ: 23,639.08 (+1.96%)\nKOSPI: 6,091.39 (+2.07%)\nUSD/KRW: 1,477.15 (+0.02%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 인플렉션, 양자컴퓨팅 기대 속 상승여력 존재 - 씨티 외                                                                                 *연합인포맥스*CNBC는 “인플렉션(NYS: INFQ)은 매출을 창출하며 사업을 확장하고 있어, 월가에서 가장 주목받는 신규 양자컴퓨팅 관련 기업 중...\n---\n제목 : 블랙힐스, 마이크로소프트 데이터센터 확장 수혜                                                                                        *연합인포맥스*바론스는 “블랙힐스(NYS: BKH) 주가는 14일(화) 상승했다. 이는 마이크로소프트(NAS: MSFT)가 와이오밍주 샤이엔에 약 ...\n---\n[키움증권 미국 전략 김승혁]▶머니쇼어링 – U.S.로의 자금 복귀- 2025년 비미국 증시의 상대 강세는 사실이지만, 이를 ‘Sell America’로 해석하기엔 과장된 측면이 크며 실제로는 미국 자산 내 재배분 성격이 강했음- 미국 주식 자금 일부가 이탈했어도 상당 부분은 비미국 주식이 아니라 미국 채권으로 이동했고, 장기 펀드·미 국채로의 자금 유입은...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Kraken crypto exchange confidentially files for IPO, Semafor reports.@WatcherGuru\n---\nJUST IN:🇺🇸'Crypto Bros' appear to be dodging reporting sales to the IRS, Bloomberg reports.@WatcherGuru\n---\nJUST IN:X launches new cashtag feature for stocks and crypto.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
