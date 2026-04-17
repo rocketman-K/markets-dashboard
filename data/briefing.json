@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 17일 17:00",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,041.28 (+0.26%)\nNASDAQ: 24,102.70 (+0.36%)\nKOSPI: 6,191.92 (-0.55%)\nUSD/KRW: 1,482.38 (+0.56%)",
+  "date": "2026년 04월 17일 19:02",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,041.28 (+0.26%)\nNASDAQ: 24,102.70 (+0.36%)\nKOSPI: 6,191.92 (-0.55%)\nUSD/KRW: 1,479.34 (+0.36%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 세일스포스, Agentforce 가격인상, 견고한 수요가 배경  트루이                                                                          *연합인포맥스*트루이스트의 Terry Tillman 애널리스트는 세일스포스(NYS: CRM) 컨퍼런스에서 세일스포스 솔루션에 대한 견고한 수요와 가...\n---\n제목 : 코어위브, 네오클라우드 선도하는 기업으로 주목  울프                                                                                  *연합인포맥스*울프 리서치의 애널리스트는 네오클라우드 시장의 성장세를 언급하면서, 코어위브(NAS: CRWV)가 이를 선도하고 있다고 분석했다.   “...\n---\n제목 : 알버말, 주가 52주 고점에 근접… 중립 포지션 권고  베어드                                                                             *연합인포맥스*알버말(NYS: ALB)은 오는 5월 6일에 ‘26년 1분기 실적을 발표할 예정이다.   베어드의 애널리스트는 알버말의 주가 랠리와 수익...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump says the US economy is \"booming.\"@WatcherGuru\n---\nJUST IN:Elon Musk says universal high income from the Federal government \"is the best way to deal with unemployment caused by AI.\"\"AI/robotics will produce goods & services far in excess of the increa...\n---\nJUST IN:Elon Musk says universal high income from the Federal government \"is the best way to deal with unemployment caused by AI.\"\"AI/robotics will produce goods & services far in excess of the increa...",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
