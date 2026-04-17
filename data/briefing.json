@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 17일 08:30",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,041.28 (+0.26%)\nNASDAQ: 24,102.70 (+0.36%)\nKOSPI: 6,091.39 (변동폭 계산 불가)\nUSD/KRW: 1,474.06 (변동폭 계산 불가)",
+  "date": "2026년 04월 17일 12:30",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,041.28 (+0.26%)\nNASDAQ: 24,102.70 (+0.36%)\nKOSPI: 6,185.88 (-0.65%)\nUSD/KRW: 1,479.98 (+0.40%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (4/17)(4/16 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.48%SPY 0.25%DIA 0.19%IWM 0.21%*미국 상승 업종XLE (에너지) 1.47%XLC (통신서비스) 1.25%XLK (기술) 1.14%XLRE (부동산) 0.92%*미국...\n---\n[키움증권 미국 주식 박기현]모간스탠리 (MS.US): 차별화된 수익성과 견고한 자본력 재확인▶(실적&펀더멘털)- FY26Q1(3 월 말) 실적은 순매출 206 억 달러(+16% YoY, +4% 컨센서스) 희석 EPS 3.43 달러(+32% YoY, +15% 컨센서스)로 컨센서스를 큰 폭 상회했으며, ROTCE 27.1%로 업계 최고 수준의 수익성 기록- ...\n---\n제목 : Arm, CPU 성장하며 스마트폰 둔화 상쇄할 것  서스퀘하나                                                                                *연합인포맥스*Arm(NAS: ARM)은 오는 5월 6일에 FY26 4분기(‘26년 1~3월) 실적을 발표할 예정이다.   서스퀘하나의 Mehdi...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:S&P 500 $SPX reaches new all-time high of 7,050@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says \"oil prices are coming down.\"Today, Brent crude oil is up more than 4%, rising above $100 a barrel.@WatcherGuru\n---\nJUST IN:Netflix $NFLX crashes 9% following earnings report.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
