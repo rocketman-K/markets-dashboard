@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 20일 17:22",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,126.06 (+1.20%)\nNASDAQ: 24,468.48 (+1.52%)\nKOSPI: 6,255.20 (+1.02%)\nUSD/KRW: 1,476.38 (-0.10%)",
+  "date": "2026년 04월 20일 19:25",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,126.06 (+1.20%)\nNASDAQ: 24,468.48 (+1.52%)\nKOSPI: 6,219.09 (+0.44%)\nUSD/KRW: 1,471.94 (-0.40%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 제약/바이오 허혜민/김종현]레볼루션 메디신 (RVMD.US): 성공하면 혁명 아닙니까▶기업 개요 및 요약- 다양한 암종에 대한 RAS(ON) 변이 저해제를 개발하는 신약 개발 바이오텍- 췌장암(PDAC) 2차 치료제 3상 긍정적 결과 발표로 신고가 기록-  보유 중인 RAS 저해제 파이프라인의 전반적인 가치 제고 전망▶높은 시장가치의 근거, RA...\n---\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (4/20)▶주간 ETF 수익률 상위* 주식: HOOY +23.3%, MSTY +23.2%, CONY +18.1%, CRPT +17.9%, BKCH +17.3%* 채권: DRSK +3.2%, XCCC +1.6%, EMBX +1.5%, PCY +1.5%, EMBD +1.5%* 대체: BLOX +1...\n---\n[키움증권 미국 전략 김승혁]미국 주식 Weekly: 큠틴 아메리카▶4월 13일 ~ 4월 17일 Review- 4월 3주차 미국 증시는 미-이란 협상 진전과 예상보다 낮은 PPI에 힘입어 3대 지수 3주 연속 강세- 지정학 불안 완화와 리플레이션 우려 진정이 투자심리를 개선했고, 반도체에서 소프트웨어·빅테크로의 섹터 로테이션 연출- 대형 은행 실적 호조와 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor hints at buying more Bitcoin.\"Think Even ₿igger.\"@WatcherGuru\n---\nJUST IN:Bitcoin falls under $74,000 after Iran rejects second round of peace talks with the US.@WatcherGuru\n---\nJUST IN:$RAVE cryptocurrency falls 98% to $0.5, erasing $6.7 billion from its market cap in two days.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
