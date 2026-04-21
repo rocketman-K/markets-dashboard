@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 21일 17:04",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,109.14 (-0.24%)\nNASDAQ: 24,404.39 (-0.26%)\nKOSPI: 6,388.47 (+2.72%)\nUSD/KRW: 1,470.38 (+0.36%)",
+  "date": "2026년 04월 21일 19:08",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,109.14 (-0.24%)\nNASDAQ: 24,404.39 (-0.26%)\nKOSPI: 6,388.47 (+2.72%)\nUSD/KRW: 1,470.04 (+0.33%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 코스트코·페덱스, 관세 환급 둘러싼 소송 직면                                                                                         *연합인포맥스*시킹알파는 “코스트코 홀세일(NYS:COST)와 페덱스(NYS:FDX)는 관세 환급을 둘러싼 소송에 직면했다”고 보도했다.   “미...\n---\n제목 : 월마트, 매장 후방 물류 활용 테스트                                                                                                   *연합인포맥스*시킹알파는 “월마트(NYS:WMT)는 아마존닷컴(NAS:AMZN)과의 경쟁에서 새로운 전략을 실험 중이다”고 보도했다.  ...\n---\n제목 : 메타 왓츠앱, 유료 구독 ‘플러스’ 테스트                                                                                             *연합인포맥스*테크크런치는 “메타 플랫폼스(NYS:META)는 왓츠앱 유료 구독 서비스인 ‘왓츠앱 플러스’를 테스트 중이다”고 보도했다.   ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Amazon $AMZN to invest up to $25,000,000,000 in Claude AI developer Anthropic.@WatcherGuru\n---\nJUST IN:Amazon $AMZN to invest up to $25,000,000,000 in Claude AI developer Anthropic.@WatcherGuru\n---\nJUST IN:Arbitrum freezes 30,766 $ETH worth $71,000,000 linked to suspected AAVE and KelpDAO North Korean exploit.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
