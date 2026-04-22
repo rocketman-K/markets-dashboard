@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 22일 08:25",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,064.01 (-0.63%)\nNASDAQ: 24,259.96 (-0.59%)\nKOSPI: 6,219.09 (변동폭 계산 불가)\nUSD/KRW: 1,486.73 (+1.19%)",
+  "date": "2026년 04월 22일 12:29",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,064.01 (-0.63%)\nNASDAQ: 24,259.96 (-0.59%)\nKOSPI: 6,377.19 (-0.18%)\nUSD/KRW: 1,479.68 (+0.71%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략 김승혁]🌏US Daily (4/22)(4/21 종가기준)- 주요 지수 수익률S&P500 7,064.01 / -0.63%NASDAQ 종합 24,259.96 / -0.59%다우산업 49,149.38 / -0.59%러셀2000 2,764.97 / -1.00%필라델피아 반도체 9,647.21 / 0.50%- 섹터별 수익률High 3: 에너지 (1....\n---\nhttps://www.youtube.com/live/BnDhS_-uOis?si=3sJ-8bHcjY9vESgh\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (4/22)(4/21 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.38%SPY -0.65%DIA -0.60%IWM -1.02%*미국 상승 업종XLE (에너지) 1.45%XLK (기술) 0.08%*미국 하락 업종XLRE (부동산) -1.93%XLU (유...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Fed Chair nominee Kevin Warsh says crypto is now part of the US financial system.@WatcherGuru\n---\nJUST IN:Brent Crude oil surges back over $100 as US-Iran peace talks are put on hold.@WatcherGuru\n---\nJUST IN:Polymarket to launch 24/7 perpetual futures trading for crypto, equities, and commodities.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
