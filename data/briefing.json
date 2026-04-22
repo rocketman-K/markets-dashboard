@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 23일 01:00",
+  "date": "2026년 04월 23일 01:58",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,120.32 (+0.80%)\nNASDAQ: 24,556.88 (+1.22%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,480.18 (+0.74%)",
+  "market_data": "S&P 500: 7,114.84 (+0.72%)\nNASDAQ: 24,537.79 (+1.15%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,479.88 (+0.72%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/BnDhS_-uOis?si=3sJ-8bHcjY9vESgh\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (4/22)(4/21 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.38%SPY -0.65%DIA -0.60%IWM -1.02%*미국 상승 업종XLE (에너지) 1.45%XLK (기술) 0.08%*미국 하락 업종XLRE (부동산) -1.93%XLU (유...\n---\n[키움 자동차 신윤철]제너럴 모터스(GM.US): 탈전기차 미국 판매전략 구체화 기대◎Q1 2026 Preview: 부담스러운 전년 동기의 높은 수익성 기저- 시장 기대치는 매출액 $43.3bn(-1.6% YoY), EPS $2.59(-6.8% YoY)에 형성. 전년 동기는 트럼프 행정부의 자동차 품목관세 발효 이전이기에 수익성 기저 높게 형성됨.- 최대 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$79,000 Bitcoin@WatcherGuru\n---\nJUST IN:🇷🇺Russia advances bill to regulate & classify crypto as property and allow it in foreign trade.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷Traders placed $430,000,000 in bets on lower oil prices minutes before President Trump announced ceasefire extension with Iran.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/BnDhS_-uOis?si=3sJ-8bHcjY9vESgh\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (4/22)(4/21 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.38%SPY -0.65%DIA -0.60%IWM -1.02%*미국 상승 업종XLE (에너지) 1.45%XLK (기술) 0.08%*미국 하락 업종XLRE (부동산) -1.93%XLU (유...\n---\n[키움 자동차 신윤철]제너럴 모터스(GM.US): 탈전기차 미국 판매전략 구체화 기대◎Q1 2026 Preview: 부담스러운 전년 동기의 높은 수익성 기저- 시장 기대치는 매출액 $43.3bn(-1.6% YoY), EPS $2.59(-6.8% YoY)에 형성. 전년 동기는 트럼프 행정부의 자동차 품목관세 발효 이전이기에 수익성 기저 높게 형성됨.- 최대 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇷🇺Russia advances bill to regulate & classify crypto as property and allow it in foreign trade.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷Traders placed $430,000,000 in bets on lower oil prices minutes before President Trump announced ceasefire extension with Iran.@WatcherGuru\n---\nJUST IN:🇺🇸Treasury Secretary Bessent says crypto is going to be a \"very important payment rail.\"@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
