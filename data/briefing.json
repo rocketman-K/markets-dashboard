@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 24일 17:15",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,108.40 (-0.41%)\nNASDAQ: 24,438.50 (-0.89%)\nKOSPI: 6,475.63 (-0.00%)\nUSD/KRW: 1,482.95 (+0.34%)",
+  "date": "2026년 04월 24일 19:14",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,108.40 (-0.41%)\nNASDAQ: 24,438.50 (-0.89%)\nKOSPI: 6,475.63 (-0.00%)\nUSD/KRW: 1,483.58 (+0.38%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 전략 김승혁]테슬라(TSLA.US) - 기준을 바꾸다▶️FY1Q26 실적 Review- FY1Q26 (3월말) 실적: 매출액 223.87억달러(YoY +15.8%, QoQ 10.1%, 컨센 대비 +0.9%), 영업이익 9.41억달러(YoY +135.8%, QoQ -33.2%, 컨센 대비 +19.5%), 영업이익률 4.2%(YoY +2.1%p...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 4월 4주차자료링크:https://bbn.kiwoom.com/rfCA327더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 4월 4주차자료링크:https://bbn.kiwoom.com/rfCA327더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:OpenAI officially releases new ChatGPT AI model GPT-5.5@WatcherGuru\n---\nJUST IN:🇺🇸Senator Cynthia Lummis says there is now \"bipartisan support\" for Congress to advance crypto market structure legislation.@WatcherGuru\n---\nJUST IN:🇺🇸DOJ arrests US special forces soldier involved in Venezuelan President Maduro's capture for making over $400,000 betting on his removal from office.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
