@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 27일 21:14",
+  "date": "2026년 04월 27일 23:53",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,165.08 (+0.80%)\nNASDAQ: 24,836.60 (+1.63%)\nKOSPI: 6,615.03 (+2.15%)\nUSD/KRW: 1,470.59 (-0.63%)",
+  "market_data": "S&P 500: 7,159.05 (-0.08%)\nNASDAQ: 24,774.36 (-0.25%)\nKOSPI: 6,615.03 (+2.15%)\nUSD/KRW: 1,471.32 (-0.58%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : GE 베르노바, 수주 증가세 바탕으로 목표주가 상향  씨티                                                                                *연합인포맥스*씨티의 애널리스트는 GE 베르노바(NYS: GEV)가 밝힌 수주 증가세를 근거로 목표주가를 상향 조정했다.   “GE 베르노바는 ‘26...\n---\n제목 : 온 세미, 니오와 전기차용 반도체 협력 강화                                                                                            *연합인포맥스*온 세미컨덕터(NAS: ON)는 오는 5월 4일에 ‘26년 1분기 실적을 발표할 예정이다.   시킹 알파는 온 세미컨덕터가 니오...\n---\n제목 : 일라이 릴리, 비만 치료제 우위, M&A 등 매출 성장 기대 - CFRA                                                                          *연합인포맥스*일라이 릴리(NYS: LLY)는 오는 4월 30일에 ‘26년 1분기 실적을 발표할 예정이다.   CFRA의 Sel Hardy 애널리...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇮🇷US Navy seizes Iranian tanker transporting $380,000,000 worth of oil.@WatcherGuru\n---\nJUST IN:$79,000 Bitcoin@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 3,273 Bitcoin worth $255 million.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.04.27)\"보합세.. 오픈AI, 스마폰 개발? 퀄컴 +13%\"https://blog.naver.com/101ancha/224267172831#뉴욕증시#장전시황#종전협상#실적발표#퀄컴#오픈AI#애플\n---\n제목 : [개장 전 특징주] 퀄컴, 오픈AI 협력에 급등… 애플은 경쟁 우려에 하                                                                    *연합인포맥스*▲ 퀄컴(NAS: QCOM): 오픈AI의 스마트폰 프로세서 개발에 동사가 참여하게 될 것으로 예상되면서 프리마켓에서 9.8% 급등하고 있다. ...\n---\n제목 : 오픈AI, 마이크로소프트와의 제휴 조정… 매출 공유 축소될 것                                                                           *연합인포맥스*시킹 알파는 오픈AI와 마이크로소프트가 관계를 재차 조정하면서, 오픈AI가 타 클라우드와의 거래를 확대할 수 있게 되었다고 보도했다.   “...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇮🇷US Navy seizes Iranian tanker transporting $380,000,000 worth of oil.@WatcherGuru\n---\nJUST IN:$79,000 Bitcoin@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 3,273 Bitcoin worth $255 million.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
