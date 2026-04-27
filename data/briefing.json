@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 27일 08:27",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,165.08 (+0.80%)\nNASDAQ: 24,836.60 (+1.63%)\nKOSPI: 6,475.63 (-0.00%)\nUSD/KRW: 1,475.59 (-0.29%)",
+  "date": "2026년 04월 27일 12:47",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,165.08 (+0.80%)\nNASDAQ: 24,836.60 (+1.63%)\nKOSPI: 6,623.28 (+2.28%)\nUSD/KRW: 1,469.76 (-0.69%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 아침 7시에 전하는 뉴욕증시 브리핑(2026.04.24 미국 기준)\"+23% 폭등한 인텔이 지배한 하루! 엔비디아 시총 5조 달러 복귀?\"https://naver.me/x7e8iOsD#인텔#AMD#CPU#뉴욕증시#마감시황#종전기대\n---\n★ 키움 음식료 Weekly (4/27)[키움 음식료/유통 박상준]★ Weekly News & Comments1) 삼양식품, 아마존재팬과 맞손…현지 점유율 확대 박차(iii.ad/e4b3b2)- 삼양식품이 세계 최대 이커머스 플랫폼의 일본법인인 '아마존재팬'에서 공격적인 캠페인을 전개- 아마존재팬 스토어에서 '불닭볶음면' 시리즈 등 주력 제품을 최대 11%...\n---\nhttps://www.youtube.com/live/MwdLYvRo0_A?si=0lZkoQuEw7p5EjY0\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor hints at buying more Bitcoin.\"The ₿eat Goes On.\"@WatcherGuru\n---\nFUN FACT:Less than 10% of the global population is invested in crypto.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷US Navy seizes Iranian tanker transporting $380,000,000 worth of oil.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
