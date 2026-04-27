@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 27일 17:37",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,165.08 (+0.80%)\nNASDAQ: 24,836.60 (+1.63%)\nKOSPI: 6,615.03 (+2.15%)\nUSD/KRW: 1,470.71 (-0.62%)",
+  "date": "2026년 04월 27일 19:51",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,165.08 (+0.80%)\nNASDAQ: 24,836.60 (+1.63%)\nKOSPI: 6,615.03 (+2.15%)\nUSD/KRW: 1,469.83 (-0.68%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 퀄컴, 오픈AI의 스마트폰 프로세서 개발 참여 예상돼                                                                                    *연합인포맥스*퀄컴(NAS: QCOM)은 오는 4월 29일에 FY26 2분기(1~3월) 실적을 발표할 예정이다.   TF 인터내셔널의 Ming-Ch...\n---\n제목 : [실적 속보] 도미노 피자, 동일매장매출 증가율 실망에 하락                                                                             *연합인포맥스*도미노 피자(NAS: DPZ)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 11.5억 달러(+3.6% YoY)를 기록했다....\n---\n제목 : GE 베르노바, 주가 상승세 계속되려면 이익률, 실행력 개선 필요  미                                                                     *연합인포맥스*미즈호의 애널리스트는 GE 베르노바(NYS: GEV)의 강력한 수주 추이를 반영하여 목표주가를 상향 조정했지만, 주가 상승세가 계속되기 위해서...\n\n[WatcherGuru (@WatcherGuru)]\nFUN FACT:Less than 10% of the global population is invested in crypto.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷US Navy seizes Iranian tanker transporting $380,000,000 worth of oil.@WatcherGuru\n---\nJUST IN:$79,000 Bitcoin@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
