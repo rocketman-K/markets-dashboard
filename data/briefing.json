@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 29일 02:27",
+  "date": "2026년 04월 29일 04:14",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,122.86 (-0.71%)\nNASDAQ: 24,568.09 (-1.28%)\nKOSPI: 6,615.03 (변동폭 계산 불가)\nUSD/KRW: 1,472.85 (-0.12%)",
+  "market_data": "S&P 500: 7,143.18 (-0.43%)\nNASDAQ: 24,698.76 (-0.76%)\nKOSPI: 6,615.03 (변동폭 계산 불가)\nUSD/KRW: 1,472.75 (-0.13%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 코닝, 가이던스 기대 못 미치며 주가 하락                                                                                  *연합인포맥스*코닝(NYS: GLW)은 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 43.5억 달러(+18% YoY)를 기록했다. 이...\n---\n제목 : [개장 전 특징주] 오픈AI 성장세 둔화 우려 속에 오라클 주가 하락                                                                       *연합인포맥스*▲ 오라클(NYS: ORCL): 오픈AI가 신규 가입자 유치 및 매출 성장 목표를 미달하고 있는 것으로 알려지면서, 오픈AI와의 거래 규모가...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.04.28)\"유가 급등 속 하락세.. 코카콜라 +3%\"https://blog.naver.com/101ancha/224268396349#뉴욕증시#장전시황#종전협상#실적발표#유가#FOMC#어닝시즌#코카콜라#앰코어테크놀로지\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $76,000@WatcherGuru\n---\nJUST IN:Apple $AAPL weather app is down worldwide.@WatcherGuru\n---\nJUST IN:Apple $AAPL weather app is down worldwide.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 코닝, 가이던스 기대 못 미치며 주가 하락                                                                                  *연합인포맥스*코닝(NYS: GLW)은 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 43.5억 달러(+18% YoY)를 기록했다. 이...\n---\n제목 : [개장 전 특징주] 오픈AI 성장세 둔화 우려 속에 오라클 주가 하락                                                                       *연합인포맥스*▲ 오라클(NYS: ORCL): 오픈AI가 신규 가입자 유치 및 매출 성장 목표를 미달하고 있는 것으로 알려지면서, 오픈AI와의 거래 규모가...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.04.28)\"유가 급등 속 하락세.. 코카콜라 +3%\"https://blog.naver.com/101ancha/224268396349#뉴욕증시#장전시황#종전협상#실적발표#유가#FOMC#어닝시즌#코카콜라#앰코어테크놀로지\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Apple $AAPL weather app is down worldwide.@WatcherGuru\n---\nJUST IN:🇺🇸CFTC sues the state of Wisconsin for \"encroaching\" on its authority over crypto prediction markets.@WatcherGuru\n---\nJUST IN:🇺🇸Trump family's World Liberty Financial partnered with crypto project linked to alleged scam-ring operators sanctioned by the US, WSJ reports.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
