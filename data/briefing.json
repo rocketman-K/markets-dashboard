@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 29일 08:42",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,138.80 (-0.49%)\nNASDAQ: 24,663.80 (-0.90%)\nKOSPI: 6,615.03 (변동폭 계산 불가)\nUSD/KRW: 1,473.00 (변동폭 계산 불가)",
+  "date": "2026년 04월 29일 12:49",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,138.80 (-0.49%)\nNASDAQ: 24,663.80 (-0.90%)\nKOSPI: 6,656.56 (+0.23%)\nUSD/KRW: 1,475.94 (+0.20%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적공시] 로빈훗, 암호화폐 부문 부진…시간외 급락                                                                                   *연합인포맥스*로빈훗 마케츠(NAS: HOOD)는 ‘26년 1분기 영업실적을 다음과 같이 발표했다.   ▲ 매출 10.7억 달러(전년 동기 대비 +1...\n---\n제목 : 마이크론, 메모리 사이클 장기화 전망, 주가 상승여력 커  D.A.                                                                          *연합인포맥스*D.A. 데이비슨의 Gil Luria 애널리스트는 메모리 사이클 장기화를 예상하면서 마이크론 테크놀로지(NAS: MU)의 주가 상승여력이...\n---\n제목 : 팔란티어, 월가 예상보다 우수한 성장세 나타날 것  씨티                                                                                *연합인포맥스*씨티의 Tyler Radke 애널리스트는 1분기 팔란티어 테크놀로지스(NAS: PLTR)의 신규 계약 신호를 분석했을 때, 현재 예상되는...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇦🇪Citadel receives regulatory approval to operate in Dubai, UAE.@WatcherGuru\n---\nJUST IN:Elon Musk says he tried to warn former President Obama about AI, but was not taken seriously because it was not smart enough yet.\"Here we are in 2026, AI is very smart.\"@WatcherGuru\n---\nJUST IN:Elon Musk says he tried to warn former President Obama about AI, but was not taken seriously because it was not smart enough yet.\"Here we are in 2026, AI is very smart.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
