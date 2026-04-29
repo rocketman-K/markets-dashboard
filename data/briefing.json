@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 29일 17:28",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,138.80 (-0.49%)\nNASDAQ: 24,663.80 (-0.90%)\nKOSPI: 6,690.90 (+0.75%)\nUSD/KRW: 1,477.58 (+0.31%)",
+  "date": "2026년 04월 29일 19:45",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,138.80 (-0.49%)\nNASDAQ: 24,663.80 (-0.90%)\nKOSPI: 6,690.90 (+0.75%)\nUSD/KRW: 1,478.79 (+0.39%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마이크론, 장기 공급계약 확대되며 실적 안정성 기대 - TD 코웬                                                                          *연합인포맥스*TD 코웬의 애널리스트는 마이크론 테크놀로지(NAS: MU)가 장기 공급계약을 체결하면서 안정성이 향상되고 있다고 강조했다.   \"메모리 ...\n---\n제목 : [실적 속보] 휴마나, 호실적에도 ‘26년 EPS 감소 전망에 주가 하락                                                                      *연합인포맥스*휴마나(NYS: HUM)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 비GAAP EPS 10.31달러(-10.9% YoY)를 기...\n---\n제목 : 오픈AI, 광고 요금제 보급 효과에 관심 커져                                                                                            *연합인포맥스*벤징가는 오픈AI 성장세 둔화에 대한 우려가 커진 가운데, 광고 요금제 보급 효과에 주목할 필요가 있다고 보도했다.   \"최근...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇮🇷Treasury Secretary Bessent says the US is targeting Iran's \"access to crypto.\"@WatcherGuru\n---\nJUST IN:Elon Musk says AI \"could kill us all\" during OpenAI lawsuit testimony.@WatcherGuru\n---\nJUST IN:Elon Musk says AI \"could kill us all\" during OpenAI lawsuit testimony.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
