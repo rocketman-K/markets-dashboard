@@ -1,9 +1,9 @@
 {
-  "date": "2026년 04월 30일 08:41",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,135.95 (-0.04%)\nNASDAQ: 24,673.24 (+0.04%)\nKOSPI: 6,641.02 (변동폭 계산 불가)\nUSD/KRW: 1,471.99 (변동폭 계산 불가)",
+  "date": "2026년 04월 30일 12:50",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,135.95 (-0.04%)\nNASDAQ: 24,673.24 (+0.04%)\nKOSPI: 6,659.60 (-0.47%)\nUSD/KRW: 1,483.73 (+0.80%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌리서치팀]키움 글로벌 5월 Monthly : 밑 안빠진 독에 물 붓기▶미국: 망설임과 설레임- 4월 美 증시는 이란發 지정학 우려 완화로 위험선호가 회복되며 IT·SOX 등 성장주 중심 강세. 다만 EPS 개선보다는 5월 유동성 유입과 실적 기대를 반영한 P/E 멀티플 확대가 상승을 주도- 5월에는 세금 시즌 종료 이후 TGA 자금 유입, 재무...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (4/30)(4/29 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.61%SPY -0.02%DIA -0.56%IWM -0.67%*미국 상승 업종XLE (에너지) 2.29%XLK (기술) 0.80%XLF (금융) 0.14%*미국 하락 업종XLU (유틸리티)...\n---\n제목 : AMD, 하반기에 반도체 양산 및 성장세 가속 예상  서스퀘하나                                                                            *연합인포맥스*AMD(NAS: AMD)는 오는 5월 5일에 ‘26년 1분기 실적을 발표할 예정이다.   서스퀘하나의 Christopher Rolland...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇮🇷🇺🇸Iranian Parliament Speaker Ghalibaf says President Trump \"cranked oil up to $120\" from the US blockade in the Strait of Hormuz.\"Next stop: $140\"@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says \"Jerome 'Too Late' Powell wants to stay at the Fed because he can't get a job anywhere else.\"\"Nobody wants him.\"@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says \"Jerome 'Too Late' Powell wants to stay at the Fed because he can't get a job anywhere else.\"\"Nobody wants him.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
