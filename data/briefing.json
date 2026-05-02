@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 02일 16:54",
-  "session_type": "주간 세션 (시황 정리)",
+  "date": "2026년 05월 02일 18:51",
+  "session_type": "야간 세션 (실시간 모니터링)",
   "market_data": "S&P 500: 7,230.12 (+0.29%)\nNASDAQ: 25,114.44 (+0.89%)\nKOSPI: 6,598.87 (-1.38%)\nUSD/KRW: 1,471.22 (-0.19%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 모더나, 해외 매출 증가세 주목받으며 상승                                                                                 *연합인포맥스*모더나(NAS: MRNA)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 3억 8,900만 달러(+260% YoY)를 기...\n---\n제목 : [실적 속보] 콜게이트-팜올리브, 중동 위기에 따른 위험 경고                                                                            *연합인포맥스*콜게이트-팜올리브(NYS: CL)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 53.2억 달러(+8.4% YoY)를 기록했...\n---\n제목 : [실적 속보] 도미니언 에너지, 호실적에 주가 소폭 상승                                                                                 *연합인포맥스*도미니언 에너지(NYS: D)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 50.2억 달러(+23.0% YoY)를 기록...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:GameStop $GME is preparing an offer to acquire $EBAY, WSJ reports.@WatcherGuru\n---\nJUST IN:GameStop $GME is preparing an offer to acquire $EBAY, WSJ reports.@WatcherGuru\n---\nJUST IN:Spirit Airlines officially shuts down.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
