@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 06일 08:37",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,259.22 (+0.81%)\nNASDAQ: 25,326.12 (+1.03%)\nKOSPI: 6,936.99 (+5.12%)\nUSD/KRW: 1,474.88 (-0.08%)",
+  "date": "2026년 05월 06일 12:51",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,259.22 (+0.81%)\nNASDAQ: 25,326.12 (+1.03%)\nKOSPI: 7,403.44 (+6.72%)\nUSD/KRW: 1,457.88 (-1.23%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (5/6)(5/5 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 1.30%SPY 0.80%DIA 0.69%IWM 1.68%*미국 상승 업종XLK (기술) 2.21%XLB (원자재) 1.74%XLI (산업재) 0.84%XLP (필수 소비재) 0.62%*미국 하...\n---\n제목 : [실적공시] 루멘텀, FY 3분기 매출 컨센 하회…시간외 하락                                                                              *연합인포맥스*루멘텀 홀딩스(NAS: LITE)는 FY26 3분기(‘26년 1~3월) 영업실적을 다음과 같이 발표했다.   ▲ 매출 8억 840만 달...\n---\n제목 : 팔란티어, 인공지능 수익화 선도 기업… 상승여력 있어  BofA                                                                            *연합인포맥스*뱅크오브아메리카의 Mariana Perez Mora 애널리스트는 팔란티어 테크놀로지스(NAS: PLTR)의 현금 창출능력과 수익화를 강조...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor's Strategy proposes selling some Bitcoin to pay dividends.\"You buy Bitcoin with credit, you let it appreciate, and then you sell Bitcoin to pay the dividend.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says US attempt at opening Strait of Hormuz 'Project Freedom' will be paused as negotiations with Iran continue.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says US attempt at opening Strait of Hormuz 'Project Freedom' will be paused as negotiations with Iran continue.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
