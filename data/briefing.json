@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 07일 17:44",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,365.12 (+1.46%)\nNASDAQ: 25,838.94 (+2.02%)\nKOSPI: 7,490.05 (+1.43%)\nUSD/KRW: 1,448.56 (-1.72%)",
+  "date": "2026년 05월 07일 19:57",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,365.12 (+1.46%)\nNASDAQ: 25,838.94 (+2.02%)\nKOSPI: 7,490.05 (+1.43%)\nUSD/KRW: 1,451.06 (-1.55%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : Arm, 공급 불확실성 대두되며 주가 하락                                                                                                *연합인포맥스*인베스팅닷컴은 Arm(NAS: ARM) 실적발표에서 수요를 충족할 수 있는 공급이 아직 확보되지 않은 것으로 나타나면서 주...\n---\n제목 : 우버, 매크로 악재에도 성장 모멘텀 가속되고 있어 - BNPP                                                                               *연합인포맥스*BNP 파리바의 Nick Jones 애널리스트는 우버 테크놀로지스(NYS: UBER)가 매크로 악재에도 불구하고 성장 모멘텀이 가속되...\n---\n제목 : [실적 속보] 셀시어스, 북미 에너지 드링크 시장에서 성장세 견고                                                                        *연합인포맥스*셀시어스(NAS: CELH)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 7억 8,260만 달러(+137.7% YoY)를 기록...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸White House official Patrick Witt says Bitcoin Strategic Reserve announcement is coming within \"weeks.\"@WatcherGuru\n---\nJUST IN:🇺🇸President Donald Trump says jobs and 401(k)s are \"BOOMING.\"@WatcherGuru\n---\nJUST IN:🇺🇸President Donald Trump says jobs and 401(k)s are \"BOOMING.\"@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
