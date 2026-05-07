@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 08일 02:29",
+  "date": "2026년 05월 08일 04:21",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,335.66 (-0.40%)\nNASDAQ: 25,778.13 (-0.24%)\nKOSPI: 7,384.56 (변동폭 계산 불가)\nUSD/KRW: 1,455.52 (-1.25%)",
+  "market_data": "S&P 500: 7,328.35 (-0.50%)\nNASDAQ: 25,752.21 (-0.34%)\nKOSPI: 7,384.56 (변동폭 계산 불가)\nUSD/KRW: 1,455.57 (-1.25%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : Arm, CPU 수요 강력했지만 공급 확보가 문제 요인- MS                                                                                   *연합인포맥스*모간스탠리의 Lee Simpson 애널리스트는 Arm(NAS: ARM) CPU의 강력한 수요에도 불구하고, 공급능력 확보가 문...\n---\n제목 : Arm, CPU 성장여력 크고 라이선스 사업 안정적 - RBC                                                                                    *연합인포맥스*RBC 캐피털의 Srini Pajjuri 애널리스트는 Arm(NAS: ARM) CPU 부문의 성장여력과 라이선스 부문의 견고...\n---\n제목 : 5월 7일 주요 종목에 대한 IB 투자의견                                                                                                 *연합인포맥스*▲ 엔비디아(NAS: NVDA): 골드만삭스는 데이터센터 투자지출 확대와 인공지능 에이전트 보급에 따른 프로세서 수요 증...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor says \"buy more bitcoin than you sell.\"@WatcherGuru\n---\nJUST IN:Michael Saylor says \"buy more bitcoin than you sell.\"@WatcherGuru\n---\nJUST IN:Bitcoin falls under $80,000@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : Arm, CPU 수요 강력했지만 공급 확보가 문제 요인- MS                                                                                   *연합인포맥스*모간스탠리의 Lee Simpson 애널리스트는 Arm(NAS: ARM) CPU의 강력한 수요에도 불구하고, 공급능력 확보가 문...\n---\n제목 : Arm, CPU 성장여력 크고 라이선스 사업 안정적 - RBC                                                                                    *연합인포맥스*RBC 캐피털의 Srini Pajjuri 애널리스트는 Arm(NAS: ARM) CPU 부문의 성장여력과 라이선스 부문의 견고...\n---\n제목 : 5월 7일 주요 종목에 대한 IB 투자의견                                                                                                 *연합인포맥스*▲ 엔비디아(NAS: NVDA): 골드만삭스는 데이터센터 투자지출 확대와 인공지능 에이전트 보급에 따른 프로세서 수요 증...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Moody's says $2 trillion Morgan Stanley is \"rapidly expanding its crypto footprint.\"@WatcherGuru\n---\nJUST IN:🇯🇵Japan to tokenize government bonds on blockchain.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳Nvidia, Apple, and Exxon CEOs to join President Trump on his trip to China.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
