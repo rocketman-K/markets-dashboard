@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 12일 07:43",
+  "date": "2026년 05월 12일 08:44",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,412.84 (+0.19%)\nNASDAQ: 26,274.12 (+0.10%)\nKOSPI: 7,498.00 (변동폭 계산 불가)\nUSD/KRW: 1,475.45 (+1.42%)",
+  "market_data": "S&P 500: 7,412.84 (+0.19%)\nNASDAQ: 26,274.12 (+0.10%)\nKOSPI: 7,498.00 (변동폭 계산 불가)\nUSD/KRW: 1,460.55 (변동폭 계산 불가)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.05.11)\"유가 상승 속 약보합세.. 마이크론 테크놀로지 +5.5%\"https://blog.naver.com/101ancha/224282179121#뉴욕증시#장전시황#종전협상#미중회담#한타바이러스#마이크론테크놀로지#인텔#모더나\n---\nhttps://www.youtube.com/live/FW-XaIii9lY?si=Lfm7izeViKDTavC6\n---\n제목 : 알파벳, 엔 표시 채권 발행할 계획                                                                                                     *연합인포맥스*시킹 알파는 알파벳(NAS: GOOGL, GOOG)이 일본에서 회사채를 발행하여 자금조달에 나선다고 보도했다.   “일본...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:S&P 500 closes at new all-time high of 7,412@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX projected to trade above $2 trillion valuation when it goes public.@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX projected to trade above $2 trillion valuation when it goes public.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략 김승혁]🌏US Daily (5/12)(5/11 종가기준)- 주요 지수 수익률S&P500 7,412.84 / 0.19%NASDAQ 종합 26,274.13 / 0.10%다우산업 49,704.47 / 0.19%러셀2000 2,870.64 / 0.33%필라델피아 반도체 12,081.04 / 2.59%- 섹터별 수익률High 3: 자동차 및 부품 (...\n---\n제목 : 알버말, 리튬 가격 상승하면서 주가도 상승세  아거스                                                                                   *연합인포맥스*아거스의 애널리스트는 ‘27년까지 리튬 가격 상승세가 예상되면서 알버말(NYS: ALB) 주가도 상승할 것이라고 전망했다.   “알버말...\n---\n제목 : 인텔, 애플 주문에 파운드리 성장 기대, 상승여력은 제한적 - BofA                                                                       *연합인포맥스*뱅크오브아메리카의 애널리스트는 애플로부터의 주문이 인텔(NAS: INTC) 파운드리 성장을 가리킨다고 분석하면서도, 주가 상승여력은 기대할...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk's SpaceX projected to trade above $2 trillion valuation when it goes public.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳Nvidia $NVDA CEO Jensen Huang not invited to join President Trump with other business executives on China trip.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳Nvidia $NVDA CEO Jensen Huang not invited to join President Trump with other business executives on China trip.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
