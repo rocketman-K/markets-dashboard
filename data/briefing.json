@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 11일 13:09",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,398.93 (+0.84%)\nNASDAQ: 26,247.08 (+1.71%)\nKOSPI: 7,826.41 (+4.38%)\nUSD/KRW: 1,473.78 (+1.31%)",
+  "date": "2026년 05월 11일 18:54",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,398.93 (+0.84%)\nNASDAQ: 26,247.08 (+1.71%)\nKOSPI: 7,822.24 (+4.32%)\nUSD/KRW: 1,472.49 (+1.22%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n★ 키움 음식료 Weekly (5/11)[키움 음식료/유통 박상준]★ Weekly News & Comments1) 설비 도입 지연에도 하반기 가동 목표…농심 녹산공장 '착착'(iii.ad/1522bc)- 농심은 녹산 수출전용공장 투자 금액을 기존 1,918억 원에서 2,043억 원으로 125억 원 증액- 이란 전쟁 등 중동발 국제 정세 영향으로 일부 설비 ...\n---\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (5/11)▶주간 ETF 수익률 상위* 주식: DRAM +30.7%, SMCY +22.7%, AMDY +20.8%, WGMI +20.4%, EWY +17.4%* 채권: DRSK +2.3%, LEMB +1.3%, XMPT +1.2%, EMLC +1.1%, IGOV +1.1%* 대체: FSOL+10...\n---\n[키움증권 미국 전략 김승혁]미국 주식 Weekly: 큠틴 아메리카▶05월 04일 ~ 05월 08일 Review전주 증시는 지수 상승 자체보다 양극화가 눈에 띈다. 나스닥(+4.51%), S&P500(+2.33%)은 6주 연속 사상 최고치를 경신했지만, 다우는 +0.22%에 그쳤다. 시장 전체가 강했던 것이 아니라, 지정학 완화·AI 기대가 성장주와 반도체...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor hints at buying more Bitcoin.\"Back to work. $BTC\"@WatcherGuru\n---\nJUST IN:Oil prices rise over 3.5% after US and Iran reject proposals to end the war.@WatcherGuru\n---\nJUST IN:Oil prices rise over 3.5% after US and Iran reject proposals to end the war.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
