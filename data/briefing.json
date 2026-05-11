@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 11일 08:38",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,398.93 (+0.84%)\nNASDAQ: 26,247.08 (+1.71%)\nKOSPI: 7,498.00 (+0.11%)\nUSD/KRW: 1,461.43 (+0.46%)",
+  "date": "2026년 05월 11일 13:09",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,398.93 (+0.84%)\nNASDAQ: 26,247.08 (+1.71%)\nKOSPI: 7,826.41 (+4.38%)\nUSD/KRW: 1,473.78 (+1.31%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/ZdfTL_w4I8k?si=6xpNWvePwoXALn-q\n---\n[키움 미국전략 김승혁]🌏US Daily (5/11)(5/8 종가기준)- 주요 지수 수익률S&P500 7,398.93 / 0.84%NASDAQ 종합 26,247.08 / 1.71%다우산업 49,609.16 / 0.02%러셀2000 2,861.21 / 0.76%필라델피아 반도체 11,775.50 / 5.51%- 섹터별 수익률High 3: 반도체 및 장비 (4...\n---\n★ 키움 음식료 Weekly (5/11)[키움 음식료/유통 박상준]★ Weekly News & Comments1) 설비 도입 지연에도 하반기 가동 목표…농심 녹산공장 '착착'(iii.ad/1522bc)- 농심은 녹산 수출전용공장 투자 금액을 기존 1,918억 원에서 2,043억 원으로 125억 원 증액- 이란 전쟁 등 중동발 국제 정세 영향으로 일부 설비 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor hints at buying more Bitcoin.\"Back to work. $BTC\"@WatcherGuru\n---\nJUST IN:Oil prices rise over 3.5% after US and Iran reject proposals to end the war.@WatcherGuru\n---\nJUST IN:Oil prices rise over 3.5% after US and Iran reject proposals to end the war.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
