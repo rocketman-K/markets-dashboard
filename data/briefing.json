@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 12일 17:50",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,412.84 (+0.19%)\nNASDAQ: 26,274.13 (+0.10%)\nKOSPI: 7,643.15 (-2.29%)\nUSD/KRW: 1,489.80 (+2.00%)",
+  "date": "2026년 05월 12일 20:09",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,412.84 (+0.19%)\nNASDAQ: 26,274.13 (+0.10%)\nKOSPI: 7,643.15 (-2.29%)\nUSD/KRW: 1,489.90 (+2.01%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 세레브라스 IPO에 관심 집중... 적정주가 188달러 - 헤지아이                                                                            *연합인포맥스*헤지아이의 Felix Wang 애널리스트는 세레브라스(NAS: CBRS) IPO에 대한 시장의 관심이 크다고 설명하면서, 주가 상승여...\n---\n제목 : 글로벌파운드리스, SiPh 기술이 성장세 견인 - 서스퀘하나                                                                               *연합인포맥스*서스퀘하나의 애널리스트는 SiPh 기술이 글로벌파운드리스(NAS: GFS) 성장세를 견인하고 있다고 설명하면서, 목표주가를 상향 조정했...\n---\n제목 : 마이크론, PER 20배 적용할 때 적정 주가 1,140달러 - 거버 가                                                                           *연합인포맥스*거버 가와사키의 Ross Gerber CEO는 마이크론 테크놀로지(NAS: MU)의 실적 성장세를 고려했을 때, 주가 상승여력이 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳Nvidia $NVDA CEO Jensen Huang not invited to join President Trump with other business executives on China trip.@WatcherGuru\n---\nJUST IN:🇺🇸US Senate Banking Committee releases crypto Clarity Act draft bill.@WatcherGuru\n---\nJUST IN:🇺🇸US Senate Banking Committee releases crypto Clarity Act draft bill.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
