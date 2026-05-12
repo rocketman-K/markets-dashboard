@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 12일 22:30",
+  "date": "2026년 05월 13일 01:10",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,384.94 (-0.38%)\nNASDAQ: 26,080.72 (-0.74%)\nKOSPI: 7,643.15 (-2.29%)\nUSD/KRW: 1,488.98 (+1.95%)",
+  "market_data": "S&P 500: 7,348.39 (-0.87%)\nNASDAQ: 25,846.63 (-1.63%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,490.88 (+2.08%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] D 웨이브 퀀텀, 수주 20배로 증가하며 상승                                                                                 *연합인포맥스*D 웨이브 퀀텀(NYS: QBTS)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 매출 286만 달러(-80.9% YoY)...\n---\n제목 : [개장 전 특징주] 웬디스, 행동주의 투자자 개입 가능성에 급등                                                                          *연합인포맥스*▲ 웬디스(NAS: WEN): 행동주의 투자자 Trian Fund Management가 동사 지분을 확대하며 경영에 개입할 가능성이 거론되고...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.05.12)\"오늘 꽉 잡아.. 힘스 앤 허스 헬스 -14.5%\"https://blog.naver.com/101ancha/224283360589#뉴욕증시#장전시황#종전협상#미중회담#소비자물가지수#힘스앤허스헬스#지브라테크놀로지스#언더아머#플러그파워\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸US Senate Banking Committee releases crypto Clarity Act draft bill.@WatcherGuru\n---\nJUST IN:🇺🇸US Senate Banking Committee releases crypto Clarity Act draft bill.@WatcherGuru\n---\nBREAKING:🇺🇸US inflation rises to 3.8%, higher than expectations.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 5월 12일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 엔비디아(NAS: NVDA): 서스퀘하나는 다음 주 실적발표를 앞두고 GB300 제품의 출하량 증가를 바탕으로 우수한...\n---\n제목 : 브로드컴, TPU 중심으로 실적 성장 예상돼  씨티                                                                                        *연합인포맥스*브로드컴(NAS: AVGO)은 오는 6월 3일에 FY26 2분기(2~4월) 실적을 발표할 예정이다.   씨티의 Atif Mali...\n---\n제목 : 시게이트, HDD 집중하며 장기 실적 가시성 매력적  에버코어                                                                             *연합인포맥스*에버코어의 Amit Daryanani 애널리스트는 시게이트 테크놀로지(NAS: STX)가 HDD 기술에 집중하고 있는 것이 장기적인 실적...\n\n[WatcherGuru (@WatcherGuru)]\nBREAKING:🇺🇸US inflation rises to 3.8%, higher than expectations.@WatcherGuru\n---\nJUST IN:$EBAY rejects GameStop's $GME $56,000,000,000 takeover bid.@WatcherGuru\n---\nJUST IN:$EBAY rejects GameStop's $GME $56,000,000,000 takeover bid.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
