@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 13일 17:53",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,400.96 (-0.16%)\nNASDAQ: 26,088.20 (-0.71%)\nKOSPI: 7,844.01 (+2.63%)\nUSD/KRW: 1,490.28 (+1.07%)",
+  "date": "2026년 05월 13일 20:22",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,400.96 (-0.16%)\nNASDAQ: 26,088.20 (-0.71%)\nKOSPI: 7,844.01 (+2.63%)\nUSD/KRW: 1,489.55 (+1.02%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : ASML, 동종기업 대비 밸류에이션 저렴하여 매력적 - GS                                                                                  *연합인포맥스*골드만삭스의 애널리스트는 ASML(NAS: ASML)의 성장 펀더멘털을 고려했을 때, 동종기업 대비 저렴한 밸류에이션이 매수기회가...\n---\n제목 : 마블, AMD가 지분 보유한 것으로 알려지며 상승                                                                                         *연합인포맥스*시킹 알파는 AMD가 마블 테크놀로지(NAS: MRVL) 지분을 보유하고 있는 것이 알려지면서, 마블 주가가 상승하고 있다고 보...\n---\n제목 : 오라클의 인프라 투자, 시장 우려 과도 - 웨드부시                                                                                      *연합인포맥스*웨드부시의 애널리스트는 오라클(NYS: ORCL)의 인프라 투자지출에 대한 투자자들의 우려가 과도하다고 판단했다.   \"인공지능 인...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳Nvidia $NVDA CEO Jensen Huang is joining President Trump on trip to China, White House announces.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳Elon Musk traveling on Air Force One with President Trump to China.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳Elon Musk traveling on Air Force One with President Trump to China.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
