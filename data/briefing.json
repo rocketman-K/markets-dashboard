@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 15일 13:05",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,501.24 (+0.77%)\nNASDAQ: 26,635.22 (+0.88%)\nKOSPI: 7,712.22 (-3.37%)\nUSD/KRW: 1,496.51 (+0.45%)",
+  "date": "2026년 05월 15일 18:19",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,501.24 (+0.77%)\nNASDAQ: 26,635.22 (+0.88%)\nKOSPI: 7,493.18 (-6.12%)\nUSD/KRW: 1,502.93 (+0.88%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 5월 2주차자료링크:https://bbn.kiwoom.com/rfCA330더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n---\n[키움증권/김진구] 팔란티어 테크놀로지 (PLTR.US) 기업리포트: 좋은 실적 속 감안해야 할 변수들◆동사는 이번 1Q26 실적에서도 우수한 성장성을 보임, 다만 이런 상황에서 동사 밸류에이션이 제한적으로 작동하는 것은 단기적으로 높은 밸류에이션 멀티플과 이를 정당화할 수 있는 중장기 지속 성장성에 대한 확신 여부라고 할 수 있음, 다만 최근 AI 환경이...\n---\n[키움증권/김진구] 서비스나우 (NOW.US) 기업리포트: 매니지먼트 의사결정 변수가 관건◆동사가 엔터프라이즈 고객 데이터를 기반으로 프런티어 업체들과 전략적 제휴를 통해 에이전트 사업을 공동 영위하고 이에 기반한 수익배분을 통해 지속 확장 전략을 가져가는 것이 성장성과 기업가치 측면에서 유리할 것으로 종합 판단◆동사 EPS 컨센서스 및 최근 종가를 기준으...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Senator Elizabeth Warren says the crypto Clarity Act will \"blow up the economy.\"\"It pushes more of the economy into crypto!\"@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says oil prices went up \"very little\" due to war with Iran.\"I thought it would go up more.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳President Trump says US made \"fantastic trade deals\" with China.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
 }
