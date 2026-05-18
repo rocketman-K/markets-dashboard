@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 19일 06:56",
+  "date": "2026년 05월 19일 07:49",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,403.05 (-0.07%)\nNASDAQ: 26,090.73 (-0.51%)\nKOSPI: 7,493.18 (변동폭 계산 불가)\nUSD/KRW: 1,488.02 (-0.36%)",
+  "market_data": "S&P 500: 7,403.05 (-0.07%)\nNASDAQ: 26,090.73 (-0.51%)\nKOSPI: 7,493.18 (변동폭 계산 불가)\nUSD/KRW: 1,488.34 (-0.33%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n★ 키움 음식료 Weekly (5/18)[키움 음식료/유통 박상준]★ Weekly News & Comments1) KT&G, 비핵심자산 효율화 속도…주주환원 무게중심 배당 확대로(iii.ad/efc13e)- KT&G는 앞서 2027년까지 부동산 57건, 금융자산 60건을 처분해 약 1조원을 마련하겠다 발표- 규모가 큰 자산을 매각하고 일부 금융자산을 정리해...\n---\n[키움 미국전략 김승혁]🌏US Daily (5/18)(5/15 종가기준)- 주요 지수 수익률S&P500 7,408.50 / -1.24%NASDAQ 종합 26,225.14 / -1.54%다우산업 49,526.17 / -1.07%러셀2000 2,793.30 / -2.44%필라델피아 반도체 11,588.46 / -4.02%- 섹터별 수익률High 3: 에너지 (...\n---\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (5/18)▶주간 ETF 수익률 상위* 주식: NASA +7.5%, FTXN +7.0%, XLE +6.7%, IYE +6.5%, FCG +6.5%* 채권: SLNZ +0.6%, IGHG +0.5%, RISR +0.4%, OOSP +0.3%, IBID +0.3%* 대체: USO +11.0%, BN...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸OpenAI and CEO Sam Altman found not liable in Elon Musk lawsuit.@WatcherGuru\n---\nJUST IN:Elon Musk announces he is filing appeal in lawsuit against OpenAI.@WatcherGuru\n---\nJUST IN:🇺🇸SEC prepares to allow blockchain-based tokenized stock trading.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (5/18)▶주간 ETF 수익률 상위* 주식: NASA +7.5%, FTXN +7.0%, XLE +6.7%, IYE +6.5%, FCG +6.5%* 채권: SLNZ +0.6%, IGHG +0.5%, RISR +0.4%, OOSP +0.3%, IBID +0.3%* 대체: USO +11.0%, BN...\n---\nhttps://www.youtube.com/live/ZrPDNpa3PHI?si=heDAOxlwtW8c7zIO\n---\n[키움증권 미국 전략 김승혁]미국 주식 Weekly: 큠틴 아메리카▶5월 11일 ~ 5월 15일 Review- 5월 2주차 미국 증시는 대형주가 보합권을 유지한 반면, 장기금리 재상승과 VIX 반등 영향으로 소형주·고베타 종목 중심의 차익실현 진행- 섹터별로는 유가 반등과 인플레 재가속 우려 속 에너지 강세, 소비 둔화 우려가 반영된 자유소비재·유통·호텔·...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk announces he is filing appeal in lawsuit against OpenAI.@WatcherGuru\n---\nJUST IN:🇺🇸SEC prepares to allow blockchain-based tokenized stock trading.@WatcherGuru\n---\nJUST IN:100,000 blocks remain until the next Bitcoin Halving.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
