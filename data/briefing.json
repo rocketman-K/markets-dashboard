@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 19일 08:53",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,403.05 (-0.07%)\nNASDAQ: 26,090.73 (-0.51%)\nKOSPI: 7,493.18 (변동폭 계산 불가)\nUSD/KRW: 1,488.34 (-0.59%)",
+  "date": "2026년 05월 19일 13:13",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,403.05 (-0.07%)\nNASDAQ: 26,090.73 (-0.51%)\nKOSPI: 7,299.87 (-2.88%)\nUSD/KRW: 1,505.22 (+0.54%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 은행 김은갑]▶미쓰비시 UFG 파이낸셜 그룹(ADR) (MUFG.US) 3개년 연속 사상 최대 실적- FY25 (25.03~26.03) 연결순이익 2.43 조엔 (+YoY 31.0%)- FY25 ROE 11.3% (직전년도 ROE 9.3%, 중기 목표 12%) FY26 10% 이상의 순이익 증가 목표-순이익 목표 달성 시 ROE 12%에 근접하게...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (5/19)(5/18 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.43%SPY -0.07%DIA 0.33%IWM -0.59%*미국 상승 업종XLE (에너지) 1.92%XLP (필수 소비재) 1.49%XLF (금융) 1.25%XLRE (부동산) 1.20...\n---\n[키움증권 미국 전략 김승혁, 중국 주식 박주영 ]G2는 지금 - 안전제일(Feat, 미중 정상회담)▶미·중 정상회담: ‘종료’ 보다는 ‘이연’- 베이징 정상회담은 미중 갈등의 종료보다는 충돌 시점을 뒤로 미룬 ‘변동성 이연’ 성격이 강하며, 단기 안정은 확보했지만 미국의 정책 운신 폭은 축소된 것으로 판단- 시진핑의 ‘향후 3년간 전략적 안정성’ 프레임으...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk announces he is filing appeal in lawsuit against OpenAI.@WatcherGuru\n---\nJUST IN:🇺🇸SEC prepares to allow blockchain-based tokenized stock trading.@WatcherGuru\n---\nJUST IN:100,000 blocks remain until the next Bitcoin Halving.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
