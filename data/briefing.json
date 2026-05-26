@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 26일 13:13",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,473.47 (+0.37%)\nNASDAQ: 26,343.97 (+0.19%)\nKOSPI: 8,100.35 (+3.22%)\nUSD/KRW: 1,506.70 (-0.41%)",
+  "date": "2026년 05월 26일 19:11",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,473.47 (+0.37%)\nNASDAQ: 26,343.97 (+0.19%)\nKOSPI: 8,047.51 (+2.55%)\nUSD/KRW: 1,503.58 (-0.61%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 테이크 투, GTA VI 출시 전망 고려했을 때 가이던스 보수적 - UB                                                                         *연합인포맥스*UBS의 애널리스트는 테이크 투 인터랙티브 소프트웨어(NAS: TTWO)의 신작 GTA VI 출시 계획을 고려했을 때, 경영진 가이던...\n---\n제목 : 디어, 구조적인 수익성 개선 달성  프리덤                                                                                              *연합인포맥스*프리덤 브로커의 애널리스트는 디어(NYS: DE)의 구조적 수익성이 이전 사이클보다 개선되었다고 판단했다.   “농기계 사이클...\n---\n제목 : [실적 속보] 포니 AI, 로보택시 성장 목표 상향되며 상승                                                                                *연합인포맥스*포니 AI(NAS: PONY)는 ‘26년 1분기 실적을 다음과 같이 발표했다.   ▲ 미국 달러 기준 매출 3,425만 달러(+145...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇮🇷Brent crude oil falls 5% as US and Iran negotiate deal to reopen Strait of Hormuz and end war.@WatcherGuru\n---\nJUST IN:Pope Leo XIV calls for AI to be \"disarmed.\"@WatcherGuru\n---\nJUST IN:🇹🇼🇮🇳Taiwan officially overtakes India to become the world's 5th largest stock market.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
