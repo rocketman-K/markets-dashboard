@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 28일 08:06",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,520.36 (+0.02%)\nNASDAQ: 26,674.73 (+0.07%)\nKOSPI: 8,047.51 (변동폭 계산 불가)\nUSD/KRW: 1,505.44 (변동폭 계산 불가)",
+  "date": "2026년 05월 28일 13:17",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,520.36 (+0.02%)\nNASDAQ: 26,674.73 (+0.07%)\nKOSPI: 7,980.47 (-3.02%)\nUSD/KRW: 1,508.25 (+0.19%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)] 수집 실패: Page.wait_for_selector: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\".tgme_widget_message\") to be visible\n\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸FBI arrests senior CIA official after finding $40,000,000 in stolen gold bars at his home.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says former SEC Chair Gary Gensler \"nearly destroyed the American crypto industry.\"\"We will codify a future-proof digital asset market structure that cannot be undone by cryp...\n---\nJUST IN:🇺🇸President Trump says former SEC Chair Gary Gensler \"nearly destroyed the American crypto industry.\"\"We will codify a future-proof digital asset market structure that cannot be undone by cryp...",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
