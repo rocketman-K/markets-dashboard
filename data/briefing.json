@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 29일 08:05",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,563.63 (+0.58%)\nNASDAQ: 26,917.47 (+0.91%)\nKOSPI: 8,228.70 (변동폭 계산 불가)\nUSD/KRW: 1,503.11 (변동폭 계산 불가)",
+  "date": "2026년 05월 29일 13:19",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,563.63 (+0.58%)\nNASDAQ: 26,917.47 (+0.91%)\nKOSPI: 8,420.85 (+2.88%)\nUSD/KRW: 1,502.78 (-0.02%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적공시] 몽고DB, 실적·가이던스 컨센 상회…시간외 상승                                                                             *연합인포맥스*몽고DB(NAS: MDB)는 FY27 1분기(’26년 2~4월) 영업실적을 다음과 같이 발표했다.   ▲ 매출 6억 8,762만 달러(전년...\n---\n[키움 글로벌리서치팀]2026년 하반기 전망 : 병목 전쟁▶美: 기승전결- 감세, SLR 완화, TGA 인출 등 정책·민간 유동성과 실적 성장세가 증시를 지지할 전망이나, 국채 수급 부담·에너지발 물가·중간선거 불확실성은 단기 조정 요인- 조정 이후에는 정책 불확실성 완화, 미국 자금 복귀, 중소기업 AI 확산, 에이전트·피지컬 AI 수익성 입증이 반등 동...\n---\n제목 : [실적공시] 코스트코, FY 3분기 실적 컨센 상회…시간외 강보합                                                                          *연합인포맥스*코스트코 홀세일(NAS: COST)은 FY26 3분기(’24년 3~5월) 영업실적을 다음과 같이 발표했다.   ▲ 매출 705.3억 달러(...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸S&P 500 closes at new all-time high of 7,563@WatcherGuru\n---\nJUST IN:🇺🇸$DELL is up 57% since President Trump said to buy the stock on May 8th.Yesterday, the US government announced a $9.7 billion contract with Dell.@WatcherGuru\n---\nJUST IN:🇺🇸$DELL is up 57% since President Trump said to buy the stock on May 8th.Yesterday, the US government announced a $9.7 billion contract with Dell.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
