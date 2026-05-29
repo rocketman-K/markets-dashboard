@@ -1,9 +1,9 @@
 {
-  "date": "2026년 05월 29일 13:19",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,563.63 (+0.58%)\nNASDAQ: 26,917.47 (+0.91%)\nKOSPI: 8,420.85 (+2.88%)\nUSD/KRW: 1,502.78 (-0.02%)",
+  "date": "2026년 05월 29일 19:06",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,563.63 (+0.58%)\nNASDAQ: 26,917.47 (+0.91%)\nKOSPI: 8,476.15 (+3.55%)\nUSD/KRW: 1,508.42 (+0.35%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 스페이스X, 기업가치 목표 2조 달러에서 1.8조 달러로 조정                                                                              *연합인포맥스*시킹 알파는 스페이스X(NAS: SPCX)가 상장 시점에서의 기업가치 목표를 하향 조정했다고 보도했다.   “지난 4월 스페이스X는 상...\n---\n제목 : 로빈훗, 인공지능 에이전트 트레이딩 기능 지원  미즈호                                                                                 *연합인포맥스*미즈호의 애널리스트는 로빈훗 마케츠(NAS: HOOD)의 인공지능 에이전트 트레이딩이 사용자 유치와 거래량 증가로 연결될 것이라고 예상했...\n---\n제목 : 델, 인공지능과 전통적 하드웨어 모두 성장 모멘텀 강력  BofA 외                                                                        *연합인포맥스*뱅크오브아메리카의 애널리스트는 델 테크놀로지스(NYS: DELL) 실적발표에서 강력한 성장 모멘텀을 확인했다고 밝혔다.   “델의 실적발표...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸$DELL is up 57% since President Trump said to buy the stock on May 8th.Yesterday, the US government announced a $9.7 billion contract with Dell.@WatcherGuru\n---\nJUST IN:Jeff Bezos's Blue Origin New Glenn rocket explodes during a static-fire test.@WatcherGuru\n---\nJUST IN:🇺🇸SEC grants first blockchain-native company 'Paxos' approval to clear and settle securities transactions.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
