@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 01일 14:01",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,580.06 (+0.22%)\nNASDAQ: 26,972.62 (+0.20%)\nKOSPI: 8,852.01 (+4.43%)\nUSD/KRW: 1,513.68 (+1.23%)",
+  "date": "2026년 06월 01일 20:49",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,580.06 (+0.22%)\nNASDAQ: 26,972.62 (+0.20%)\nKOSPI: 8,788.38 (+3.68%)\nUSD/KRW: 1,508.45 (+0.88%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (6/1)▶주간 ETF 수익률 상위* 주식: JEDI +24.4%, SMCY +24.1%, HOOY +20.3%, DRNZ +19.9%, DRAM +19.7%* 채권: XMPT +2.0%, JEMB +2.0%, ZROZ +1.9%, PCY +1.8%, EDV +1.8%* 대체: UNG +9.0%...\n---\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶5월 26일 ~ 5월 29일 Review- 5월 4주차 SOX·Russell2000·Dow가 강세를 보이며 반도체·소형주 중심 위험선호 회복이 두드러짐- High Beta·모멘텀 팩터가 시장을 견인한 반면, 저변동성·고배당·방어 섹터는 부진- VIX 하락과 휴전 기대가 투자심리를 지지...\n---\n[키움증권 미국 주식 박기현]델 테크놀로지스 (DELL.US): 전통 서버의 부활과 Agentic AI가 이끄는 멀티플 리레이팅▶(기업 개요)- PC, 서버, 스토리지, 클라우드·보안 인프라를 아우르는 글로벌 IT 인프라 기업- ISG는 AI·전통 서버와 스토리지, CSG는 상업용·소비자용 PC를 담당- 글로벌 공급망·영업망·AS 인프라를 기반으로 AI 시...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Intel $INTC to launch new AI chip this year to compete with NVIDIA and AMD.@WatcherGuru\n---\nJUST IN:🇺🇸Binance to launch US stock trading for non-US users.📰Full Story@WatcherGuru\n---\nJUST IN:Binance to allow conversion of US stocks to tokenized stocks on BNB blockchain.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
