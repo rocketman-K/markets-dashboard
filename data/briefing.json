@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 02일 07:27",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,599.96 (+0.26%)\nNASDAQ: 27,086.81 (+0.42%)\nKOSPI: 8,476.15 (변동폭 계산 불가)\nUSD/KRW: 1,511.97 (+1.12%)",
+  "date": "2026년 06월 02일 09:03",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 가져오기 실패 (Too Many Requests. Rate limited. Try after a while.)\nNASDAQ: 27,086.81 (+0.42%)\nKOSPI: 8,788.38 (변동폭 계산 불가)\nUSD/KRW: 1,506.84 (변동폭 계산 불가)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.06.01)\"젠슨 황의 GTC Taipei 기조연설로 강세? 엔비디아 +2.4%\"https://blog.naver.com/101ancha/224303092201#뉴욕증시#장전시황#이란전쟁#종전협상#불확실성#GTC_Taipei#AI랠리#QCOM#INTC#AMD\n---\n제목 : IBM, 소프트웨어와 양자 컴퓨팅 성장기회 매력적  바클레이즈                                                                            *연합인포맥스*바클레이즈의 Raimo Lenschow 애널리스트는 IBM(NYS: IBM)의 소프트웨어 및 양자 컴퓨팅 부문 성장기회가 매력적이라고 평가...\n---\nhttps://www.youtube.com/live/QUS6UgXp6mg?si=mJZMS5f_SW5y6yNo\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:61% chance Claude AI developer Anthropic IPO's at $1.8 trillion valuation.@WatcherGuru\n---\nJUST IN:CME Group officially launches 24/7 crypto futures & options trading.@WatcherGuru\n---\n🇺🇸S&P 500 closes at new all-time high of 7,599.9@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
