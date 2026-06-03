@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 03일 13:57",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,609.78 (+0.13%)\nNASDAQ: 27,093.90 (+0.03%)\nKOSPI: 8,801.49 (+0.15%)\nUSD/KRW: 1,518.22 (+0.46%)",
+  "date": "2026년 06월 03일 20:16",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,609.78 (+0.13%)\nNASDAQ: 27,093.90 (+0.03%)\nKOSPI: 8,801.49 (+0.15%)\nUSD/KRW: 1,528.38 (+1.13%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 인튜이트, 경쟁심화 속에 성장세 둔화 전망 - GS                                                                                        *연합인포맥스*골드만삭스의 Gabriela Borges 애널리스트는 인튜이트(NAS: INTU)가 경쟁심화에 취약하다고 보고, 월가 기대에 미...\n---\n제목 : 스페이스X, 가치 지나치게 고평가돼있어  모닝스타                                                                                      *연합인포맥스*모닝스타의 애널리스트는 스페이스X IPO에 시장의 이목이 집중되고 있지만, 그 가치가 지나치게 고평가된 상태라고 경고했다.   “▲ ...\n---\n제목 : [실적 속보] 메드트로닉, 우수한 매출 성장세 발표하며 상승                                                                             *연합인포맥스*메드트로닉(NYS: MDT)은 FY26 4분기(2~4월) 실적을 다음과 같이 발표했다.   ▲ 매출 98.1억 달러(+9.9% YoY)를 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Peter Schiff says Bitcoin will crash below $20,000.@WatcherGuru\n---\nJUST IN:Peter Schiff says Bitcoin will crash below $20,000.@WatcherGuru\n---\nJUST IN:Bitcoin falls under $66,000@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
