@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 04일 03:14",
+  "date": "2026년 06월 04일 06:40",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,567.94 (-0.55%)\nNASDAQ: 26,862.62 (-0.85%)\nKOSPI: 8,801.49 (+0.15%)\nUSD/KRW: 1,529.29 (+1.19%)",
+  "market_data": "S&P 500: 7,553.68 (-0.74%)\nNASDAQ: 26,853.98 (-0.89%)\nKOSPI: 8,801.49 (+0.15%)\nUSD/KRW: 1,533.01 (+1.44%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.06.03)\"중동 불확실성으로 혼조세.. 마벨 테크놀로지 +12%\"https://blog.naver.com/101ancha/224305027137#뉴욕증시#장전시황#이란전쟁#종전협상#불확실성#이란핵무기포기#트럼프#마벨테크놀로지#젠슨황\n---\n제목 : 인텔, 18A 노드 중심으로 CPU 공급 개선 강조하며 상승                                                                                  *연합인포맥스*시킹 알파는 인텔(NAS: INTC) 경영진이 강력한 CPU 수요와 인텔 파운드리의 공급 개선을 강조했다고 보도했다.   “인텔의...\n---\n제목 : 메타, 기업용 인공지능 솔루션 판매 등 다각화 추진                                                                                     *연합인포맥스*CNBC는 메타 플랫폼스(NAS: META)가 기업 대상 솔루션 사업을 확대하고 있다고 보도했다.   “메타가 광고 사업 외에도 수익...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Visa, Mastercard and Stripe to launch crypto stablecoin platform.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' $BTC investment is currently at a $8,500,000,000 unrealized loss.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' $BTC investment is currently at a $8,500,000,000 unrealized loss.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.06.03)\"중동 불확실성으로 혼조세.. 마벨 테크놀로지 +12%\"https://blog.naver.com/101ancha/224305027137#뉴욕증시#장전시황#이란전쟁#종전협상#불확실성#이란핵무기포기#트럼프#마벨테크놀로지#젠슨황\n---\n제목 : 인텔, 18A 노드 중심으로 CPU 공급 개선 강조하며 상승                                                                                  *연합인포맥스*시킹 알파는 인텔(NAS: INTC) 경영진이 강력한 CPU 수요와 인텔 파운드리의 공급 개선을 강조했다고 보도했다.   “인텔의...\n---\n제목 : 메타, 기업용 인공지능 솔루션 판매 등 다각화 추진                                                                                     *연합인포맥스*CNBC는 메타 플랫폼스(NAS: META)가 기업 대상 솔루션 사업을 확대하고 있다고 보도했다.   “메타가 광고 사업 외에도 수익...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor's 'Strategy' $BTC investment is currently at a $8,500,000,000 unrealized loss.@WatcherGuru\n---\nJUST IN:Ethereum $ETH falls under $1,800@WatcherGuru\n---\nJUST IN:Bitcoin falls under $65,000@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
