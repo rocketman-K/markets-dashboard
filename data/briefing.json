@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 03일 07:53",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,609.78 (+0.13%)\nNASDAQ: 27,093.90 (+0.03%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,515.30 (+0.56%)",
+  "date": "2026년 06월 03일 09:22",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,609.78 (+0.13%)\nNASDAQ: 27,093.90 (+0.03%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,517.85 (+0.44%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 빅토리어스 시크릿, 매출 호조와 가이던스 상향 발표                                                                        *연합인포맥스*빅토리어스 시크릿(NYS: VSXY)은 FY26 1분기(2~4월) 실적을 다음과 같이 발표했다.   ▲ 매출 15.6억 달러(+15.6% Yo...\n---\n제목 : [개장 전 특징주] 마블, 젠슨 황이 1조 달러 잠재력 언급하자 급등                                                                       *연합인포맥스*▲ 마블 테크놀로지(NAS: MRVL): 엔비디아 젠슨 황 CEO는 마블의 성장 잠재력을 강조하면서, 시가총액 1조 달러 기업이 될 수 있다...\n---\n제목 : 앤트로픽, 클로드 미토스 모델 공개 확대                                                                                               *연합인포맥스*CNBC는 앤트로픽의 최신 인공지능 모델인 클로드 미토스 모델이 더 많은 기업들에게 제공된다고 보도했다.   “앤트로픽의 최신...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump signs executive order to shut down bank accounts used to \"enable illegal immigration.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷US imposes sanctions on Iran's largest crypto exchange 'Nobitex.'@WatcherGuru\n---\nJUST IN:🇺🇸Bank of America appoints one of its top trading executives as \"global head of digital asset transformation\" to lead its crypto strategy.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
