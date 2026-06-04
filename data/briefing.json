@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 05일 06:20",
+  "date": "2026년 06월 05일 07:58",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,584.31 (+0.41%)\nNASDAQ: 26,830.96 (-0.09%)\nKOSPI: 8,801.49 (변동폭 계산 불가)\nUSD/KRW: 1,532.98 (+1.08%)",
+  "market_data": "S&P 500: 7,584.31 (+0.41%)\nNASDAQ: 26,830.96 (-0.09%)\nKOSPI: 8,801.49 (변동폭 계산 불가)\nUSD/KRW: 1,532.60 (+1.05%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 크라우드스트라이크, 사이버보안 솔루션의 상승여력 주목  스코샤뱅크                                                                    *연합인포맥스*스코샤뱅크의 애널리스트는 크라우드스트라이크(NAS: CRWD) 실적발표 이후 주가가 하락하고 있지만, 상승여력이 크다고 강조했다.   “크라우드스트라...\n---\n제목 : 6월 4일 주요 종목에 대한 IB 투자의견                                                                                                 *연합인포맥스*▲ 브로드컴(NAS: AVGO): 맥쿼리는 알파벳의 공급체인 다각화 가능성을 언급하면서 투자의견을 outperform에서...\n---\n제목 : 오라클, IaaS 성장세과 수익성 예상보다 우수할 것  씨티                                                                                *연합인포맥스*오라클(NYS: ORCL)은 오는 6월 10일에 FY26 4분기(3~5월) 실적을 발표할 예정이다.   씨티의 Tyler Radke ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Jim Cramer says Michael Saylor \"murdered Bitcoin.\"@WatcherGuru\n---\nJUST IN:Jim Cramer says Michael Saylor \"murdered Bitcoin.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇯🇵US and Japan announce $1,000,000,000 partnership to advance AI, quantum computing, fusion energy, and biotechnology.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/J_C-pMVq-b4?si=Ur1nsoArGKeOew0b\n---\n[키움 미국전략 김승혁]🌏US Daily (6/5)(6/4 종가기준)- 주요 지수 수익률S&P500 7,584.31 / 0.41%NASDAQ 종합 26,830.96 / -0.09%다우산업 51,561.93 / 1.73%러셀2000 2,935.33 / 1.45%필라델피아 반도체 13,617.50 / -2.15%- 섹터별 수익률High 3: 은행 (3.61%)...\n---\n제목 : 유나이티드헬스, 이익률 상승세 나타나며 실적 낙관 - BofA                                                                              *연합인포맥스*뱅크오브아메리카의 Kevin Fischbeck 애널리스트는 유나이티드헬스(NYS: UNH)의 성장 펀더멘털과 이익률 상승세가 투자자들의...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Jim Cramer says Michael Saylor \"murdered Bitcoin.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇯🇵US and Japan announce $1,000,000,000 partnership to advance AI, quantum computing, fusion energy, and biotechnology.@WatcherGuru\n---\nJUST IN:JPMorgan, Citi and major US banks to launch new tokenized deposit system to compete with crypto.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
