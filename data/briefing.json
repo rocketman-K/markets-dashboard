@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 04일 08:25",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 가져오기 실패 (Too Many Requests. Rate limited. Try after a while.)\nNASDAQ: 26,853.98 (-0.89%)\nKOSPI: 8,801.49 (+0.15%)\nUSD/KRW: 1,516.60 (변동폭 계산 불가)",
+  "date": "2026년 06월 04일 13:50",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,553.68 (-0.74%)\nNASDAQ: 26,853.98 (-0.89%)\nKOSPI: 8,688.20 (-1.29%)\nUSD/KRW: 1,529.09 (+0.82%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략 김승혁]🌏US Daily (6/4)(6/3 종가기준)- 주요 지수 수익률S&P500 7,553.68 / -0.74%NASDAQ 종합 26,853.97 / -0.89%다우산업 50,687.07 / -1.21%러셀2000 2,893.51 / -1.31%필라델피아 반도체 13,916.96 / 1.39%- 섹터별 수익률High 3: 식료품 (1.9...\n---\n제목 : [실적공시] 크라우드스트라이크, 실적·가이던스 컨센 상회…시간외 급락                                                                 *연합인포맥스*크라우드스트라이크(NAS: CRWD)는 FY27 1분기(’26년 2~4월) 영업실적을 다음과 같이 발표했다.   ▲ 매출 13.9억 달러(전년 동기 대...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (6/4)(6/3 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.26%SPY -0.70%DIA -1.13%IWM -1.37%*미국 상승 업종XLE (에너지) 1.29%XLV (헬스케어) 0.79%XLP (필수 소비재) 0.40%XLB (원자재) 0.21...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor's 'Strategy' $BTC investment is currently at a $8,500,000,000 unrealized loss.@WatcherGuru\n---\nJUST IN:Ethereum $ETH falls under $1,800@WatcherGuru\n---\nJUST IN:Bitcoin falls under $65,000@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
