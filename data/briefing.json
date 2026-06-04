@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 04일 13:50",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,553.68 (-0.74%)\nNASDAQ: 26,853.98 (-0.89%)\nKOSPI: 8,688.20 (-1.29%)\nUSD/KRW: 1,529.09 (+0.82%)",
+  "date": "2026년 06월 04일 19:08",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,553.68 (-0.74%)\nNASDAQ: 26,853.98 (-0.89%)\nKOSPI: 8,639.41 (-1.84%)\nUSD/KRW: 1,516.60 (변동폭 계산 불가)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 메타, 기업 대상 솔루션 사업 추진… 구독 매출 성장기회  캐너코드                                                                      *연합인포맥스*캐너코드 제뉴이티의 Maria Ripps 애널리스트는 메타 플랫폼스(NAS: META)의 기업 대상 인공지능 솔루션을 분석하면서, 구독 매출 성...\n---\n제목 : 크라우드스트라이크, 호실적에도 밸류에이션 부담에 하락  GS                                                                            *연합인포맥스*골드만삭스의 애널리스트는 크라우드스트라이크(NAS: CRWD) 실적발표 이후, 높은 밸류에이션에 대한 경계심리가 주가 하락을 촉발하고 있다고...\n---\n제목 : 브로드컴, 알파벳의 공급체인 다각화 예상되며 하락                                                                                     *연합인포맥스*배런스는 알파벳의 반도체 공급체인 다각화 가능성이 언급되면서 브로드컴(NAS: AVGO) 주가가 하락하고 있다고 보도했다.   “최근 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin is now down 32% this year.$ETH is down 45% this year@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' now has an $11.5 billion unrealized loss on its Bitcoin investment.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says he is winning by \"record numbers\" when it comes to affordability.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
