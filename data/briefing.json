@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 06일 08:56",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,383.74 (-2.64%)\nNASDAQ: 25,709.43 (-4.18%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,558.84 (+1.68%)",
+  "date": "2026년 06월 06일 13:08",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,383.74 (-2.64%)\nNASDAQ: 25,709.43 (-4.18%)\nKOSPI: 8,160.59 (-5.54%)\nUSD/KRW: 1,558.84 (+1.68%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 스페이스X IPO, 중국과 홍콩에서는 참여 불가능                                                                                         *연합인포맥스*인베스팅닷컴은 스페이스X(NAS: SPCX) IPO가 중국과 홍콩에서는 차단되었다고 보도했다.   “스페이스X의 IPO에는 중국...\n---\n제목 : [개장 전 특징주] 반도체, 브로드컴 급락 이후 하락세 이어져                                                                            *연합인포맥스*▲ 반도체 종목: 브로드컴(NAS: AVGO)의 전일 급락과 함께 시작된 반도체 매도세가 금일도 이어지고 있다. 브로드컴 -2.2% 뿐만 ...\n---\n제목 : 6월 5일 주요 종목에 대한 IB 투자의견                                                                                                 *연합인포맥스*▲ 엔비디아(NAS: NVDA): 뱅크오브아메리카는 엔비디아 경영진과의 회담에서 다방면에서의 성장세 가속에 대한 자신감이...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Former President Joe Biden's son, Hunter Biden, says \"fiat is a sham, the banking class is corrupt.\"\"Decentralized digital currency and the blockchain are the inevitable future.\"@WatcherGuru\n---\nJUST IN:Coinbase CEO Brian Armstrong says \"Bitcoin is going to do great…one of many cycles we've all been through.\"@WatcherGuru\n---\nJUST IN:Coinbase CEO Brian Armstrong says \"Bitcoin is going to do great…one of many cycles we've all been through.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
