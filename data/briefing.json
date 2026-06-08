@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 08일 21:54",
+  "date": "2026년 06월 09일 01:41",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,383.74 (-2.64%)\nNASDAQ: 25,709.43 (-4.18%)\nKOSPI: 7,484.41 (-8.29%)\nUSD/KRW: 1,527.38 (-0.37%)",
+  "market_data": "S&P 500: 7,434.47 (+0.69%)\nNASDAQ: 26,053.97 (+1.34%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,525.44 (-0.50%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶06월 01일 ~ 06월 05일 Review- 6월 1주차 미국 증시는 나스닥·SOX 등 반도체/성장주 중심으로 급락하며 S&P500의 9주 연속 상승세 종료, 다우는 방어주 강세로 상대적 선방- 고용 서프라이즈에 따른 금리 상승 우려로 High Beta·모멘텀, 자동차·반도체·소프트...\n---\n[키움증권 미국 전략/주식 김승혁]미국은 지금 - 급락 코멘트, 위기보단 쏠림 해소▶위기보단 쏠림의 해소- 6월 1주차 미국 증시는 반도체·성장주 중심으로 급락하며 S&P500의 9주 연속 상승세가 종료됐으나, 방어주·가치주·금융·헬스케어 등은 반등해 시장 전반의 위기보다는 순환매 성격이 강했음- 조정의 직접적 빌미는 고용 호조에 따른 금리 부담, Broa...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.06.08)\"이스라엘과 이란간 교전 중단 속 급등세.. 엔비디아 +2.15%\"https://blog.naver.com/101ancha/224309853599#뉴욕증시#장전시황#종전협상#불확실성#이란#이스라엘#공격중단#WWDC2026#반도체\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Michael Saylor's 'Strategy' buys 1,550 Bitcoin worth $98 million.@WatcherGuru\n---\nJUST IN:Tom Lee's 'BitMine' buys 126,971 $ETH worth $213 million.@WatcherGuru\n---\nJUST IN:Tom Lee's 'BitMine' buys 126,971 $ETH worth $213 million.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶06월 01일 ~ 06월 05일 Review- 6월 1주차 미국 증시는 나스닥·SOX 등 반도체/성장주 중심으로 급락하며 S&P500의 9주 연속 상승세 종료, 다우는 방어주 강세로 상대적 선방- 고용 서프라이즈에 따른 금리 상승 우려로 High Beta·모멘텀, 자동차·반도체·소프트...\n---\n[키움증권 미국 전략/주식 김승혁]미국은 지금 - 급락 코멘트, 위기보단 쏠림 해소▶위기보단 쏠림의 해소- 6월 1주차 미국 증시는 반도체·성장주 중심으로 급락하며 S&P500의 9주 연속 상승세가 종료됐으나, 방어주·가치주·금융·헬스케어 등은 반등해 시장 전반의 위기보다는 순환매 성격이 강했음- 조정의 직접적 빌미는 고용 호조에 따른 금리 부담, Broa...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.06.08)\"이스라엘과 이란간 교전 중단 속 급등세.. 엔비디아 +2.15%\"https://blog.naver.com/101ancha/224309853599#뉴욕증시#장전시황#종전협상#불확실성#이란#이스라엘#공격중단#WWDC2026#반도체\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Nvidia CEO Jensen Huang says AI stocks are \"very cheap\" right now.@WatcherGuru\n---\nJUST IN:🇺🇸FTX Founder Sam Bankman-Fried applies for pardon from President Trump.@WatcherGuru\n---\nJUST IN:🇺🇸FTX Founder Sam Bankman-Fried applies for pardon from President Trump.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
