@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 10일 13:23",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: nan (+nan%)\nKOSPI: 7,749.52 (변동폭 계산 불가)\nUSD/KRW: 1,523.68 (-0.34%)",
+  "date": "2026년 06월 10일 19:15",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: nan (+nan%)\nKOSPI: 7,730.82 (변동폭 계산 불가)\nUSD/KRW: 1,522.80 (-0.40%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 슈퍼 마이크로 컴퓨터, 70억 달러 증자 발표하며 하락                                                                                   *연합인포맥스*CNBC는 슈퍼 마이크로 컴퓨터(NAS: SMCI)가 증자를 발표하면서 주가가 하락했다고 보도했다.   “슈퍼 마이크로 컴퓨터는 70...\n---\n제목 : 나이키, 턴어라운드 느려… 투자의견 하향 - RBC                                                                                        *연합인포맥스*나이키(NYS: NKE)는 오는 6월 30일에 FY26 4분기(3~5월) 실적을 발표할 예정이다.   RBC 캐피털의 Piral...\n---\n제목 : 화이자, 밸류에이션 충분히 하락, 중립 의견  RBC                                                                                       *연합인포맥스*RBC 캐피털의 애널리스트는 화이자(NYS: PFE) 밸류에이션이 충분히 하락했다고 언급하면서, 투자의견을 상향 조정했다.   ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Anthropic officially releases its most powerful AI model \"Claude Fable\" based on Mythos.@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX plans ​to begin testing AI data centers in space next year, Reuters reports.@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX plans ​to begin testing AI data centers in space next year, Reuters reports.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
