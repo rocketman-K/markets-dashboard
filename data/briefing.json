@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 12일 08:12",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,394.30 (+1.75%)\nNASDAQ: 25,809.66 (+2.54%)\nKOSPI: 7,730.82 (변동폭 계산 불가)\nUSD/KRW: 1,525.05 (변동폭 계산 불가)",
+  "date": "2026년 06월 12일 13:47",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,394.30 (+1.75%)\nNASDAQ: 25,809.66 (+2.54%)\nKOSPI: 8,421.46 (+8.47%)\nUSD/KRW: 1,520.61 (-0.29%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (6/12)(6/11 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 3.38%SPY 1.70%DIA 1.82%IWM 2.96%*미국 상승 업종XLK (기술) 3.73%XLB (원자재) 3.27%XLI (산업재) 3.24%XLY (경기 소비재) 2.48%*미국 ...\n---\n[키움 ETF 김진영]✨SpaceX 상장과 함께 관련 단일종목 레버리지/인버스 ETF들도 다음주 일제히 상장을 앞두고 있어 정리 드립니다(변동성이 매우 높을 것으로 예상되며 투자 권고 목적이 아닙니다)■ 원주(기초자산) 개요- SpaceX, 6/12(현지시간) Nasdaq 상장 Ι 티커 SPCX- 최종 공모가 $135, 기업가치 $1.77조, 조달자금 $7...\n---\n제목 : [실적공시] 어도비, CFO 퇴임…시간외 급락                                                                                             *연합인포맥스*어도비(NAS: ADBE)는 FY26 2분기(’26년 3~5월) 영업실적을 다음과 같이 발표했다.   ▲ 매출 66.2억 달...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Coinbase now allows AI agents to trade crypto autonomously.@WatcherGuru\n---\nJUST IN:🇺🇸CFTC Chair Mike Selig says \"for too long, crypto markets have operated under uncertainty.\"\"We're not regulating by enforcement and opaque rules.\"@WatcherGuru\n---\nJUST IN:🇺🇸$1.15 trillion added to the US stock market today.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
