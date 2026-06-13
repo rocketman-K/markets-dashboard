@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 13일 13:26",
-  "session_type": "주간 세션 (시황 정리)",
+  "date": "2026년 06월 13일 18:27",
+  "session_type": "야간 세션 (실시간 모니터링)",
   "market_data": "S&P 500: 7,431.46 (+0.50%)\nNASDAQ: 25,888.84 (+0.31%)\nKOSPI: 8,123.62 (+4.63%)\nUSD/KRW: 1,517.89 (-0.47%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 트레이드 데스크, 스페이스X 상장 직후 175달러 예상                                                                                    *연합인포맥스*CNBC는 스페이스X(NAS: SPCX) 상장을 앞두고, 투자자들의 높은 관심 속에 상장과 동시에 주가가 큰 폭으로 상승할 것이라고...\n---\n제목 : 예측시장, ‘27년 5월 전 테슬라-스페이스X 합병 51% 예상                                                                               *연합인포맥스*시킹 알파는 예측시장에 참여하는 트레이더들이 테슬라와 스페이스X 합병을 시간 문제로 보고 있다고 보도했다.   “예측시장 플랫폼 K...\n---\n제목 : 스페이스X, 거래 개시 직후 160달러로 상승, 시가총액 2조 달러 돌파                                                                     *연합인포맥스*스페이스X는 주당 150달러에 나스닥 증권거래소에서 거래를 개시했다. 이는 IPO가 135달러 대비 11% 상승한 가격이다.   또한 상장 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:SpaceX $SPCX flips TSMC $TSM to become the 6th largest company in the world following IPO.@WatcherGuru\n---\nJUST IN:Elon Musk SpaceX $SPCX surges 27% following IPO, surpassing $2.2 trillion market cap.@WatcherGuru\n---\nJUST IN:🇺🇸White House Official Patrick Witt says they're aiming to pass crypto Clarity Act by July 4th.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
