@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 15일 14:10",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,431.46 (+0.50%)\nNASDAQ: 25,888.84 (+0.31%)\nKOSPI: 8,568.40 (+5.48%)\nUSD/KRW: 1,510.68 (-0.44%)",
+  "date": "2026년 06월 15일 21:32",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,431.46 (+0.50%)\nNASDAQ: 25,888.84 (+0.31%)\nKOSPI: 8,545.98 (+5.20%)\nUSD/KRW: 1,512.70 (-0.31%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (6/15)▶주간 ETF 수익률 상위* 주식: DRAM +16.5%, PSI +15.8%, KDEF +13.4%, FLKR +12.9%, MKOR +12.9%* 채권: FEMB +2.0%, ELD +2.0%, EBND +1.8%, EMLC +1.5%, LEMB +1.4%* 대체: YBTC+7.1...\n---\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶06월 08일 ~ 06월 12일 Review- 6월 2주차 미국 증시는 전주 급락분을 빠르게 회복. S&P500 +0.6%, Nasdaq +0.7%로 지수 반등은 제한적이었으나, SOX가 +9.4% 급등하며 반도체 중심 반등을 주도- 러셀2000 +3.9%, S&P600 +4.3% 등...\n---\n[키움증권/김진구] 시프트업 기업리포트, BUY(Maintain), 목표주가 6.5만원◆동사 목표주가를 6.5만원으로 유지하고 게임 업종 내 최선호주 의견 역시 유지, 스텔라 블레이드: 블러드 레인 인게임 정보 공개를 통해서 동사 기업가치에 대한 기계적 업사이드 기제가 발동된 것으로 해석하며, 2분기 니케 매출 지속성과 연내 추가 공개될 프로젝트 스피릿의 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Oil prices crash 4% following US-Iran peace deal.@WatcherGuru\n---\nJUST IN:UK, France, Germany and Italy ready to lift sanctions on Iran following peace deal with US.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 1,587 Bitcoin worth $105 million.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
