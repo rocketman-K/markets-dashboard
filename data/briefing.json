@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 16일 14:13",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: nan (+nan%)\nKOSPI: 8,705.19 (변동폭 계산 불가)\nUSD/KRW: 1,513.07 (+0.24%)",
+  "date": "2026년 06월 16일 20:25",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: nan (+nan%)\nKOSPI: 8,726.60 (변동폭 계산 불가)\nUSD/KRW: 1,509.50 (변동폭 계산 불가)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : GE 베르노바, 강력한 수주와 가격 상승세 계속되고 있어  제프리스                                                                       *연합인포맥스*제프리스의 애널리스트는 GE 베르노바(NYS: GEV)의 수주 상황이 견고하며, 가격 상승세도 이어지고 있다고 분석했다.   “GE 베르노바 ...\n---\n제목 : 팔란티어, 제품 포트폴리오 강력하여 주가 회복 예상  울프                                                                              *연합인포맥스*울프 리서치의 Alex Zukin 애널리스트는 팔란티어 테크놀로지스(NAS: PLTR)의 강력한 제품 포트폴리오를 강조하면서, 주가 회복 ...\n---\n제목 : 마이크론, 전일 급등 이어 프리마켓에서도 상승세  멜리어스                                                                             *연합인포맥스*마이크론 테크놀로지(NAS: MU)는 오는 6월 24일에 FY26 3분기(3~5월) 실적을 발표할 예정이다.   배런스는 메모리 호황 속에 ...\n\n[WatcherGuru (@WatcherGuru)]\nIf you had bought SpaceX's $SPCX IPO last Friday, you would have out performed everyone holding ETH for the past 5 years.@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX $SPCX to acquire AI coding startup Cursor for $60,000,000,000.@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX $SPCX to acquire AI coding startup Cursor for $60,000,000,000.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
