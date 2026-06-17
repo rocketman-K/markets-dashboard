@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 17일 13:56",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,511.35 (-0.57%)\nNASDAQ: 26,376.34 (-1.15%)\nKOSPI: 8,796.24 (+0.80%)\nUSD/KRW: 1,513.28 (-0.00%)",
+  "date": "2026년 06월 17일 20:10",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,511.35 (-0.57%)\nNASDAQ: 26,376.34 (-1.15%)\nKOSPI: 8,864.24 (+1.58%)\nUSD/KRW: 1,516.97 (+0.24%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 카맥스, 도매 부문 호조 중심으로 호실적 발표                                                                              *연합인포맥스*카맥스(NYS: KMX)는 FY27 1분기(3~5월) 실적을 다음과 같이 발표했다.   ▲ 매출 80.1억 달러(+6.1% YoY)를 기...\n---\n제목 : 테이크 투, GTA 6 출시 다가오며 상승여력 관심 - 파이퍼샌들러                                                                          *연합인포맥스*파이퍼샌들러의 애널리스트는 테이크 투 인터랙티브 소프트웨어(NAS: TTWO)의 신작 GTA 6 출시를 앞두고 주가 상승여력이 크다고 판...\n---\n제목 : GE 베르노바, 수직적 통합 구조 갖춰 점유율 확대 유리 - 번스타인                                                                       *연합인포맥스*번스타인의 애널리스트는 GE 베르노바(NYS: GEV)의 수직적 통합 구조와 생산능력이 수요가 급증하고 있는 현 상황에서 시장 점유율 확대에...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk is now worth more than Bitcoin's entire market cap.Elon Musk: $1.4 trillionBitcoin: $1.3 trillion@WatcherGuru\n---\nJUST IN:🇪🇺Binance says it remains committed to European users and will continue operating legally following reports it could lose permission to serve the EU.@WatcherGuru\n---\nJUST IN:🇪🇺Binance says it remains committed to European users and will continue operating legally following reports it could lose permission to serve the EU.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
