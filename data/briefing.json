@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 17일 08:16",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,511.35 (-0.57%)\nNASDAQ: 26,376.34 (-1.15%)\nKOSPI: 8,545.98 (변동폭 계산 불가)\nUSD/KRW: 1,513.31 (변동폭 계산 불가)",
+  "date": "2026년 06월 17일 13:56",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,511.35 (-0.57%)\nNASDAQ: 26,376.34 (-1.15%)\nKOSPI: 8,796.24 (+0.80%)\nUSD/KRW: 1,513.28 (-0.00%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (6/17)(6/16 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -1.90%SPY -0.60%DIA 0.58%IWM -0.87%*미국 상승 업종XLF (금융) 1.47%XLU (유틸리티) 0.72%XLI (산업재) 0.65%XLB (원자재) 0.42%*미...\n---\n[키움증권/김진구] 테이크 투 인터랙티브 소프트웨어 (TTWO.US) 기업리포트: 보수적 가이던스 제시로 인한 반대급부 존재◆동사는 FY2027E 매출액 가이던스 중간값으로 80억달러를 제시하였는데 이는 관련 시점 컨센서스 대비 11% 하회한 수준, 다만 동사는 전분기에 이어 재차 GTA VI 출시 일정을 올해 11월 19일로 재확인 하였으며, 여름부터 마...\n---\n제목 : 코어위브, 견고한 수주 증가세 확인될 것  캔터 피츠제럴드                                                                              *연합인포맥스*캔터 피츠제럴드의 Brett Knoblauch 애널리스트는 코어위브(NAS: CRWV)의 수주잔고 증가세가 견고하다고 분석했다.   “코어...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk is now worth more than Bitcoin's entire market cap.Elon Musk: $1.4 trillionBitcoin: $1.3 trillion@WatcherGuru\n---\nJUST IN:🇪🇺Binance says it remains committed to European users and will continue operating legally following reports it could lose permission to serve the EU.@WatcherGuru\n---\nJUST IN:🇪🇺Binance says it remains committed to European users and will continue operating legally following reports it could lose permission to serve the EU.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
