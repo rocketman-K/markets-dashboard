@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 18일 13:47",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,420.10 (-1.21%)\nNASDAQ: 26,021.66 (-1.34%)\nKOSPI: 9,010.91 (+1.65%)\nUSD/KRW: 1,520.68 (+0.64%)",
+  "date": "2026년 06월 18일 19:41",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,420.10 (-1.21%)\nNASDAQ: 26,021.66 (-1.34%)\nKOSPI: 9,063.84 (+2.25%)\nUSD/KRW: 1,538.16 (+1.80%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 스냅의 Specs 스마트글래스, 매출 기여 기대할 수 없어  웰스파고                                                                        *연합인포맥스*웰스파고의 애널리스트는 스냅(NYS: SNAP)의 Specs 스마트글래스가 매출에 유의미하게 기여하지 못할 것이라고 예상했다.   “스냅이...\n---\n제목 : 테슬라, 상승 모멘텀 회복 불분명한 상태  울프                                                                                         *연합인포맥스*울프 리서치의 Emmanuel Rosner 애널리스트는 테슬라(NAS: TSLA) 주가가 스페이스X와의 합병 기대감에 지지받고 있...\n---\n제목 : 애플 가격인상 언급… 하드웨어 부문 이익률 주의 - BofA                                                                                *연합인포맥스*뱅크오브아메리카의 애널리스트는 애플(NAS: AAPL)이 가격인상에도 이익률 하락압력을 받을 수 있다고 분석했다.   “애플 경영진이...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Federal Reserve Chair Kevin Warsh says Fed officials are \"very open about changes.\"@WatcherGuru\n---\nJUST IN:Binance Founder CZ says countries need to tokenize stocks and issue their own crypto stablecoins to allow worldwide buyers.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says \"oil prices are tumbling down.\"@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
