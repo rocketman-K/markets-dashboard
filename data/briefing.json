@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 21일 08:57",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: nan (+nan%)\nKOSPI: 9,052.42 (변동폭 계산 불가)\nUSD/KRW: 1,529.89 (+0.29%)",
+  "date": "2026년 06월 21일 14:03",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,500.58 (+1.08%)\nNASDAQ: 26,517.93 (+1.91%)\nKOSPI: 9,052.42 (-0.13%)\nUSD/KRW: 1,529.89 (+0.29%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (6/19)(6/18 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 2.51%SPY 0.78%DIA -0.15%IWM 1.97%*미국 상승 업종XLK (기술) 3.04%XLY (경기 소비재) 1.45%XLI (산업재) 0.73%XLU (유틸리티) 0.67%*...\n---\n[키움증권 보험/증권/지주 안영준]🪶로빈후드(HOOD.US) - 월간 데이터 반등과 10% 인력 감축 발표로 주가 회복세 진입◆5월 수탁자산 +9% (MoM), 주식 거래대금 +27% (MoM)- 4월에 이어 5월에도 전월대비 수탁자산 증가- 5월 수탁자산은 9% 증가한 3,770억달러로 최고치 경신- 유잔고고객수도 전월대비 10만명 증가한 2,770만명으...\n---\n[키움증권 미국 주식 박기현]비코 (VICR.US): 기술적 해자는 분명하나, 속도 조절이 필요한 시점▶️(기업개요 및 실적)- 독보적인 48V 아키텍처 특허(기존 12V 대비 전력 분배 손실 16분의 1 절감)를 바탕으로 차세대 AI 데이터센터와 EV 시장의 전력 인프라 혁신을 주도하는 기업- FY1Q26 실적 매출액 $113M(+20.2% YoY)과 매...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇮🇷Iran's IRGC officially declares the Strait of Hormuz closed to all vessels, warns approaching ships face a \"security risk.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says there will be no tolls in the Strait of Hormuz \"unless they are imposed by and for the United States of America.\"@WatcherGuru\n---\nJUST IN:Elon Musk says the Treasury should \"send money directly to the people\" in an AI-dominated world.\"My prediction is that we will desperately be fighting deflation.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
