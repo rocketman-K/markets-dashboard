@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 22일 07:56",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,500.58 (+1.08%)\nNASDAQ: 26,517.93 (+1.91%)\nKOSPI: 9,052.42 (-0.13%)\nUSD/KRW: 1,529.10 (-0.55%)",
+  "date": "2026년 06월 22일 09:03",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,500.58 (+1.08%)\nNASDAQ: 26,517.93 (+1.91%)\nKOSPI: 9,052.42 (변동폭 계산 불가)\nUSD/KRW: 1,530.48 (-0.46%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 주식 박기현]비코 (VICR.US): 기술적 해자는 분명하나, 속도 조절이 필요한 시점▶️(기업개요 및 실적)- 독보적인 48V 아키텍처 특허(기존 12V 대비 전력 분배 손실 16분의 1 절감)를 바탕으로 차세대 AI 데이터센터와 EV 시장의 전력 인프라 혁신을 주도하는 기업- FY1Q26 실적 매출액 $113M(+20.2% YoY)과 매...\n---\nhttps://www.youtube.com/live/SDu0RR8lB4Q?si=NfQhxrmQawdQGAMl\n---\n★ 키움 음식료 Weekly (6/15)[키움 음식료/유통 박상준]★ Weekly News & Comments1) 한국 담뱃값이 싸긴 한데…‘담뱃값 인상설’ 다시 고개 드나 (bit.ly/4oFrlrf)- 정은경 보건복지부 장관이 담뱃값 인상을 포함한 금연정책 재정비를 시사- 한국 담뱃값은 2015년 이후 동결돼 OECD 국가들에 비해 낮은 수준- 정부는 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇯🇵Japan's National Business Corporate Pension Fund to allocate 1% of its assets to cryptocurrencies.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump says the US has the \"best economy ever\" with record jobs numbers and stock market.@WatcherGuru\n---\nJUST IN:Michael Saylor hints at buying more Bitcoin.\"Looks better with more dots.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
