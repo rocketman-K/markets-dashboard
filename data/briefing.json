@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 22일 14:11",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,500.58 (+1.08%)\nNASDAQ: 26,517.93 (+1.91%)\nKOSPI: 9,050.70 (-0.02%)\nUSD/KRW: 1,537.28 (-0.02%)",
+  "date": "2026년 06월 22일 21:19",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,500.58 (+1.08%)\nNASDAQ: 26,517.93 (+1.91%)\nKOSPI: 9,114.55 (+0.69%)\nUSD/KRW: 1,538.22 (+0.04%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (6/22)▶주간 ETF 수익률 상위* 주식: MRNY +20.2%, DRAM +18.0%, KSTR +15.1%, FLKR +12.9%, HOOY +12.7%* 채권: ZROZ +2.3%, GOVZ +2.3%, EDV +2.1%, XTWY +1.6%, TLT +1.1%* 대체: BHYP+11....\n---\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶06월 15일 ~ 06월 19일 Review- 6월 3주차 증시는 상승했으나, 소수 대형주 중심의 제한적 랠리. S&P500 +1.4% 대비 동일가중은 -0.33%, 상승종목보다 하락종목이 많아 시장 내부 체력은 약화- 나스닥도 +2.7% 상승했지만 동일가중은 +0.3%에 그쳤고, 5...\n---\n키움증권 리테일플랫폼부문 안석훈 부장매일 밤 9시에 전하는 뉴욕증시 프리뷰 (2026.06.22)\"반도체와 함께 강보합세.. 웨스턴디지털 +5.5%\"https://blog.naver.com/101ancha/224323809526#뉴욕증시#장전시황#종전협상#불확실성#반도체장비#메모리반도체#AI모멘텀#WDC\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Former Federal Reserve Chair Alan Greenspan dies at age 100.@WatcherGuru\n---\nJUST IN:🇺🇸Former Federal Reserve Chair Alan Greenspan dies at age 100.@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' buys 520 Bitcoin worth $35 million.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
