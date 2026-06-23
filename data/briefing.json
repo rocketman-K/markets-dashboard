@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 23일 13:09",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,472.79 (-0.37%)\nNASDAQ: 26,166.60 (-1.32%)\nKOSPI: 8,561.08 (-6.07%)\nUSD/KRW: 1,534.03 (+0.18%)",
+  "date": "2026년 06월 23일 18:56",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,472.79 (-0.37%)\nNASDAQ: 26,166.60 (-1.32%)\nKOSPI: 8,203.84 (-9.99%)\nUSD/KRW: 1,534.32 (+0.20%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 샌디스크 경영진, NAND 시장 성장 자신감 강조 - MS                                                                                     *연합인포맥스*모간스탠리의 Joseph Moore 애널리스트는 샌디스크(NAS: SNDK) 경영진과의 회담을 통해, NAND 메모리 시장의 ...\n---\n제목 : IBM, 오픈AI와 협력하여 사이버보안 솔루션 강화                                                                                        *연합인포맥스*시킹 알파는 IBM(NYS: IBM)이 오픈AI와 협력하여 사이버보안 솔루션을 강화한다고 보도했다.   \"IBM은 기업 고객들이...\n---\n제목 : 퀄컴, 인공지능 스타트업 인수 위해 접촉하고 있어                                                                                      *연합인포맥스*벤징가는 퀄컴(NAS: QCOM)이 인공지능 기술 기업인 Modular 인수를 검토하고 있다고 보도했다.   \"퀄컴이 인공지능 기술 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin falls under $63,000Over $150,000,000 longs liquidated from the crypto market in the past 15 minutes.@WatcherGuru\n---\nJUST IN:🇰🇷South Korea's KOSPI stock market crashes 10% today.@WatcherGuru\n---\nJUST IN:🇰🇷South Korea's KOSPI stock market crashes 10% today.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
