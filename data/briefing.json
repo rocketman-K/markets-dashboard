@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 24일 13:12",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,365.46 (-1.44%)\nNASDAQ: 25,587.04 (-2.21%)\nKOSPI: 8,237.73 (+0.41%)\nUSD/KRW: 1,538.58 (-0.03%)",
+  "date": "2026년 06월 24일 18:44",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,365.46 (-1.44%)\nNASDAQ: 25,587.04 (-2.21%)\nKOSPI: 8,471.02 (+3.26%)\nUSD/KRW: 1,548.20 (+0.59%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌리서치팀]키움 글로벌 7월 Monthly : 창과 방패▶미국: 창과 방패- 미국 경기는 침체와 거리가 먼 소프트랜딩 국면 지속. 고용 둔화, K자형 소비, 부동산 안정·에너지 가격 정상화가 물가 부담을 완화하는 가운데, Fed 긴축 완화와 유동성 공급 재개, 견조한 이익 모멘텀이 증시 하단을 지지- 다만 장기금리 상승, 중간선거 불확실성, SO...\n---\n제목 : 루시드, 자율주행 시장기회에 대한 관심이 주가 지지                                                                                    *연합인포맥스*벤징가는 전일 나스닥 지수의 하락에도 루시드(NAS: LCID) 주가가 방어에 성공했다고 언급하면서, 자율주행 시장기회가 주목받고 있다...\n---\n제목 : 마이크론, 메모리 공급 증가 빠르지 않을 것... 상승여력 커 - Bof                                                                       *연합인포맥스*마이크론 테크놀로지(NAS: MU)는 금일 폐장 후에 FY26 3분기(3~5월) 실적을 발표할 예정이다.   뱅크오브아메리카의 Vivek...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Senate to release crypto tax legislation as early as fall 2026.@WatcherGuru\n---\nJUST IN:🇺🇸US House officially passes bill to ban the Federal Reserve from creating a CBDC until 2030.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump orders DOJ to launch investigation into big oil companies for artificially inflating gas prices.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
