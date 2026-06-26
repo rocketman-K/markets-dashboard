@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 26일 07:14",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,357.49 (-0.01%)\nNASDAQ: 25,358.60 (-0.46%)\nKOSPI: 8,471.02 (변동폭 계산 불가)\nUSD/KRW: 1,544.31 (+0.59%)",
+  "date": "2026년 06월 26일 09:02",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,357.49 (-0.01%)\nNASDAQ: 25,358.60 (-0.46%)\nKOSPI: 8,930.30 (변동폭 계산 불가)\nUSD/KRW: 1,545.18 (+0.16%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 샌디스크, 마이크론 호실적에 성장 자신감 커져  씨티                                                                                   *연합인포맥스*씨티의 애널리스트는 마이크론 테크놀로지의 실적발표 이후, 샌디스크(NAS: SNDK)의 실적 성장세에 대해서도 자신감이 강화되었다고 평...\n---\n제목 : [개장 전 특징주] 마이크론 호실적에 메모리 섹터 급등                                                                                  *연합인포맥스*▲ 마이크론 테크놀로지(NAS: MU): 우수한 실적발표에 이어, 강력한 성장여력이 강조되었다. 프리마켓에서 17.6% 급등하고 있다....\n---\n제목 : 애플, 메모리 가격 상승에 하드웨어 가격인상                                                                                           *연합인포맥스*CNBC는 애플(NAS: AAPL)이 메모리 가격 상승을 반영하여 주요 하드웨어 가격을 인상했으나, 주가는 하락하고 있다고 보도했...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:53% of all Bitcoin $BTC in circulation is now held at an unrealized loss.@WatcherGuru\n---\nJUST IN:🇺🇸US tells OpenAI to limit GPT 5.6 release while the government reviews it, The Information reports.CEO Sam Altman: \"we've made clear to the US government that this is not our preferred long t...\n---\nJUST IN:🇺🇸US tells OpenAI to limit GPT 5.6 release while the government reviews it, The Information reports.CEO Sam Altman: \"we've made clear to the US government that this is not our preferred long t...",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
