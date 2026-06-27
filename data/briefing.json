@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 27일 08:02",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,354.02 (-0.05%)\nNASDAQ: 25,297.62 (-0.24%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,535.00 (-0.50%)",
+  "date": "2026년 06월 27일 13:05",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: nan (+nan%)\nNASDAQ: nan (+nan%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,535.00 (-0.50%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 스페이스X, 폐장 후에 Russell 1000 지수 편입 예정                                                                                     *연합인포맥스*배런스는 최근 하락세가 나타나고 있는 스페이스X(NAS: SPCX)가 금일 폐장 후에 Russell 1000 지수에 편입된...\n---\n제목 : [개장 전 특징주] 메모리 섹터, 전일 급등 이후 하락                                                                                    *연합인포맥스*▲ 메모리 종목: 전일 급등 이후 다시 하락세가 나타나고 있다. 마이크론 테크놀로지(NAS: MU) -5.0%, 샌디스크(NAS: ...\n---\n제목 : 일라이 릴리, 유럽에서 백혈병 항암제 승인 가능성 높아지며 상승                                                                        *연합인포맥스*인베스팅닷컴은 일라이 릴리(NYS: LLY)의 백혈병 항암제가 유럽에서 승인될 것으로 기대되고 있다고 보도했다.   “유럽의약품청(EMA)의 약...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:OpenAI officially launches GPT-5.6 limited preview, claiming to be more powerful than Claude Mythos.@WatcherGuru\n---\nJUST IN:🇺🇸California Governor Gavin Newsom says \"it's time for a national billionaire tax.\"@WatcherGuru\n---\nJUST IN:🇺🇸California Governor Gavin Newsom says \"it's time for a national billionaire tax.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
