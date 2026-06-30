@@ -1,9 +1,9 @@
 {
-  "date": "2026년 06월 30일 08:49",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,440.43 (+1.18%)\nNASDAQ: 25,820.14 (+2.07%)\nKOSPI: 8,411.21 (변동폭 계산 불가)\nUSD/KRW: 1,535.24 (변동폭 계산 불가)",
+  "date": "2026년 06월 30일 13:13",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,440.43 (+1.18%)\nNASDAQ: 25,820.14 (+2.07%)\nKOSPI: 8,502.02 (+1.28%)\nUSD/KRW: 1,548.50 (+0.86%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 컴캐스트 스핀오프 결정, 미디어 가치 실현 전망  라이트셰드                                                                            *연합인포맥스*라이트셰드 파트너스의 Rich Greenfield 애널리스트는 컴캐스트(NAS: CMCSA)의 미디어 부문 스핀오프 결정이 가치 실현으로 연...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (6/30)(6/29 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 2.49%SPY 1.65%DIA 0.76%IWM -0.29%*미국 상승 업종XLY (경기 소비재) 2.40%XLK (기술) 2.37%XLC (통신서비스) 1.60%XLI (산업재) 0.86%...\n---\n제목 : 어도비, 인공지능 솔루션의 성장세 기여 불분명  필립                                                                                   *연합인포맥스*필립 시큐리티스의 애널리스트는 어도비(NAS: ADBE)의 인공지능 솔루션이 성장세를 견인하기에는 부족하다고 평가했다.   “어도비와 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸JPMorgan says digital assets are moving into the core of the US financial system.@WatcherGuru\n---\nJUST IN:🇺🇸$4.7 trillion JPMorgan says tokenization could \"modernize\" the US financial system.@WatcherGuru\n---\nJUST IN:🇬🇧UK officially unveils crypto regulations and cuts capital requirements for stablecoin issuers.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
