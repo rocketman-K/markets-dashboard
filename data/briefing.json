@@ -1,9 +1,9 @@
 {
-  "date": "2026년 07월 02일 08:59",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,483.23 (-0.22%)\nNASDAQ: 26,040.03 (-0.66%)\nKOSPI: 8,476.48 (변동폭 계산 불가)\nUSD/KRW: 1,548.61 (변동폭 계산 불가)",
+  "date": "2026년 07월 02일 13:09",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,483.23 (-0.22%)\nNASDAQ: 26,040.03 (-0.66%)\nKOSPI: 7,930.30 (-4.49%)\nUSD/KRW: 1,550.78 (+0.14%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n♣️삼성E&A 2Q26 Preview[키움 건설 신대현]♣️삼성E&A(028050): 여전히 가져가도 좋은 하반기 수주 모멘텀1) 2분기 영업이익 시장 컨센서스 부합 전망- 삼성E&A 2Q OP 2,108원(YoY +16.5%)으로 시장 컨센서스(2,177억원)에 부합 전망- 일부 중동현장에서 대체항로로 인한 비용 상승은 있었으나, 예비비 내에서 충당된 것...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (7/2)(7/1 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -1.52%SPY -0.14%DIA 0.00%IWM -0.38%*미국 상승 업종XLC (통신서비스) 2.44%XLF (금융) 2.18%XLY (경기 소비재) 0.69%XLV (헬스케어) 0.55...\n---\n제목 : 샌디스크, 메모리 수급불균형 ‘27년에도 이어질 것 - BofA                                                                              *연합인포맥스*뱅크오브아메리카의 Wamsi Mohan 애널리스트는 NAND 메모리 시장의 수급불균형 속에 샌디스크(NAS: SNDK)의 ‘27년 실...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump declines to renew US-Mexico-Canada trade agreement.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump discloses up to $1.4 billion in stock purchases across 22,000 transactions in 2025.@WatcherGuru\n---\nJUST IN:Bitcoin reclaims $61,000@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
