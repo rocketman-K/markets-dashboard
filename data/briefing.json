@@ -1,9 +1,9 @@
 {
-  "date": "2026년 07월 02일 13:09",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,483.23 (-0.22%)\nNASDAQ: 26,040.03 (-0.66%)\nKOSPI: 7,930.30 (-4.49%)\nUSD/KRW: 1,550.78 (+0.14%)",
+  "date": "2026년 07월 02일 18:25",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,483.23 (-0.22%)\nNASDAQ: 26,040.03 (-0.66%)\nKOSPI: 7,648.09 (-7.89%)\nUSD/KRW: 1,548.18 (-0.03%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 오픈AI, 정부에 지분 5% 제공 검토                                                                                                     *연합인포맥스*시킹 알파는 오픈AI가 미국 정부에 지분을 제공하는 안이 논의되고 있다고 보도했다.   “현재 기업가치가 약 8,50...\n---\n제목 : 알파벳, 유럽 반독점 과징금 항소 기각돼                                                                                               *연합인포맥스*시킹 알파는 알파벳(NAS: GOOGL, GOOG)이 유럽 당국의 과징금에 대해 제기한 항소가 기각되면서, 약 47억 달러의 ...\n---\n제목 : 아마존, 소비자용 전자기기에 자체개발 칩 탑재 추진                                                                                    *연합인포맥스*시킹 알파는 아마존닷컴(NAS: AMZN)이 자체개발 반도체 이용을 소비자용 전자기기로 확대하고 있다고 보도했다.   “아마존은 클라우...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bitcoin reclaims $61,000@WatcherGuru\n---\nJUST IN:🇯🇵Metaplanet buys 2,823 Bitcoin worth $170,000,000.They now hold 43,000 $BTC worth $2.58 billion.@WatcherGuru\n---\nJUST IN:🇯🇵Metaplanet buys 2,823 Bitcoin worth $170,000,000.They now hold 43,000 $BTC worth $2.58 billion.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
