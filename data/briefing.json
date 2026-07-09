@@ -1,9 +1,9 @@
 {
-  "date": "2026년 07월 09일 12:57",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,482.71 (-0.28%)\nNASDAQ: 25,870.65 (+0.20%)\nKOSPI: 7,261.61 (+0.20%)\nUSD/KRW: 1,505.78 (-0.93%)",
+  "date": "2026년 07월 09일 18:52",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,482.71 (-0.28%)\nNASDAQ: 25,870.65 (+0.20%)\nKOSPI: 7,291.91 (+0.62%)\nUSD/KRW: 1,512.67 (-0.47%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 블루 오리진, 100억 달러 자금조달 추진                                                                                                *연합인포맥스*벤징가는 우주개발 기업 블루 오리진이 자금조달을 확대한다고 보도했다.   “아마존닷컴의 설립자인 제프 베이조스의 우주개발 ...\n---\n제목 : SK하이닉스 ADR 상장 임박했지만 여전히 마이크론 선호  퓨처럼                                                                          *연합인포맥스*퓨처럼 에쿼티스의 Shay Boloor 스트래티지스트는 SK하이닉스의 ADR 상장이 예정되어 있으나, 마이크론 테크놀로지가 더 안정적인 투...\n---\n제목 : 파라마운트-워너 브로스 인수, 지연 이어지고 있어                                                                                      *연합인포맥스*벤징가는 파라마운트 스카이댄스의 워너 브로스 디스커버리 인수가 계속해서 지연되고 있다고 보도했다.   “지난 2월 말 ▲ 넷플릭스(N...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸CFTC Chairman Mike Selig says the US \"will never\" have a CBDC under President Trump.@WatcherGuru\n---\nJUST IN:Elon Musk says \"AI is advancing at an incredible pace.\"@WatcherGuru\n---\nJUST IN:🇺🇸Federal Reserve says a few officials support raising interest rates.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
