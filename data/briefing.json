@@ -1,9 +1,9 @@
 {
-  "date": "2026년 07월 21일 06:55",
+  "date": "2026년 07월 21일 07:43",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,443.28 (-0.19%)\nNASDAQ: 25,508.07 (-0.05%)\nKOSPI: 6,820.60 (변동폭 계산 불가)\nUSD/KRW: 1,475.42 (-0.23%)",
+  "market_data": "S&P 500: 7,443.28 (-0.19%)\nNASDAQ: 25,508.07 (-0.05%)\nKOSPI: 6,820.60 (변동폭 계산 불가)\nUSD/KRW: 1,475.18 (-0.25%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (7/20)▶주간 ETF 수익률 상위* 주식: CRAK +7.8%, XOP +7.3%, IEO +6.8%, DRLL +6.3%, PBOG +5.5%* 채권: BLUI +0.6%, FLBL +0.5%, JUCY +0.5%, SCIO +0.4%, TUA +0.4%* 대체: BNO +15.5%, US...\n---\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶07월 13일 ~ 07월 17일 Review- 미·이란 충돌 격화와 AI 수요 둔화 우려로 기술주 중심의 조정 폭 확대- SOX 급락과 유가·VIX 상승이 맞물리며 위험회피 심리 강화- 다만 매도세는 일부 AI 대형주에 집중됐고, 자금은 애플·에너지·고배당·소형주로 이동▶07월 20일...\n---\n[키움증권 미국 전략/주식 김승혁]넷플릭스 (NFLX.US): 현문우답(賢問愚答)▶FY2Q26 실적 Review- FY262Q(6월말) 실적: 매출액 125.6억 달러(YoY +13.4%, QoQ +2.5%, 컨센서스 대비 -0.1%), 영업이익 41.9억 달러(YoY +11.1%, QoQ +6.0%, 컨센서스 대비 +1.5%), 영업이익률 33.4%(Yo...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇳🇬Nigeria establishes virtual asset council to coordinate crypto policy and regulation.@WatcherGuru\n---\nJUST IN:Jim Cramer says the market is \"miserable.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇦US imposes 50% tariffs on many Canadian goods, including products covered under USMCA.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/s17Wu8CZARU?si=KHxpkA3y25nVX81K\n---\n제목 : 머스크, 스페이스X의 520억 달러 폭스콘 주문 부인                                                                                      *연합인포맥스*시킹 알파는 스페이스X(NAS: SPCX)가 폭스콘에 약 520억 달러의 서버를 주문했다는 보도에 대해, 머스크 CEO가 이를 부...\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (7/21)(7/20 종가기준)- 주요 지수 수익률S&P500 7,443.28 / -0.19%NASDAQ 종합 25,508.07 / -0.05%다우산업 51,839.26 / -0.59%러셀2000 2,942.43 / -0.67%필라델피아 반도체 11,743.85 / 0.60%- 섹터별 수익률High 3: 소프트...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇳🇬Nigeria establishes virtual asset council to coordinate crypto policy and regulation.@WatcherGuru\n---\nJUST IN:Jim Cramer says the market is \"miserable.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇦US imposes 50% tariffs on many Canadian goods, including products covered under USMCA.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
