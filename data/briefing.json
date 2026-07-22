@@ -1,9 +1,9 @@
 {
-  "date": "2026년 07월 22일 08:45",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,509.20 (+0.89%)\nNASDAQ: 25,837.21 (+1.29%)\nKOSPI: 6,516.27 (변동폭 계산 불가)\nUSD/KRW: 1,480.85 (+0.40%)",
+  "date": "2026년 07월 22일 12:25",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,509.20 (+0.89%)\nNASDAQ: 25,837.21 (+1.29%)\nKOSPI: 7,060.90 (+4.64%)\nUSD/KRW: 1,482.08 (+0.48%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/RDQpvQa2kpY?si=CTPuWUGW_RhBH6VA\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (7/22)(7/21 종가기준)- 주요 지수 수익률S&P500 7,509.20 / 0.89%NASDAQ 종합 25,837.21 / 1.29%다우산업 52,224.64 / 0.74%러셀2000 2,987.40 / 1.53%필라델피아 반도체 12,356.16 / 5.21%- 섹터별 수익률High 3: 반도체 및 장...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (7/22)(7/21 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 1.85%SPY 0.83%DIA 0.69%IWM 1.45%*미국 상승 업종XLK (기술) 2.89%XLE (에너지) 0.97%XLV (헬스케어) 0.63%XLI (산업재) 0.30%*미국 하...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇮🇷🇺🇸Iran war has cost the United States $37,500,000,000 so far.@WatcherGuru\n---\nJUST IN:🇮🇷🇺🇸Iran war has cost the United States $37,500,000,000 so far.@WatcherGuru\n---\nJUST IN:🇺🇸Trump administration to redirect billions in federal research funding from universities toward AI.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
