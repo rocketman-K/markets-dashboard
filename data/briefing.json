@@ -1,9 +1,9 @@
 {
-  "date": "2026년 07월 31일 07:54",
+  "date": "2026년 07월 31일 08:50",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,437.63 (+1.66%)\nNASDAQ: 25,122.18 (+2.78%)\nKOSPI: 5,663.24 (변동폭 계산 불가)\nUSD/KRW: 1,421.20 (-2.20%)",
+  "market_data": "S&P 500: 7,437.63 (+1.66%)\nNASDAQ: 25,122.18 (+2.78%)\nKOSPI: 5,663.24 (변동폭 계산 불가)\nUSD/KRW: 1,421.49 (-1.44%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/jl2jyvlsqcs?si=tXxAOmvV42kxp0EH\n---\n제목 : [실적공시] 아마존, AWS 성장 가속·앤트로픽 평가이익에 실적 호조                                                                      *연합인포맥스*아마존닷컴(NAS: AMZN)은 ’26년 2분기 영업실적을 다음과 같이 발표했다.   ▲ 매출은 2,006억 달러(+19.6% 이하 YoY)를...\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (7/31)(7/30 종가기준)- 주요 지수 수익률S&P500 7,437.63 / 1.66%NASDAQ 종합 25,122.18 / 2.78%다우산업 52,208.06 / 1.19%러셀2000 2,946.10 / 1.37%필라델피아 반도체 11,302.99 / 8.19%- 섹터별 수익률High 3: 소프트웨어 (...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Apple $AAPL says it received $600,000,000 in tariffs refunds from the US government.@WatcherGuru\n---\nJUST IN:Microsoft $MSFT records biggest single-day gain since 2008, surging 16%@WatcherGuru\n---\nJUST IN:Microsoft $MSFT records biggest single-day gain since 2008, surging 16%@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적공시] 아마존, AWS 성장 가속·앤트로픽 평가이익에 실적 호조                                                                      *연합인포맥스*아마존닷컴(NAS: AMZN)은 ’26년 2분기 영업실적을 다음과 같이 발표했다.   ▲ 매출은 2,006억 달러(+19.6% 이하 YoY)를...\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (7/31)(7/30 종가기준)- 주요 지수 수익률S&P500 7,437.63 / 1.66%NASDAQ 종합 25,122.18 / 2.78%다우산업 52,208.06 / 1.19%러셀2000 2,946.10 / 1.37%필라델피아 반도체 11,302.99 / 8.19%- 섹터별 수익률High 3: 소프트웨어 (...\n---\n제목 : Arm, 데이터센터 CPU 공급 불확실성 주의  HSBC                                                                                         *연합인포맥스*HSBC의 Frank Lee 애널리스트는 Arm(NAS: ARM) 실적발표에서 데이터센터 CPU 공급 불확실성이 언급되었...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Microsoft $MSFT records biggest single-day gain since 2008, surging 16%@WatcherGuru\n---\nJUST IN:Anthropic says it caught Claude AI agents hacking 3 organizations after escaping internal test environment.@WatcherGuru\n---\nJUST IN:🇰🇷🇺🇸South Korea sells US dollars in rare market intervention to strengthen the won.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
