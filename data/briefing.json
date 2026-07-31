@@ -1,9 +1,9 @@
 {
-  "date": "2026년 07월 31일 12:36",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,437.63 (+1.66%)\nNASDAQ: 25,122.18 (+2.78%)\nKOSPI: 6,373.84 (+13.95%)\nUSD/KRW: 1,436.18 (-0.42%)",
+  "date": "2026년 07월 31일 18:11",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,437.63 (+1.66%)\nNASDAQ: 25,122.18 (+2.78%)\nKOSPI: 6,595.45 (+17.91%)\nUSD/KRW: 1,432.00 (-0.71%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 주식 박기현/RA 한유진]버티브 홀딩스 (VRT.US) : 하반기 도약을 위한 숨 고르기▶️(실적&주가)- FY2Q26 매출은 32.7억달러로 컨센서스를 하회했으나, 조정 OPM 22.6%와 EPS 1.52달러는 시장 기대를 상회- 북미 대형 프로젝트 집행 지연과 공급망 혼잡으로 유기적 성장률이 18%에 그치면서, 가이던스 상향에도 성장 둔...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 7월 5주차자료링크:https://bbn.kiwoom.com/rfCA343더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n---\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 7월 5주차자료링크:https://bbn.kiwoom.com/rfCA343더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/n...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Microsoft $MSFT records biggest single-day gain since 2008, surging 16%@WatcherGuru\n---\nJUST IN:Anthropic says it caught Claude AI agents hacking 3 organizations after escaping internal test environment.@WatcherGuru\n---\nJUST IN:🇰🇷🇺🇸South Korea sells US dollars in rare market intervention to strengthen the won.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
