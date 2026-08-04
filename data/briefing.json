@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 04일 08:56",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,600.50 (+1.48%)\nNASDAQ: 25,913.90 (+2.13%)\nKOSPI: 6,595.45 (변동폭 계산 불가)\nUSD/KRW: 1,429.39 (-0.44%)",
+  "date": "2026년 08월 04일 12:21",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,600.50 (+1.48%)\nNASDAQ: 25,913.90 (+2.13%)\nKOSPI: 6,225.02 (변동폭 계산 불가)\nUSD/KRW: 1,428.14 (-0.53%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적공시] 팔란티어, 美 상업 매출 급증·연간 가이던스 상향…시간외 급                                                                *연합인포맥스*팔란티어 테크놀로지(NAS: PLTR)는 ’26년 2분기 영업실적을 다음과 같이 발표했다.   ▲ 매출 19.35억 달러(+93.0% 이하 YoY)를...\n---\n제목 : 스노우플레이크, 인공지능 통합 솔루션 수요 견고 - BTIG                                                                                *연합인포맥스*BTIG의 Gray Powell 애널리스트는 스노우플레이크(NYS: SNOW)의 인공지능 통합 솔루션에 대한 수요를 긍정적으로 언급했...\n---\n[키움증권 글로벌 ETF 김진영/조호준]마스텍 (MTZ.US): 늘어난 외형, 느려진 본업▶FY26 2Q 실적 Highlights- FY26 2Q(6 월말) 매출액 43.7 억 달러(YoY +23.4%, 컨센 대비 +1.6%), 조정 EBITDA 3.84 억 달러(YoY +39.8%, 컨센 대비 +0.4%), 조정 EBITDA 마진8.8%(YoY +1.0%...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸FBI agent arrested and charged with stealing $1,000,000 in crypto from a suspect's accounts.@WatcherGuru\n---\nJUST IN:🇺🇸Senate Majority Leader Thune says he still expects to hold a vote for the crypto Clarity Act this week before recess.@WatcherGuru\n---\nJUST IN:Bitcoin stolen from Coldcard hardware wallet hack now exceeds $100,000,000@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
