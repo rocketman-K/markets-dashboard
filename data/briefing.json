@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 07일 08:46",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,709.96 (-0.18%)\nNASDAQ: 26,348.35 (-0.06%)\nKOSPI: 6,598.26 (변동폭 계산 불가)\nUSD/KRW: 1,422.92 (+0.12%)",
+  "date": "2026년 08월 07일 12:08",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,709.96 (-0.18%)\nNASDAQ: 26,348.35 (-0.06%)\nKOSPI: 6,235.94 (-0.96%)\nUSD/KRW: 1,420.30 (-0.06%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (8/7)(8/6 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.37%SPY -0.16%DIA -0.85%IWM -0.51%*미국 상승 업종XLE (에너지) 1.48%XLC (통신서비스) 0.28%XLV (헬스케어) 0.18%*미국 하락 업종XLB (원...\n---\n제목 : 일라이 릴리, 비만 치료제가 성장세 견인  MS 외                                                                                        *연합인포맥스*모간스탠리의 애널리스트는 비만 치료제를 중심으로 일라이 릴리(NYS: LLY)의 성장 전망을 낙관할 수 있다고 발언했다.   “...\n---\n제목 : 웨스턴 디지털, 강력한 가격결정력 확인돼 - JPM                                                                                        *연합인포맥스*제이피모간체이스의 Joseph Cardoso 애널리스트는 웨스턴 디지털(NAS: WDC) 실적발표에서 강력한 가격결정력이 유지되...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Republican Rep. Dan Crenshaw tells Americans struggling with high prices to \"stop whining, get a job, eat Ramen.\"During his 7 years in Congress, Dan Crenshaw's net worth has increased by an ...\n---\nJUST IN:🇺🇸Mortgage rates rise to highest level in over a year.@WatcherGuru\n---\nJUST IN:🇺🇸🇸🇦US oil imports from Saudi Arabia fall to zero for first time in 40 years.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
