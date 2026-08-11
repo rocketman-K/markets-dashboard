@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 11일 08:23",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,753.11 (-0.06%)\nNASDAQ: 26,605.36 (-0.32%)\nKOSPI: 6,258.77 (변동폭 계산 불가)\nUSD/KRW: 1,418.12 (+0.79%)",
+  "date": "2026년 08월 11일 11:11",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,753.11 (-0.06%)\nNASDAQ: 26,605.36 (-0.32%)\nKOSPI: 6,368.08 (+1.09%)\nUSD/KRW: 1,415.37 (+0.59%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/L57aajimjw4?si=5v5iooRKFKE0EVk4\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (8/11)(8/10 종가기준)- 주요 지수 수익률S&P500 7,753.11 / -0.06%NASDAQ 종합 26,605.36 / -0.32%다우산업 53,975.98 / -0.11%러셀2000 3,017.40 / -0.56%필라델피아 반도체 11,993.86 / -2.94%- 섹터별 수익률High 3: 에너...\n---\n제목 : 마이크로소프트, 빠르면 9월 Maia 300 칩 공개                                                                                          *연합인포맥스*시킹 알파는 마이크로소프트(NAS: MSFT)의 자체개발 Maia 300 칩이 준비되고 있다고 보도했다.   “마이크로소프...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Trump Media discloses holding 14,139 Bitcoin worth $905,000,000@WatcherGuru\n---\nJUST IN:Gold reclaims $4,400@WatcherGuru\n---\nJUST IN:Gold reclaims $4,400@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
