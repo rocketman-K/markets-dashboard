@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 11일 18:46",
+  "date": "2026년 08월 11일 19:39",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,753.11 (-0.06%)\nNASDAQ: 26,605.36 (-0.32%)\nKOSPI: 6,345.53 (+0.73%)\nUSD/KRW: 1,417.03 (+0.71%)",
+  "market_data": "S&P 500: 7,753.11 (-0.06%)\nNASDAQ: 26,605.36 (-0.32%)\nKOSPI: 6,345.53 (+0.73%)\nUSD/KRW: 1,415.10 (+0.58%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 코히어런트, 랠리 이후 차익실현 나타나며 급락                                                                                         *연합인포맥스*코히어런트(NYS: COHR)는 오는 8월 12일에 FY26 4분기(4~6월) 실적을 발표할 예정이다.   시킹 알파는 코히어런트가...\n---\n제목 : 로열 캐리비언 크루즈, 주가 박스권 상향돌파 기대 - 헤지아이                                                                           *연합인포맥스*헤지아이의 Sean Jenkins 애널리스트는 로열 캐리비언 크루즈(NYS: RCL) 주가가 곧 박스권을 상향돌파할 수 있다고 기대했다.  ...\n---\n제목 : [실적 속보] 온 홀딩, 매출 부진에 주가 급락                                                                                           *연합인포맥스*온 홀딩(NYS: ONON)은 ‘26년 2분기 실적을 다음과 같이 발표했다.   ▲ 매출 8억 5,030만 스위스프랑(+13....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Gold reclaims $4,400@WatcherGuru\n---\nJUST IN:Gold reclaims $4,400@WatcherGuru\n---\nJUST IN:🇺🇸White House official Patrick Witt says they are \"fully committed\" to passing the crypto Clarity Act next month.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 온 홀딩, 매출 부진에 주가 급락                                                                                           *연합인포맥스*온 홀딩(NYS: ONON)은 ‘26년 2분기 실적을 다음과 같이 발표했다.   ▲ 매출 8억 5,030만 스위스프랑(+13....\n---\n제목 : 엔비디아, 인공지능 인프라 기업 투자 확대 중                                                                                          *연합인포맥스*엔비디아(NAS: NVDA)는 오는 8월 26일에 FY27 2분기(5~7월) 실적을 발표할 예정이다.   배런스는 엔비디아가 인공...\n---\n제목 : 애플 iPhone, 메모리 급등으로 인해 가격인상 발표될 것                                                                                 *연합인포맥스*벤징가는 메모리 공급부족이 애플(NAS: AAPL) iPhone 신제품의 가격을 상승시킬 것으로 예상된다고 보도했다.   \"애플의 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Gold reclaims $4,400@WatcherGuru\n---\nJUST IN:Gold reclaims $4,400@WatcherGuru\n---\nJUST IN:🇺🇸White House official Patrick Witt says they are \"fully committed\" to passing the crypto Clarity Act next month.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
