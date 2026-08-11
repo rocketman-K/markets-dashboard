@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 11일 16:18",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,753.11 (-0.06%)\nNASDAQ: 26,605.36 (-0.32%)\nKOSPI: 6,345.53 (+0.73%)\nUSD/KRW: 1,416.70 (+0.69%)",
+  "date": "2026년 08월 11일 18:46",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,753.11 (-0.06%)\nNASDAQ: 26,605.36 (-0.32%)\nKOSPI: 6,345.53 (+0.73%)\nUSD/KRW: 1,417.03 (+0.71%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 코히어런트, 랠리 이후 차익실현 나타나며 급락                                                                                         *연합인포맥스*코히어런트(NYS: COHR)는 오는 8월 12일에 FY26 4분기(4~6월) 실적을 발표할 예정이다.   시킹 알파는 코히어런트가...\n---\n제목 : 로열 캐리비언 크루즈, 주가 박스권 상향돌파 기대 - 헤지아이                                                                           *연합인포맥스*헤지아이의 Sean Jenkins 애널리스트는 로열 캐리비언 크루즈(NYS: RCL) 주가가 곧 박스권을 상향돌파할 수 있다고 기대했다.  ...\n---\n제목 : [실적 속보] 온 홀딩, 매출 부진에 주가 급락                                                                                           *연합인포맥스*온 홀딩(NYS: ONON)은 ‘26년 2분기 실적을 다음과 같이 발표했다.   ▲ 매출 8억 5,030만 스위스프랑(+13....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Gold reclaims $4,400@WatcherGuru\n---\nJUST IN:Gold reclaims $4,400@WatcherGuru\n---\nJUST IN:🇺🇸White House official Patrick Witt says they are \"fully committed\" to passing the crypto Clarity Act next month.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
