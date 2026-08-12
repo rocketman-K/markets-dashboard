@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 12일 18:51",
+  "date": "2026년 08월 12일 19:48",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,728.20 (-0.32%)\nNASDAQ: 26,445.45 (-0.60%)\nKOSPI: 6,579.04 (+3.68%)\nUSD/KRW: 1,415.37 (-0.14%)",
+  "market_data": "S&P 500: 7,728.20 (-0.32%)\nNASDAQ: 26,445.45 (-0.60%)\nKOSPI: 6,579.04 (+3.68%)\nUSD/KRW: 1,415.65 (-0.12%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 힘스앤허스, 가이던스·실행 리스크 부담 - BofA 외                                                                                     *연합인포맥스*힘스 앤드 허스 헬스(NYS: HIMS)가 ‘26년 2분기 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 같다....\n---\n제목 : 온 홀딩 20% 급락했지만 DTC 성장세 관심 가져야 - 스티펄 외                                                                            *연합인포맥스*스티펄의 Peter McGoldrick 애널리스트는 온 홀딩(NYS: ONON)의 주가가 급락했지만, DTC 채널 성장세 등 호재도 ...\n---\n제목 : 코어위브, 인공지능 GPU 라이프사이클 예상보다 길어 - 퓨처럼                                                                           *연합인포맥스*퓨처럼 그룹의 Daniel Newman CEO는 코어위브(NAS: CRWV) 실적발표에서 인공지능 GPU의 라이프사이클이 시장 예상보다 길...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸SEC to unveil major crypto plans, Bloomberg reports.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump considers lowering capital gains tax.@WatcherGuru\n---\nJUST IN:Elon Musk says we \"will get flying cars.\"@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 온 홀딩 20% 급락했지만 DTC 성장세 관심 가져야 - 스티펄 외                                                                            *연합인포맥스*스티펄의 Peter McGoldrick 애널리스트는 온 홀딩(NYS: ONON)의 주가가 급락했지만, DTC 채널 성장세 등 호재도 ...\n---\n제목 : 코어위브, 인공지능 GPU 라이프사이클 예상보다 길어 - 퓨처럼                                                                           *연합인포맥스*퓨처럼 그룹의 Daniel Newman CEO는 코어위브(NAS: CRWV) 실적발표에서 인공지능 GPU의 라이프사이클이 시장 예상보다 길...\n---\n제목 : AMD, ‘27년에 뚜렷한 성장세 가속 예상돼 - 필립                                                                                       *연합인포맥스*필립 시큐리티스의 애널리스트는 AMD(NAS: AMD)의 단기적인 수익성이 실망스러울 수 있지만, 장기적인 성장세 및 수익성 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump considers lowering capital gains tax.@WatcherGuru\n---\nJUST IN:Elon Musk says we \"will get flying cars.\"@WatcherGuru\n---\nJUST IN:$7 trillion asset manager Fidelity to enable staking and quarterly cash payouts for its spot Ethereum ETF.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
