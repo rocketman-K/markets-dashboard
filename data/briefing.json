@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 14일 07:28",
+  "date": "2026년 08월 14일 08:28",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,798.99 (+0.65%)\nNASDAQ: 26,803.03 (+0.81%)\nKOSPI: 6,579.04 (변동폭 계산 불가)\nUSD/KRW: 1,418.15 (+0.42%)",
+  "market_data": "S&P 500: 7,798.99 (+0.65%)\nNASDAQ: 26,803.03 (+0.81%)\nKOSPI: 6,579.04 (변동폭 계산 불가)\nUSD/KRW: 1,418.15 (+0.12%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 시스코, 네트워크 등 각 부문 성장 모멘텀 우수  웰스파고 외                                                                            *연합인포맥스*웰스파고의 Aaron Rakers 애널리스트는 시스코 시스템즈(NAS: CSCO) 각 부문의 성장 모멘텀이 강력했다고 전했다.   “시스코...\n---\nhttps://www.youtube.com/live/uT4pIwtoPWk?si=sy0Eb8tRbfQw3Oq9\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (8/14)(8/13 종가기준)- 주요 지수 수익률S&P500 7,798.99 / 0.65%NASDAQ 종합 26,803.03 / 0.81%다우산업 53,839.99 / 0.13%러셀2000 3,052.85 / 0.24%필라델피아 반도체 12,456.00 / 0.46%- 섹터별 수익률High 3: 자동차 및 부...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳US accuses over 40 countries including Japan, Canada, and Mexico of helping China illegally bypass US tariffs.@WatcherGuru\n---\nJUST IN:S&P 500 closes at new all-time high of 7,799@WatcherGuru\n---\nJUST IN:🇺🇸White House to meet with top crypto executives next week.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략/주식 김승혁]🌏US Daily (8/14)(8/13 종가기준)- 주요 지수 수익률S&P500 7,798.99 / 0.65%NASDAQ 종합 26,803.03 / 0.81%다우산업 53,839.99 / 0.13%러셀2000 3,052.85 / 0.24%필라델피아 반도체 12,456.00 / 0.46%- 섹터별 수익률High 3: 자동차 및 부...\n---\n[키움증권/김진구] NAVER 기업리포트, BUY(Upgrade), 목표주가 32만원◆동사 목표주가를 32만원으로 유지하고 당사 적용 기준을 반영해 투자의견을 기존 Outperform에서 BUY로 상향, 당사는 동사의 B2C 및 B2B 세그먼트를 관통하는 소버린 AI 전략에 대해 지속 성과를 확인할 필요가 존재함을 강조하며, 해당 세그먼트별 글로벌 프런티어...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (8/14)(8/13 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 1.16%SPY 0.70%DIA 0.14%IWM 0.26%*미국 상승 업종XLC (통신서비스) 2.07%XLRE (부동산) 1.42%XLP (필수 소비재) 1.08%XLK (기술) 1.01%...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳US accuses over 40 countries including Japan, Canada, and Mexico of helping China illegally bypass US tariffs.@WatcherGuru\n---\nJUST IN:S&P 500 closes at new all-time high of 7,799@WatcherGuru\n---\nJUST IN:🇺🇸White House to meet with top crypto executives next week.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
