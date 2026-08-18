@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 18일 08:10",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,745.06 (-0.52%)\nNASDAQ: 26,644.91 (-0.32%)\nKOSPI: 6,977.94 (+2.42%)\nUSD/KRW: 1,413.60 (-0.13%)",
+  "date": "2026년 08월 18일 10:40",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,745.06 (-0.52%)\nNASDAQ: 26,644.91 (-0.32%)\nKOSPI: 7,165.62 (+2.69%)\nUSD/KRW: 1,410.88 (-0.32%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국전략/주식 김승혁]🌏US Daily (8/18)(8/17 종가기준)- 주요 지수 수익률S&P500 7,745.06 / -0.52%NASDAQ 종합 26,644.91 / -0.32%다우산업 53,459.78 / -0.51%러셀2000 3,057.54 / -0.35%필라델피아 반도체 12,621.00 / 1.64%- 섹터별 수익률High 3: 에너지...\n---\n제목 : 워크데이, 최근 상승세 이후 투자매력 높지 않아 - DB                                                                                   *연합인포맥스*워크데이(NAS: WDAY)는 오는 8월 27일에 FY27 2분기(5~7월) 실적을 발표할 예정이다.   도이체방크의 Brad Ze...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (8/18)(8/17 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.16%SPY -0.47%DIA -0.49%IWM -0.34%*미국 상승 업종XLE (에너지) 1.08%XLK (기술) 0.16%*미국 하락 업종XLC (통신서비스) -1.89%XLP (...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Nasdaq officially begins talks with regulators to enable 24-hour stock trading.@WatcherGuru\n---\nJUST IN:Anti-crypto Peter Schiff says \"I'm not sure why Bitcoin didn't sell off today.\"@WatcherGuru\n---\nJUST IN:Anti-crypto Peter Schiff says \"I'm not sure why Bitcoin didn't sell off today.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
