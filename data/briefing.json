@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 19일 08:10",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,691.76 (-0.69%)\nNASDAQ: 26,289.71 (-1.33%)\nKOSPI: 6,977.94 (변동폭 계산 불가)\nUSD/KRW: 1,412.28 (-0.17%)",
+  "date": "2026년 08월 19일 10:41",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,691.76 (-0.69%)\nNASDAQ: 26,289.71 (-1.33%)\nKOSPI: 6,601.74 (-3.90%)\nUSD/KRW: 1,405.98 (-0.62%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권/김진구] 유니티 소프트웨어 (U.US) 기업리포트: Unity Vector 성장 가속화로 영업 레버리지 효과 지속 기대◆핵심 성장 사업부인 Grow Solutions 매출액이 $389M(+11%QoQ, +35%YoY)로 성장이 가속화되면서, 동사가 강조해 온 Unity Vector의 고성장세를 확인할 수 있었던 점이 고무적◆이에 따라 전사 EBI...\n---\n제목 : 엔비디아, 헤지펀드의 투자의견 엇갈리고 있어                                                                                          *연합인포맥스*엔비디아(NAS: NVDA)는 오는 8월 26일에 FY27 2분기(5~7월) 실적을 발표할 예정이다.   시킹 알파는 글로벌 헤지펀...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (8/19)(8/18 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -1.69%SPY -0.68%DIA -0.24%IWM -1.26%*미국 상승 업종XLE (에너지) 1.76%XLV (헬스케어) 1.60%XLP (필수 소비재) 1.06%XLF (금융) 0.4...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸SEC officially proposes new rules to create clear regulatory framework for crypto.@WatcherGuru\n---\nJUST IN:🇦🇪🇮🇷UAE suspends all commercial activity and financial transactions with Iran.@WatcherGuru\n---\nJUST IN:Robinhood CEO Vlad Tenev says we are at the beginning of a \"tokenization supercycle\" that will \"eat the entire financial system.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
