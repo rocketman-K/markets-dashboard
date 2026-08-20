@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 20일 19:16",
+  "date": "2026년 08월 20일 20:14",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,707.98 (+0.21%)\nNASDAQ: 26,331.09 (+0.16%)\nKOSPI: 6,852.58 (+5.89%)\nUSD/KRW: 1,393.63 (-1.41%)",
+  "market_data": "S&P 500: 7,707.98 (+0.21%)\nNASDAQ: 26,331.09 (+0.16%)\nKOSPI: 6,852.58 (+5.89%)\nUSD/KRW: 1,392.98 (-1.46%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (8/20)(8/19 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.20%SPY 0.21%DIA 0.26%IWM 0.50%*미국 상승 업종XLV (헬스케어) 3.51%XLY (경기 소비재) 1.92%XLB (원자재) 1.43%XLP (필수 소비재) 1....\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (8/20)(8/19 종가기준)- 주요 지수 수익률S&P500 7,707.98 / 0.21%NASDAQ 종합 26,331.09 / 0.16%다우산업 53,463.05 / 0.22%러셀2000 3,032.94 / 0.50%필라델피아 반도체 11,738.23 / -2.12%- 섹터별 수익률High 3: 제약 (5....\n---\n[키움증권 미국 전략/주식 김승혁]미국은 지금 - 중간선거가 내민 데이터센터 청구서▶중간선거를 앞둔 정부의 정책 개입- 11~18일 S&P500·나스닥·SOX가 하락 전환한 가운데 데이터센터 전력 관련주의 낙폭이 확대되며 에너지 업종과 차별화- 텍사스의 데이터센터 계통 연결 중단에 이어 펜실베이니아도 전력 자체조달 및 비용 전가 제한 조치를 시행- 전력을 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$250,000,000 worth of shorts liquidated from the crypto market in the past hour.@WatcherGuru\n---\nJUST IN:$72,000 Bitcoin@WatcherGuru\n---\nJUST IN:$72,000 Bitcoin@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (8/20)(8/19 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.20%SPY 0.21%DIA 0.26%IWM 0.50%*미국 상승 업종XLV (헬스케어) 3.51%XLY (경기 소비재) 1.92%XLB (원자재) 1.43%XLP (필수 소비재) 1....\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (8/20)(8/19 종가기준)- 주요 지수 수익률S&P500 7,707.98 / 0.21%NASDAQ 종합 26,331.09 / 0.16%다우산업 53,463.05 / 0.22%러셀2000 3,032.94 / 0.50%필라델피아 반도체 11,738.23 / -2.12%- 섹터별 수익률High 3: 제약 (5....\n---\n[키움증권 미국 전략/주식 김승혁]미국은 지금 - 중간선거가 내민 데이터센터 청구서▶중간선거를 앞둔 정부의 정책 개입- 11~18일 S&P500·나스닥·SOX가 하락 전환한 가운데 데이터센터 전력 관련주의 낙폭이 확대되며 에너지 업종과 차별화- 텍사스의 데이터센터 계통 연결 중단에 이어 펜실베이니아도 전력 자체조달 및 비용 전가 제한 조치를 시행- 전력을 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$72,000 Bitcoin@WatcherGuru\n---\nJUST IN:$USDT issuer Tether CEO Paolo Ardoino says \"Bitcoin + Gold = hedge against doom.\"@WatcherGuru\n---\nJUST IN:$USDT issuer Tether CEO Paolo Ardoino says \"Bitcoin + Gold = hedge against doom.\"@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
