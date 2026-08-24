@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 24일 08:08",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,674.37 (+0.43%)\nNASDAQ: 26,180.46 (+0.43%)\nKOSPI: 6,912.95 (+0.88%)\nUSD/KRW: 1,385.86 (-0.35%)",
+  "date": "2026년 08월 24일 10:46",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,674.37 (+0.43%)\nNASDAQ: 26,180.46 (+0.43%)\nKOSPI: 6,821.66 (-1.32%)\nUSD/KRW: 1,383.58 (-0.52%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/ZrZt5nstddo?si=adsxdN4YXB6Bt6E6\n---\n[키움증권/김진구] 카카오 기업리포트, BUY(Maintain), 목표주가 7만원(하향)◆동사의 목표주가를 기존 11만원에서 7만원으로 하향, 당사는 향후 중기 이상 프런티어 폐쇄형 백본 모델이 지속적으로 워킹하면서 이에 기반한 B2C 구독경제 세그먼트 통합 확장이 지속 발현될 것으로 판단하는 바, 최근 카나나 중심 기제와 분할을 통한 AI 시너지 효과를 ...\n---\n★ 월마트 (WMT.US): 미국 기존점 성장 둔화[키움 음식료/유통 박상준]1) 관세 환급 제외 시 이익은 시장 기대치 하회- Walmart 의 FY2Q27(회계기간말: ’26. 7. 31) 매출액은 $187.9 B (YoY+5.9%)와 조정 EPS 는 $0.81(YoY -8%)를 기록- 컨센서스를 상회하는 실적을 달성했지만 이는 관세 환급금 $2.9B ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇨🇦🇺🇸Canadian Prime Minister Carney declares Canada is in a trade \"war\" with the United States.@WatcherGuru\n---\nJUST IN:🇨🇦🇺🇸Canadian Prime Minister Carney declares Canada is in a trade \"war\" with the United States.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷Treasury Secretary Bessent says tomorrow US will launch the \"single greatest financial offensive ever\" against Iran.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
