@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 25일 08:12",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,652.86 (-0.28%)\nNASDAQ: 25,980.19 (-0.76%)\nKOSPI: 6,912.95 (변동폭 계산 불가)\nUSD/KRW: 1,381.79 (-0.23%)",
+  "date": "2026년 08월 25일 10:41",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,652.86 (-0.28%)\nNASDAQ: 25,980.19 (-0.76%)\nKOSPI: 6,512.96 (-2.75%)\nUSD/KRW: 1,381.88 (-0.22%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (8/25)(8/24 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -1.00%SPY -0.29%DIA 0.27%IWM -0.66%*미국 상승 업종XLP (필수 소비재) 1.70%XLF (금융) 1.29%XLU (유틸리티) 1.05%XLC (통신서비스) 0....\n---\n제목 : 알파벳 TPU 생태계, 브로드컴보다 마블 주목해야 - GF                                                                                   *연합인포맥스*GF 시큐리티스의 Henry Huang 애널리스트는 알파벳 TPU 협력업체 중에서 브로드컴보다 마블 테크놀로지를 선호한다고 언급했...\n---\n제목 : 스페이스X, 인공지능 인프라와 위성에 엔비디아 프로세서 탑재                                                                           *연합인포맥스*시킹 알파는 스페이스X가 인공지능 전략을 확대하는 과정에서 엔비디아 프로세서 주문을 확대하고 있다고 보도했다.   “▲ 스페이스X(NAS: S...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳US to impose additional 7.5% tariff on Chinese goods, Bloomberg reports.@WatcherGuru\n---\nJUST IN:🇺🇸Treasury Secretary Bessent says he expects a major financial institution to be sanctioned this week.@WatcherGuru\n---\nJUST IN:🇨🇦🇺🇸Canada to officially announce retaliatory tariffs against US tomorrow.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
