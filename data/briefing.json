@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 26일 08:14",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,677.28 (+0.32%)\nNASDAQ: 26,151.30 (+0.66%)\nKOSPI: 6,696.96 (변동폭 계산 불가)\nUSD/KRW: 1,382.11 (+0.10%)",
+  "date": "2026년 08월 26일 10:46",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,677.28 (+0.32%)\nNASDAQ: 26,151.30 (+0.66%)\nKOSPI: 6,734.98 (-0.12%)\nUSD/KRW: 1,382.63 (+0.14%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마블 실적발표, Trainium 성장세가 관건  서스퀘하나                                                                                    *연합인포맥스*마블 테크놀로지(NAS: MRVL)는 오는 8월 27일에 FY27 2분기(5~7월) 실적을 발표할 예정이다.   서스퀘하나의 C...\n---\n이번 자료는 저희 리서치센터 유틸리티 담당 조재원 연구원과 함께 작성했습니다! 국내외 데이터센터 건설에 따른 건설/유틸리티 업종에 대한 수혜 내용을 담았으니 많은 관심 부탁드립니다!▶️보고서:bbn.kiwoom.com/rfCI5680아래 내용은 보고서 중 건설 부문 요약입니다.♣️건설/유틸리티 산업 인뎁스 자료[키움 건설 신대현]♣️건설/유틸리티: 데이터센...\n---\n제목 : 모더나, intismeran 연구 확대되며 성장여력 기대  울프                                                                                 *연합인포맥스*울프 리서치의 Alexandria Hammond 애널리스트는 모더나(NAS: MRNA)의 intismeran 임상 성공 이후 성...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇹🇭Thailand SEC advances regulations for spot Bitcoin and Ethereum ETFs.@WatcherGuru\n---\nJUST IN:🇺🇸$40 trillion US national debt now exceeds 123% of GDP.@WatcherGuru\n---\nJUST IN:🇯🇵Japan to launch blockchain-based system for instant settlement of stocks and government bonds.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
