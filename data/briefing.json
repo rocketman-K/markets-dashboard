@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 28일 12:53",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,730.99 (+0.72%)\nNASDAQ: 26,541.35 (+1.57%)\nKOSPI: 6,843.73 (-0.99%)\nUSD/KRW: 1,375.86 (-0.55%)",
+  "date": "2026년 08월 28일 20:02",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,730.99 (+0.72%)\nNASDAQ: 26,541.35 (+1.57%)\nKOSPI: 6,788.88 (-1.79%)\nUSD/KRW: 1,374.69 (-0.64%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 엔비디아, 클라우드 고객과의 매출공유 거래 중단                                                                                       *연합인포맥스*시킹 알파는 엔비디아(NAS: NVDA)가 인공지능 클라우드 기업과의 매출공유 거래를 중단했다고 보도했다.   “엔비디아가 중소규모 ...\n---\n제목 : 엔비디아 랠리, 실적 성장세 따라가지 못하고 있어  펀드스트랫                                                                          *연합인포맥스*펀드스트랫의 Tom Lee 리서치 국장은 엔비디아(NAS: NVDA)의 주가 상승세가 성장세를 따라가지 못하고 있다고 평가했다.   “엔비디아...\n---\n제목 : 마벨, 투자자들의 높은 기대치 만족시키지 못해  GS 외                                                                                  *연합인포맥스*골드만삭스의 애널리스트는 마벨 테크놀로지(NAS: MRVL) 실적발표가 투자자들의 높은 기대치를 충족하지 못했다고 설명했다.   “마...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$81,000 Bitcoin@WatcherGuru\n---\nJUST IN:🇺🇸Federal judge rules Trump administration violated Anthropic's First Amendment rights by labeling it a supply-chain risk.@WatcherGuru\n---\nJUST IN:🇺🇸Federal judge rules Trump administration violated Anthropic's First Amendment rights by labeling it a supply-chain risk.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
