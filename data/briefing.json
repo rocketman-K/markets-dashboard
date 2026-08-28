@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 28일 04:17",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,719.57 (+0.57%)\nNASDAQ: 26,473.38 (+1.31%)\nKOSPI: 6,808.21 (변동폭 계산 불가)\nUSD/KRW: 1,381.71 (+0.02%)",
+  "date": "2026년 08월 28일 12:53",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,730.99 (+0.72%)\nNASDAQ: 26,541.35 (+1.57%)\nKOSPI: 6,843.73 (-0.99%)\nUSD/KRW: 1,375.86 (-0.55%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 엔비디아, 허깅 페이스 129억 달러에 인수 합의                                                                                         *연합인포맥스*시킹 알파는 엔비디아(NAS: NVDA)가 허깅 페이스 인수를 추진하며 오픈소스 인공지능 모델 개발자 커뮤니티와의 관계를 강화하...\n---\n제목 : [실적 속보] 달러 트리, EPS 가이던스 실망에 하락                                                                                      *연합인포맥스*달러 트리(NAS: DLTR)는 FY26 2분기(5~7월) 실적을 다음과 같이 발표했다.   ▲ 매출 48.9억 달러(+7.0%...\n---\n제목 : [개장 전 특징주] 엔비디아, 세일스포스 등 호실적과 함께 상승                                                                          *연합인포맥스*▲ 엔비디아(NAS: NVDA): 이번 실적발표 및 가이던스에서 강력한  매출 성장세가 재확인되었다. 프리마켓에서 5.9% 상승 중이다.  ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:JPMorgan warns a large-scale food supply crisis could hit within the next year.@WatcherGuru\n---\nJUST IN:$13 trillion Charles Schwab to add Solana, Avalanche, and Chainlink trading to Schwab Crypto accounts.@WatcherGuru\n---\nJUST IN:🇺🇸🇻🇪Trump administration close to securing \"massive\" deal to take ownership stakes in Venezuelan oil fields that could more than double US oil reserves.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
