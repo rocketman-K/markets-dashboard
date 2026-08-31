@@ -1,9 +1,9 @@
 {
-  "date": "2026년 08월 31일 14:06",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,711.76 (-0.25%)\nNASDAQ: 26,402.42 (-0.52%)\nKOSPI: 6,715.18 (-1.09%)\nUSD/KRW: 1,375.44 (-0.36%)",
+  "date": "2026년 08월 31일 22:22",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,711.76 (-0.25%)\nNASDAQ: 26,402.42 (-0.52%)\nKOSPI: 6,820.02 (+0.46%)\nUSD/KRW: 1,368.76 (-0.85%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n★ 키움 음식료 Weekly (8/31)[키움 음식료/유통 박상준]★ Weekly News & Comments1) 코코아값 급등…롯데·오리온, 가격 인상 없이 '버티기'(iii.ad/84fbd5)- 뉴욕상품거래소 코코아 9월물이 톤당 6,046달러로 3월 3,100달러 대비 두 배 가까이 급등- 롯데웰푸드·오리온 등 제과업체는 올해 국내 가격을 동결하며 원...\n---\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (8/31)▶주간 ETF 수익률 상위*주식: KDEF +6.3%, IGV +5.9%, WCBR +5.7%, BUG +5.7%, WCLD +5.5%*채권: ZROZ +2.3%, GOVZ +2.0%, EDV +1.9%, XTWY +1.4%, TLT+1.0%*대체: ZCSH+18.0%, GSOL +1...\n---\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶08월 24일 ~ 08월 28일 Review-소프트웨어·대형 기술주 강세로 S&P500·나스닥 상승, 러셀2000·SOX는 금리 부담으로 부진-세일즈포스가 상승을 주도한 반면, 엔비디아·마벨은 호실적 대비 주가 반응 제한-주 후반 매파적 연준 발언으로 금리 민감 자산 약세, 향후 고용...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Tom Lee's 'BitMine' buys 53,501 $ETH worth $131 million.@WatcherGuru\n---\nJUST IN:Tom Lee's 'BitMine' buys 53,501 $ETH worth $131 million.@WatcherGuru\n---\nJUST IN:🇺🇸Treasury Secretary Bessent says the only way for the US to get out of debt is to grow its way out of debt.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
