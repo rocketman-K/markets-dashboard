@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 01일 13:43",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,686.14 (변동폭 계산 불가)\nNASDAQ: 26,370.89 (변동폭 계산 불가)\nKOSPI: 6,821.05 (+0.02%)\nUSD/KRW: 1,372.78 (-0.31%)",
+  "date": "2026년 09월 01일 20:29",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,686.14 (변동폭 계산 불가)\nNASDAQ: 26,370.89 (변동폭 계산 불가)\nKOSPI: 6,835.80 (+0.23%)\nUSD/KRW: 1,373.61 (-0.25%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/1)(8/31 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.05%SPY -0.30%DIA -0.65%IWM -0.62%*미국 상승 업종XLE (에너지) 2.04%XLK (기술) 0.44%*미국 하락 업종XLC (통신서비스) -1.35%XLU (유틸...\n---\n제목 : 마이크론 밸류에이션 지나치게 저렴                                                                                                    *연합인포맥스*CNBC는 메모리 섹터의 장기공급계약 확대를 강조하면서, 마이크론 테크놀로지(NAS: MU)의 밸류에이션이 지나치게 저렴하다...\n---\n제목 : 듀오링고, 사용자 성장 지속에 재평가 기대 - 에버코어                                                                                  *연합인포맥스*에버코어 ISI는 듀오링고(NAS:DUOL)에 대한 투자의견을 중립에서 아웃퍼폼으로, 목표주가는 105달러에서 210달러로 각각 상향 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Coinbase CEO Brian Armstrong says banks that are against the Clarity Act \"don't want competition from crypto companies.\"\"They don't want to have to pay higher rates to their customers.\"@Watc...\n---\nJUST IN:🇷🇺Russian law regulating cryptocurrency officially goes into effect.@WatcherGuru\n---\nJUST IN:85,000 blocks remaining until the next Bitcoin Halving.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
