@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 04일 05:12",
+  "date": "2026년 09월 04일 07:52",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 가져오기 실패 (Too Many Requests. Rate limited. Try after a while.)\nNASDAQ: 26,584.06 (+1.40%)\nKOSPI: 6,562.72 (변동폭 계산 불가)\nUSD/KRW: 1,356.18 (-1.21%)",
+  "market_data": "S&P 500: 7,747.71 (+1.06%)\nNASDAQ: 26,584.06 (+1.40%)\nKOSPI: 6,562.72 (변동폭 계산 불가)\nUSD/KRW: 1,356.00 (-1.23%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국주식 박기현]델 테크놀로지스(DELL.US): 이유 있는 독주, 엔터프라이즈 DC 현대화가 연 리레이팅📌1. FY2Q27 실적 및 가이던스: 시장 최상단을 뚫어낸 어닝 서프라이즈(2Q 실적) 매출액 $47.0B(+58% YoY) 및 EPS $7.04(+203% YoY)로 시장 컨센서스 대폭 상회, GPM 21.1% 및 ISG OPM 15.0%...\n---\n제목 : 팔로알토, AI·플랫폼화 효과에 전반적 성장세 확대 - 오펜하이머 외                                                                     *연합인포맥스*팔로알토 네트웍스(NAS: PANW)가 FY26 4분기(’26년 5~7월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 같다...\n---\n[키움증권 미국주식 박기현] 슈퍼 마이크로 컴퓨터(SMCI.US): 질적 전환을 위한 과도기📌1. FY4Q26 실적 및 FY27 가이던스: 마진 서프라이즈와 가이던스 되돌림(4Q 실적) 매출 $11.12B(+93.2% YoY)로 인프라 지연 탓에 하단 부합, GPM은 엔터프라이즈 믹스 개선(28%→50%) 및 관세 완화로 17.6%(+750bps QoQ) ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:OpenAI launches most powerful AI model 'GPT-6 Astra.'@WatcherGuru\n---\nJUST IN:🇺🇸$META CEO Mark Zuckerberg tells President Trump he is against a national AI regulator.@WatcherGuru\n---\nJUST IN:🇺🇸Coinbase files to launch perpetual stock trading in the US.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/naieaNGj1k8?si=HUeRkjEuzObsMoB5\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (9/4)(9/3 종가기준)- 주요 지수 수익률S&P500 7,747.71 / 1.06%NASDAQ 종합 26,584.06 / 1.40%다우산업 53,686.11 / 1.18%러셀2000 2,968.27 / 0.51%필라델피아 반도체 11,352.13 / 0.11%- 섹터별 수익률High 3: 자동차 및 부품 ...\n---\n제목 : 브로드컴, 알파벳 리스크 충분히 반영, 상승세 재개 예상 - 맥쿼리                                                                       *연합인포맥스*맥쿼리의 Arthur Lai 애널리스트는 알파벳 리스크가 브로드컴(NAS: AVGO) 주가에 충분히 반영되었고, 앞으로는 상승세가 예상된다고 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump says AI is going to \"create millions of jobs\" and \"cure diseases.\"@WatcherGuru\n---\nJUST IN:$82,000 Bitcoin@WatcherGuru\n---\nJUST IN:$135,000,000,000 added to the crypto market cap in the past 24 hours.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
