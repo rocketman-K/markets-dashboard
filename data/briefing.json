@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 03일 13:03",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,666.60 (+0.46%)\nNASDAQ: 26,217.83 (+0.45%)\nKOSPI: 6,665.49 (+1.57%)\nUSD/KRW: 1,357.38 (-1.13%)",
+  "date": "2026년 09월 03일 20:01",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,666.60 (+0.46%)\nNASDAQ: 26,217.83 (+0.45%)\nKOSPI: 6,579.48 (+0.26%)\nUSD/KRW: 1,358.60 (-1.04%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국주식 박기현]델 테크놀로지스(DELL.US): 이유 있는 독주, 엔터프라이즈 DC 현대화가 연 리레이팅📌1. FY2Q27 실적 및 가이던스: 시장 최상단을 뚫어낸 어닝 서프라이즈(2Q 실적) 매출액 $47.0B(+58% YoY) 및 EPS $7.04(+203% YoY)로 시장 컨센서스 대폭 상회, GPM 21.1% 및 ISG OPM 15.0%...\n---\n제목 : 팔로알토, AI·플랫폼화 효과에 전반적 성장세 확대 - 오펜하이머 외                                                                     *연합인포맥스*팔로알토 네트웍스(NAS: PANW)가 FY26 4분기(’26년 5~7월) 영업실적을 발표한 가운데, 동사에 대한 일부 IB 의견은 다음과 같다...\n---\n[키움증권 미국주식 박기현] 슈퍼 마이크로 컴퓨터(SMCI.US): 질적 전환을 위한 과도기📌1. FY4Q26 실적 및 FY27 가이던스: 마진 서프라이즈와 가이던스 되돌림(4Q 실적) 매출 $11.12B(+93.2% YoY)로 인프라 지연 탓에 하단 부합, GPM은 엔터프라이즈 믹스 개선(28%→50%) 및 관세 완화로 17.6%(+750bps QoQ) ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Zoom $ZM appoints former Oracle CFO Jeff Epstein to its Board of Directors.@WatcherGuru\n---\n$1,000 invested 15 years ago today would be worth:• Bitcoin: $8,970,000• Nvidia: $735,000• Tesla: $231,000• Apple: $29,000• S&P: $8,400• Gold: $2,150@WatcherGuru\n---\nJUST IN:🇦🇪$400 billion Standard Chartered launches institutional spot crypto trading in UAE.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
