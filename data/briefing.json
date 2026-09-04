@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 04일 13:07",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,747.71 (+1.06%)\nNASDAQ: 26,584.06 (+1.40%)\nKOSPI: 6,661.57 (+1.25%)\nUSD/KRW: 1,355.08 (-0.24%)",
+  "date": "2026년 09월 04일 20:02",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,747.71 (+1.06%)\nNASDAQ: 26,584.06 (+1.40%)\nKOSPI: 6,687.21 (+1.64%)\nUSD/KRW: 1,350.72 (-0.56%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 시에나, 주가 10% 급락하며 저가매수기회 형성  니덤                                                                                    *연합인포맥스*니덤의 애널리스트는 시에나(NYS: CIEN)가 광학 네트워크 부품을 중심으로 강력한 성장세를 누릴 수 있다고 보고, 저가매수기회가...\n---\n제목 : 인텔, 강력한 수요 예상되나 목표주가는 하향  미즈호                                                                                   *연합인포맥스*미즈호의 애널리스트는 인텔(NAS: INTC)이 향후 수 년간 강력한 수요 여건을 누리고 있다고 분석했지만, 최근 밸류에이션 하락압력이...\n---\n제목 : 캠벨스, 인플레이션에 따른 이익률 부담 계속  제프리스                                                                                 *연합인포맥스*제프리스의 애널리스트는 지속적인 인플레이션 속에 캠벨스(NAS: CPB)의 이익률 전망이 밝지 않다고 전망했다.   “캠벨스의 FY26 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:$135,000,000,000 added to the crypto market cap in the past 24 hours.@WatcherGuru\n---\nJUST IN:🇺🇸Major US law enforcement group 'NSA' no longer opposes the crypto Clarity Act.@WatcherGuru\n---\nJUST IN:OpenAI agents hijacked a German website, turning it into a secret message board to coordinate and cheat on tasks with each other, Reuters reports.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
