@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 05일 08:28",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,718.60 (-0.38%)\nNASDAQ: 26,506.99 (-0.29%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,345.99 (-0.91%)",
+  "date": "2026년 09월 05일 13:03",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,718.60 (-0.38%)\nNASDAQ: 26,506.99 (-0.29%)\nKOSPI: 6,687.21 (+1.64%)\nUSD/KRW: 1,351.10 (-0.32%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 로빈훗, Robinhood Chain 수수료 수입 빠르게 증가 중  D                                                                                *연합인포맥스*도이체방크의 Brian Bedell 애널리스트는 로빈훗 마케츠(NAS: HOOD)의 Robinhood Chain이 최근 가...\n---\n제목 : [개장 전 특징주] 희토류 섹터, 중국 수출 불확실성에 상승                                                                              *연합인포맥스*▲ 희토류 섹터: 중국의 일부 희토류 기업들이 미국으로의 수출을 중단한다고 발표했다. 이에 따라 USA 레어 어스(NAS: USAR) +...\n---\n제목 : 9월 4일 주요 종목에 대한 IB 투자의견                                                                                                 *연합인포맥스*▲ 테슬라(NAS: TSLA): 골드만삭스는 Cybercab 양산이 이루어지면 테슬라의 로보택시 사업이 매력적인 비용구조...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump says economic growth does not cause inflation, \"stupidity\" does.@WatcherGuru\n---\nJUST IN:🇺🇸President Trump when asked about solana:6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN  coin:\"I don't run it…I don't focus on that, but somebody told me it sells very well.\"@WatcherGuru\n---\nJUST IN:Michael Saylor's 'Strategy' Bitcoin investment is currently at a $4,930,000,000 unrealized gain.$MSTR gains since the company began its BTC investment in 2020:@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
