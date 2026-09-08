@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 08일 08:50",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,718.60 (-0.38%)\nNASDAQ: 26,506.99 (-0.29%)\nKOSPI: 6,687.21 (변동폭 계산 불가)\nUSD/KRW: 1,344.40 (-0.05%)",
+  "date": "2026년 09월 08일 13:11",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,718.60 (-0.38%)\nNASDAQ: 26,506.99 (-0.29%)\nKOSPI: 7,165.84 (+2.44%)\nUSD/KRW: 1,340.58 (-0.33%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마이크로소프트, Copilot 이용 증가하며 펀더멘털 개선  스티펄                                                                          *연합인포맥스*스티펄의 Brad Reback 애널리스트는 마이크로소프트(NAS: MSFT) Copilot의 이용이 증가하며 인공지능 부문 성장 펀더멘털...\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (9/8)(9/7 美 노동절 휴장)- 주요 뉴스▶Tech companies look to Argentina’s windswept Patagonia to build massive data centershttps://www.reuters.com/business/energy/tech-companies-look-arg...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/8)(9/7 종가기준)(Daily Return)美 노동절 휴장(Daily News)▶PGIM launches two new core equity ETFs-PGIM, 4일(현지시간) 미국 중소형주와 미국 외 선진국·신흥국 주식에 투자하는 'PGIM Jennison Small-Mid Cap Core ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Hunter Biden to launch crypto memecoin, named after his infamous laptop.@WatcherGuru\n---\nJUST IN:Ethereum to let users pay transaction fees with stablecoins instead of $ETH in 2027.@WatcherGuru\n---\nJUST IN:OpenAI's top scientist warns AI is advancing so fast it is becoming increasingly difficult for humans to understand and control.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
