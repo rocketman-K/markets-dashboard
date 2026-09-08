@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 08일 22:07",
+  "date": "2026년 09월 09일 02:37",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,718.60 (-0.38%)\nNASDAQ: 26,506.99 (-0.29%)\nKOSPI: 6,954.52 (-0.58%)\nUSD/KRW: 1,341.08 (-0.30%)",
+  "market_data": "S&P 500: 7,692.71 (-0.34%)\nNASDAQ: 26,485.96 (-0.08%)\nKOSPI: 6,995.39 (변동폭 계산 불가)\nUSD/KRW: 1,341.34 (-0.28%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 인텔, 10월에 CPU 가격인상 계획하고 있어                                                                                              *연합인포맥스*MarketScreener는 인텔(NAS: INTC)의 CPU 가격인상이 프리마켓에서의 주가 상승으로 연결되고 있다고 보도...\n---\n제목 : 인텔 파운드리, ASML 첨단장비 활용한 웨이퍼 처리 100만 장 돌파                                                                        *연합인포맥스*벤징가는 ASML의 첨단 High NA EUV 장비를 활용한 인텔 파운드리의 웨이퍼 처리가 이제 100만 장을 돌파했다고 보도했다.   ...\n---\n제목 : [개장 전 특징주] 노바티스, 임상 3상 결과 실망에 급락                                                                                 *연합인포맥스*▲ 노바티스(NYS: NVS): 근긴장성 이영양증 환자를 대상으로 한 임상 3상 시험 결과 유의미한 효과를 확인하지 못했다고 밝혔다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Visa says crypto stablecoin cards are in \"hypergrowth mode.\"@WatcherGuru\n---\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru\n---\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 쉐이크쉑, ‘27년 성장세 컨센서스 상회할 것 - RBC                                                                                     *연합인포맥스*RBC 캐피털의 Logan Reich 애널리스트는 ‘27년 쉐이크쉑(NYS: SHAK)의 성장 펀더멘털을 분석했을 때, 월가 예...\n---\n제목 : 퀄컴, 아마존과 인프라 제휴 체결                                                                                                      *연합인포맥스*CNBC는 퀄컴(NAS: QCOM)이 아마존 AWS와의 협력을 발표하면서 주가가 상승하고 있다고 보도했다.   “퀄컴이 ...\n---\n제목 : 코닝, 버라이즌과 수십억 달러 규모 광섬유 공급계약 발표                                                                               *연합인포맥스*시킹 알파는 코닝(NYS: GLW)이 버라이즌과 대규모 광섬유 공급계약을 발표했다고 보도했다.   “코닝이 ▲ 버라이즌 커뮤니케이션스(NY...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru\n---\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru\n---\nJUST IN:🇺🇸Republicans expect Crypto Clarity Act to fail in the Senate next week.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
