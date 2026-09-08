@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 08일 20:02",
+  "date": "2026년 09월 08일 22:07",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,718.60 (-0.38%)\nNASDAQ: 26,506.99 (-0.29%)\nKOSPI: 6,954.52 (-0.58%)\nUSD/KRW: 1,342.06 (-0.22%)",
+  "market_data": "S&P 500: 7,718.60 (-0.38%)\nNASDAQ: 26,506.99 (-0.29%)\nKOSPI: 6,954.52 (-0.58%)\nUSD/KRW: 1,341.08 (-0.30%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 미국주식 박기현/RA 한유진]시에나 (CIEN.US) : 증명된 광 수요, 공급이 결정할 FY27 성장▶FY3Q26 실적: 핵심 부문 호조와 네 번째 가이던스 상향-매출 $1.67B로 컨센서스 2.3% 상회, Optical Networking(+46% YoY)과 직판 클라우드·웨이브서버·인터커넥트가 성장 견인-관세 환급 제외 Non-GAAP GPM ...\n---\n제목 : 나이키, S&P 100 지수에서 퇴출                                                                                                        *연합인포맥스*시킹 알파는 나이키(NYS: NKE)가 지난 수 년간의 시가총액 감소세 속에 S&P 100 지수에서 퇴출된다고 보...\n---\n제목 : 오라클 투자자들, 오픈AI 비중 높은 점 경계하고 있어  프리덤                                                                           *연합인포맥스*오라클(NYS: ORCL)은 오는 9월 10일에 FY27 1분기(6~8월) 실적을 발표할 예정이다.   프리덤 캐피털의 Paul Meeks...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇨🇳China records $119,000,000,000 trade surplus in August.@WatcherGuru\n---\nJUST IN:🇨🇳China records $119,000,000,000 trade surplus in August.@WatcherGuru\n---\nJUST IN:🇨🇦🇺🇸Canada's retaliatory tariffs against select US imports officially in effect.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 인텔, 10월에 CPU 가격인상 계획하고 있어                                                                                              *연합인포맥스*MarketScreener는 인텔(NAS: INTC)의 CPU 가격인상이 프리마켓에서의 주가 상승으로 연결되고 있다고 보도...\n---\n제목 : 인텔 파운드리, ASML 첨단장비 활용한 웨이퍼 처리 100만 장 돌파                                                                        *연합인포맥스*벤징가는 ASML의 첨단 High NA EUV 장비를 활용한 인텔 파운드리의 웨이퍼 처리가 이제 100만 장을 돌파했다고 보도했다.   ...\n---\n제목 : [개장 전 특징주] 노바티스, 임상 3상 결과 실망에 급락                                                                                 *연합인포맥스*▲ 노바티스(NYS: NVS): 근긴장성 이영양증 환자를 대상으로 한 임상 3상 시험 결과 유의미한 효과를 확인하지 못했다고 밝혔다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Visa says crypto stablecoin cards are in \"hypergrowth mode.\"@WatcherGuru\n---\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru\n---\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
