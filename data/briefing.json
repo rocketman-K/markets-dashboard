@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 09일 08:01",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,673.52 (-0.58%)\nNASDAQ: 26,421.41 (-0.32%)\nKOSPI: 6,995.39 (변동폭 계산 불가)\nUSD/KRW: 1,340.54 (-0.23%)",
+  "date": "2026년 09월 09일 13:17",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,673.52 (-0.58%)\nNASDAQ: 26,421.41 (-0.32%)\nKOSPI: 7,036.51 (+1.18%)\nUSD/KRW: 1,338.30 (-0.39%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 삼성전자 Z Fold 8 호응, 애플의 폴더블 iPhone도 호응 기대돼                                                                           *연합인포맥스*카운터포인트 리서치는 애플(NAS: AAPL)의 폴더블 iPhone 출시를 앞두고, 삼성전자의 폴더블 스마트폰이 소비자들의 호응을...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/9)(9/8 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.08%SPY -0.55%DIA -1.13%IWM -0.45%*미국 상승 업종XLE (에너지) 1.11%XLU (유틸리티) 0.86%XLK (기술) 0.32%*미국 하락 업종XLV (헬스케어...\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (9/9)(9/8 종가기준)- 주요 지수 수익률S&P500 7,673.52 / -0.58%NASDAQ 종합 26,421.41 / -0.32%다우산업 52,786.07 / -1.18%러셀2000 2,960.20 / -0.52%필라델피아 반도체 11,887.87 / 1.30%- 섹터별 수익률High 3: 자동차 및...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru\n---\nJUST IN:Robinhood $HOOD to take minority stake in Crypto․com@WatcherGuru\n---\nJUST IN:🇺🇸Republicans expect Crypto Clarity Act to fail in the Senate next week.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
