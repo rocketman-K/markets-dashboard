@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 09일 13:17",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,673.52 (-0.58%)\nNASDAQ: 26,421.41 (-0.32%)\nKOSPI: 7,036.51 (+1.18%)\nUSD/KRW: 1,338.30 (-0.39%)",
+  "date": "2026년 09월 09일 20:08",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,673.52 (-0.58%)\nNASDAQ: 26,421.41 (-0.32%)\nKOSPI: 7,051.64 (+1.40%)\nUSD/KRW: 1,337.74 (-0.43%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 테슬라, 로보택시 경쟁력 가지려면 사이버캡 양산 필요 - GS                                                                             *연합인포맥스*골드만삭스의 애널리스트는 테슬라(NAS: TSLA)의 로보택시 서비스가 시장 주도권을 가지려면 사이버캡 차량의 양산이 성공적으로 이루어져...\n---\n[키움증권/김진구] 게임 이슈 분석: 멀티 IP 확보 요구◆이번 게임스컴을 연계해 중국 게임사의 위협과 국내 게임사의 현실을 멀티 IP 확보와 BM 다변화의 관점 등으로 분석한 보고서◆당사는 상기 뷰 관점에서 시프트업을 게임 업종내 최선호주로 제시하고 투자의견 BUY 및 목표주가 6.5만원을 유지, 크래프톤은 목표주가 29만원을 유지하며 당사 적용기준에 의...\n---\n제목 : 팔란티어와 네비우스, 소버린 AI 협력 발표                                                                                             *연합인포맥스*벤징가는 팔란티어 테크놀로지스와 네비우스가 소버린 AI 인프라 구축을 위한 협력을 발표했다고 보도했다.   \"▲ 팔란티어 테크...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Former OpenAI & Anthropic researcher quits over fears AI race will lead to systems that destroy humanity.\"The people building AI earnestly believe that it could kill us all by the end of the d...\n---\nJUST IN:Brent crude oil surges over $100 for the first time since July.@WatcherGuru\n---\nJUST IN:Anthropic's Lead AI Alignment researcher says he believes there is a >10% chance \"AI could kill all humans\" within the next decade.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
