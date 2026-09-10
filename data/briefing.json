@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 10일 07:48",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,636.36 (-0.48%)\nNASDAQ: 26,253.34 (-0.64%)\nKOSPI: 6,954.52 (변동폭 계산 불가)\nUSD/KRW: 1,339.38 (-0.31%)",
+  "date": "2026년 09월 10일 09:41",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,636.36 (-0.48%)\nNASDAQ: 26,253.34 (-0.64%)\nKOSPI: 7,021.73 (변동폭 계산 불가)\nUSD/KRW: 1,338.10 (-0.08%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/0MyVHxEJxFQ?si=jWJyQCe15bZ5dVR5\n---\n제목 : 델, IT 하드웨어 탈상품화가 성장세 견인할 것  에버코어                                                                                *연합인포맥스*에버코어의 Amit Daryanani 애널리스트는 델 테크놀로지스(NYS: DELL) 투자자들이 IT 하드웨어의 탈상품화에 따른 실적 ...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/10)(9/9 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.29%SPY -0.46%DIA -0.75%IWM -1.37%*미국 상승 업종XLE (에너지) 0.83%*미국 하락 업종XLI (산업재) -1.51%XLY (경기 소비재) -1.34%XLU...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:22-year-old Malone Lam pleads guilty to stealing $245 million in Bitcoin and spending it on luxury homes, exotic cars and private jets.@WatcherGuru\n---\nJUST IN:Hunter Biden says he has not made a \"single dollar\" on his crypto memecoin $LAPTOP@WatcherGuru\n---\nJUST IN:Hunter Biden says his crypto memecoin $LAPTOP saw a \"sharp swing\" in price due to \"technical issues…which has since stabilized to healthy levels.\"The coin is now down over 95% since launch.@Wa...",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
