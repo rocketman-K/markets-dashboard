@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 15일 07:55",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,619.98 (-0.48%)\nNASDAQ: 26,186.41 (-0.56%)\nKOSPI: 6,909.91 (변동폭 계산 불가)\nUSD/KRW: 1,346.10 (-0.15%)",
+  "date": "2026년 09월 15일 10:02",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,619.98 (-0.48%)\nNASDAQ: 26,186.41 (-0.56%)\nKOSPI: 6,693.76 (변동폭 계산 불가)\nUSD/KRW: 1,347.78 (+0.23%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권/김진구] 팔란티어 테크놀로지 (PLTR.US) 기업리포트: 소버린 중심 전략이 중장기 워킹할지가 미지수◆동사는 K-LLM 기제로 주요 백본을 커머더티 기제로 활용 및 결합하여 동사 AIP에 온보딩 및 오케스트레이션 하는 프로세스를 통해 프런티어 업체 성능을 상회할 수 있다는 미국 중심 소버린 전략을 피력 중◆당사는 기본적으로 주요 LLM을 단순 ...\n---\n[키움증권/김진구] 세일즈포스 (CRM.US) 기업리포트: 매니지먼트의 인사이트가 긍정적으로 작동◆동사는 앤트로픽 클로드와 제휴를 통해서 플랫폼 데이터와 워크플로우를 클로드 기반 LLM과 강 결합하여 고객의 실시간 의사결정을 다양한 변수 하에서 실질 지원하는 자율형 에이전트를 실행할 전략을 구축한 것으로 평가하며, 이는 올해 9월에 오픈 베타를 기점으로 4...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/15)(9/14 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.80%SPY -0.45%DIA -0.25%IWM -0.34%*미국 상승 업종XLC (통신서비스) 2.19%XLV (헬스케어) 1.45%XLP (필수 소비재) 1.25%*미국 하락 업종X...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Senate Democrats to meet tonight to discuss Crypto Clarity Act and work on counterproposal.@WatcherGuru\n---\nJUST IN:🇺🇸Senator Lummis says Democrats are holding the Crypto Clarity Act \"hostage.\"@WatcherGuru\n---\nJUST IN:🇺🇸Senator Lummis says Democrats are holding the Crypto Clarity Act \"hostage.\"@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
