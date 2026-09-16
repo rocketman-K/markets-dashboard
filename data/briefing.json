@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 16일 13:28",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,585.73 (-0.45%)\nNASDAQ: 25,981.57 (-0.78%)\nKOSPI: 6,706.16 (+1.19%)\nUSD/KRW: 1,364.47 (+1.40%)",
+  "date": "2026년 09월 16일 20:18",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,585.73 (-0.45%)\nNASDAQ: 25,981.57 (-0.78%)\nKOSPI: 6,717.97 (+1.37%)\nUSD/KRW: 1,366.62 (+1.56%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 알파벳 AI 보상 프로그램, 레딧 라이선스 갱신 가능성 낮춰 - 웰스파고                                                                   *연합인포맥스*웰스파고는 디지데이를 인용해 알파벳(NAS: GOOG, GOOGL) 산하 구글이 AI 오버뷰에 참여하는 퍼블리셔들에게 비용을 지급하는 시범 프로...\n---\n제목 : 오픈AI, 투자 유치 논의 중... 약 1.2조 달러 가치로 평가돼                                                                             *연합인포맥스*시킹 알파는 오픈AI가 약 1조 2,000억 달러의 가치로 추가 투자를 유치할 것으로 보인다고 보도했다.   \"오픈AI가 대형 투자...\n---\n제목 : 인텔, Terafab 협력 통해 파운드리 수익성 향상될 것 - 티그레스                                                                         *연합인포맥스*티그레스 파이낸셜의 애널리스트는 인텔(NAS: INTC)의 테슬라 Terafab 프로젝트 협력이 파운드리 부문의 수익성 개선을 견인할 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump has made more trades than all of Congress combined since returning to office, Bloomberg reports.@WatcherGuru\n---\nJUST IN:🇺🇸Coinbase CEO Brian Armstrong says \"clarity is coming to crypto regardless.\"\"We can't wait on Congress anymore.\"@WatcherGuru\n---\nJUST IN:🇩🇪$1.7 trillion Deutsche Bank launches crypto custody service for institutions.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
