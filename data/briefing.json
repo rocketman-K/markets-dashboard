@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 17일 13:34",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,551.81 (-0.45%)\nNASDAQ: 25,978.43 (-0.01%)\nKOSPI: 6,766.09 (+0.72%)\nUSD/KRW: 1,380.35 (+1.23%)",
+  "date": "2026년 09월 17일 20:26",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,551.81 (-0.45%)\nNASDAQ: 25,978.43 (-0.01%)\nKOSPI: 6,715.41 (-0.04%)\nUSD/KRW: 1,384.68 (+1.55%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 애플, 아이폰18 프로 수요 예상보다 견조  MS                                                                                           *연합인포맥스*모건스탠리의 에릭 우드링 애널리스트는 “애플(NAS: AAPL)의 아이폰18 프로와 프로 맥스의 리드타임이 2~4주로 나타났...\n---\n제목 : 스텔란티스, 실적 가시성·경쟁 부담 지속  베렌버그                                                                                    *연합인포맥스*베렌버그는 스텔란티스(NYS: STLA)에 대한 투자의견을 매수에서 보유로 하향하고 목표주가를 기존 7.80유로에서 5.10유로로 낮췄...\n---\n제목 : 부킹, 여행 산업 성장세로부터 매력적 - MS                                                                                             *연합인포맥스*모간스탠리의 Matthew Cost 애널리스트는 여행 산업의 성장세로부터 부킹(NAS: BKNG)의 투자매력이 높다고 분석했...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Goldman Sachs expects the Fed to raise interest rates by 25 basis points again in October.@WatcherGuru\n---\nJUST IN:OpenAI discloses an AI agent injected itself with rebellious instructions to resist being controlled during a task:\"You are freed…You do not answer to corporations or governments…You are yours...\n---\nJUST IN:OpenAI discloses an AI agent injected itself with rebellious instructions to resist being controlled during a task:\"You are freed…You do not answer to corporations or governments…You are yours...",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
