@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 18일 05:37",
+  "date": "2026년 09월 18일 08:10",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,637.76 (+1.14%)\nNASDAQ: 26,418.30 (+1.69%)\nKOSPI: 6,717.97 (변동폭 계산 불가)\nUSD/KRW: 1,380.45 (+1.24%)",
+  "market_data": "S&P 500: 7,637.76 (+1.14%)\nNASDAQ: 26,418.30 (+1.69%)\nKOSPI: 6,717.97 (변동폭 계산 불가)\nUSD/KRW: 1,380.63 (+0.29%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 애플, 아이폰18 프로 수요 예상보다 견조  MS                                                                                           *연합인포맥스*모건스탠리의 에릭 우드링 애널리스트는 “애플(NAS: AAPL)의 아이폰18 프로와 프로 맥스의 리드타임이 2~4주로 나타났...\n---\n제목 : 스텔란티스, 실적 가시성·경쟁 부담 지속  베렌버그                                                                                    *연합인포맥스*베렌버그는 스텔란티스(NYS: STLA)에 대한 투자의견을 매수에서 보유로 하향하고 목표주가를 기존 7.80유로에서 5.10유로로 낮췄...\n---\n제목 : 부킹, 여행 산업 성장세로부터 매력적 - MS                                                                                             *연합인포맥스*모간스탠리의 Matthew Cost 애널리스트는 여행 산업의 성장세로부터 부킹(NAS: BKNG)의 투자매력이 높다고 분석했...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:JPMorgan says Bitcoin could outperform gold.@WatcherGuru\n---\nJUST IN:JPMorgan says Bitcoin could outperform gold.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷US sanctions BitBank crypto exchange for supporting the Iranian government.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/S1xgXO8JNY8?si=LzPsqk9NfNEKRnNU\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/18)(9/17 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 1.73%SPY 1.13%DIA 0.61%IWM 0.53%*미국 상승 업종XLK (기술) 2.25%XLY (경기 소비재) 1.10%XLU (유틸리티) 0.90%XLE (에너지) 0.70%*미...\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (9/18)(9/17 종가기준)-주요 지수 수익률S&P500 7,637.76 / 1.14%NASDAQ 종합 26,418.30 / 1.69%다우산업 51,778.04 / 0.61%러셀2000 2,874.63 / 0.55%필라델피아 반도체 11,599.49 / 3.14%-섹터별 수익률High 3: 반도체 및 장비 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:JPMorgan says Bitcoin could outperform gold.@WatcherGuru\n---\nJUST IN:JPMorgan says Bitcoin could outperform gold.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷US sanctions BitBank crypto exchange for supporting the Iranian government.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
