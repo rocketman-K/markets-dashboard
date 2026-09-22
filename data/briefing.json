@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 23일 05:33",
+  "date": "2026년 09월 23일 08:20",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,764.64 (-0.00%)\nNASDAQ: 27,244.28 (+0.45%)\nKOSPI: 7,007.72 (변동폭 계산 불가)\nUSD/KRW: 1,354.01 (-2.23%)",
+  "market_data": "S&P 500: 7,764.64 (-0.00%)\nNASDAQ: 27,244.28 (+0.45%)\nKOSPI: 7,007.72 (변동폭 계산 불가)\nUSD/KRW: 1,355.11 (-1.35%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : AMD, 10% 상승하며 시총 1조 달러 달성                                                                                                 *연합인포맥스*AMD, 10% 상승하며 시총 1조 달러 달성\n---\n제목 : 스타벅스, 일본 지분 매각 검토 등 효율성 강조 - TD 코웬                                                                               *연합인포맥스*TD 코웬의 애널리스트는 스타벅스(NAS: SBUX)의 일본 지분 매각이 EPS를 희석하겠지만, 효율성 개선으로 연결될 것이라고 예상...\n---\n제목 : 테슬라와 스페이스X 밀접해지며 합병 가능성도 높아져 - MS                                                                              *연합인포맥스*모간스탠리의 Adam Jonas 애널리스트는 테슬라와 스페이스X의 관계가 더 밀접해지면서 합병 가능성도 높아지고 있다고 분석했다.   “...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk says AI will \"beat all fields by the end of next year.\"\"Or maybe 2028, at the latest.\"@WatcherGuru\n---\nJUST IN:🇺🇸$SOFI Bank and Mastercard launch crypto stablecoin settlement payment network.@WatcherGuru\n---\nJUST IN:Palantir $PLTR co-founder Joe Lonsdale says AI will make everyone \"really wealthy.\"@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/qtc7XNugz5g?si=qANTHbEmCJ43KVfb\n---\n제목 : 마이크로소프트, 인공지능 전략이 Azure 성장 견인  오펜하이머                                                                          *연합인포맥스*오펜하이머의 Brian Schwartz 애널리스트는 마이크로소프트(NAS: MSFT)의 인공지능 전략이 Azure의 FY27 성장세 가속 ...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/23)(9/22 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ 0.81%SPY -0.02%DIA -0.34%IWM 0.57%*미국 상승 업종XLB (원자재) 1.65%XLP (필수 소비재) 0.99%XLK (기술) 0.73%XLV (헬스케어) 0.52%...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk says AI will \"beat all fields by the end of next year.\"\"Or maybe 2028, at the latest.\"@WatcherGuru\n---\nJUST IN:🇺🇸$SOFI Bank and Mastercard launch crypto stablecoin settlement payment network.@WatcherGuru\n---\nJUST IN:Palantir $PLTR co-founder Joe Lonsdale says AI will make everyone \"really wealthy.\"@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
