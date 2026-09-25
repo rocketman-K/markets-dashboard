@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 25일 23:14",
+  "date": "2026년 09월 26일 04:00",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,702.06 (-0.03%)\nNASDAQ: 26,930.69 (-0.03%)\nKOSPI: 7,080.92 (+0.90%)\nUSD/KRW: 1,357.02 (-0.40%)",
+  "market_data": "S&P 500: 7,736.60 (+0.42%)\nNASDAQ: 27,049.74 (+0.41%)\nKOSPI: 7,080.92 (+0.90%)\nUSD/KRW: 1,355.08 (-0.54%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 9월 23일(수)#뉴욕증시#마감시황https://naver.me/Fpw9J2BJ#시장동향#BIG7#유가#금리#PMI#마이클바#반도체#기술주\n---\n2026년 9월 23일(수)#뉴욕증시#마감시황https://naver.me/xLNT0yCu#SP500#이슈종목#주요ETF#팰런티어#맥도날드#페이첵스#아이온큐#HACK\n---\n2026년 9월 24일(목)#뉴욕증시#마감시황https://naver.me/xWIhjzUf#시장동향#BIG7#유가#금리#뮤즈참#미중정상회담#호르무즈해협\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸$2.8 trillion Citi says investors should buy the next US stock market pullback.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳President Trump says Chinese President Xi Jinping agrees Artificial Intelligence should be renamed \"Super Intelligence.\"@WatcherGuru\n---\nJUST IN:Coinbase CEO Brian Armstrong says crypto and stablecoins will become the go-to payment method for AI agents.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 9월 23일(수)#뉴욕증시#마감시황https://naver.me/Fpw9J2BJ#시장동향#BIG7#유가#금리#PMI#마이클바#반도체#기술주\n---\n2026년 9월 23일(수)#뉴욕증시#마감시황https://naver.me/xLNT0yCu#SP500#이슈종목#주요ETF#팰런티어#맥도날드#페이첵스#아이온큐#HACK\n---\n2026년 9월 24일(목)#뉴욕증시#마감시황https://naver.me/xWIhjzUf#시장동향#BIG7#유가#금리#뮤즈참#미중정상회담#호르무즈해협\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Bill Gates warns AI is powerful enough to cause \"a billion deaths.\"@WatcherGuru\n---\nJUST IN:🇰🇵North Korean hackers have now stolen over $1 billion worth of crypto this year following $350 million Bitget hack yesterday.@WatcherGuru\n---\nJUST IN:🇮🇷🇺🇸Iran says reports of talks with the United States are false and intended to influence markets.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
