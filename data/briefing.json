@@ -1,7 +1,7 @@
 {
-  "date": "2026년 09월 25일 09:06",
+  "date": "2026년 09월 25일 13:33",
   "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,704.13 (-0.02%)\nNASDAQ: 26,939.37 (+0.01%)\nKOSPI: 7,080.92 (변동폭 계산 불가)\nUSD/KRW: 1,367.34 (+0.36%)",
+  "market_data": "S&P 500: 7,704.13 (-0.02%)\nNASDAQ: 26,939.37 (+0.01%)\nKOSPI: 7,080.92 (변동폭 계산 불가)\nUSD/KRW: 1,361.14 (-0.10%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
   "telegram_data": null,
   "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
