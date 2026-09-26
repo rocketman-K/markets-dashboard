@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 27일 02:26",
+  "date": "2026년 09월 27일 05:15",
   "session_type": "야간 세션 (실시간 모니터링)",
   "market_data": "S&P 500: 7,743.41 (+0.51%)\nNASDAQ: 27,068.72 (+0.48%)\nKOSPI: 7,080.92 (+0.90%)\nUSD/KRW: 1,354.40 (-0.95%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 9월 24일(목)#뉴욕증시#마감시황https://naver.me/xWIhjzUf#시장동향#BIG7#유가#금리#뮤즈참#미중정상회담#호르무즈해협\n---\n2026년 9월 25일(금)#뉴욕증시#마감시황https://naver.me/5jX4CRSp#시장동향#BIG7#유가#금리#미중정상회담#호르무즈해협#AI모멘텀\n---\n2026년 9월 25일(금)#뉴욕증시#마감시황https://naver.me/FjmtxofB#SP500#이슈종목#주요ETF#SK하이닉스#xAI#앤쓰로픽#EWY\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳Elon Musk says \"China has prospered immensely\" under President Xi Jinping.\"He seems like a great leader.\"@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳United States and China reach deal to cut tariffs on $30,000,000,000 worth of goods following Xi Jinping's talks with President Trump.@WatcherGuru\n---\nTimeline of events since Congress failed to pass the Crypto Clarity ActSeptember 15: Senate fails to pass Crypto Clarity Act.September 17:• SEC allows limited on-chain trading of tokenized US stocks.•...",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 9월 24일(목)#뉴욕증시#마감시황https://naver.me/xWIhjzUf#시장동향#BIG7#유가#금리#뮤즈참#미중정상회담#호르무즈해협\n---\n2026년 9월 25일(금)#뉴욕증시#마감시황https://naver.me/5jX4CRSp#시장동향#BIG7#유가#금리#미중정상회담#호르무즈해협#AI모멘텀\n---\n2026년 9월 25일(금)#뉴욕증시#마감시황https://naver.me/FjmtxofB#SP500#이슈종목#주요ETF#SK하이닉스#xAI#앤쓰로픽#EWY\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇨🇳United States and China reach deal to cut tariffs on $30,000,000,000 worth of goods following Xi Jinping's talks with President Trump.@WatcherGuru\n---\nTimeline of events since Congress failed to pass the Crypto Clarity ActSeptember 15: Senate fails to pass Crypto Clarity Act.September 17:• SEC allows limited on-chain trading of tokenized US stocks.•...\n---\nJUST IN:🇺🇸President Trump says US household income is the highest ever recorded and poverty is at its lowest level.\"Americans are earning more money than ever before.\"@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
