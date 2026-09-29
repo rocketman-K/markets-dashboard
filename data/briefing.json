@@ -1,9 +1,9 @@
 {
-  "date": "2026년 09월 29일 07:40",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,683.69 (-0.77%)\nNASDAQ: 26,820.38 (-0.92%)\nKOSPI: 7,080.92 (변동폭 계산 불가)\nUSD/KRW: 1,359.90 (-0.55%)",
+  "date": "2026년 09월 29일 11:21",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,683.69 (-0.77%)\nNASDAQ: 26,820.38 (-0.92%)\nKOSPI: 6,876.85 (-0.19%)\nUSD/KRW: 1,358.27 (+0.28%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 9월 28일(월)#뉴욕증시#마감시황https://naver.me/FoXNpdxc#시장동향#BIG7#유가#금리#오픈AI#호르무즈해협#엔비디아\n---\nhttps://www.youtube.com/live/XLjHqVImd9Q?si=ZavxkL67ibyoqVGZ\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (9/29)(9/28 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -1.07%SPY -0.74%DIA -0.67%IWM -0.69%*미국 상승 업종XLV (헬스케어) 0.33%XLP (필수 소비재) 0.27%XLE (에너지) 0.10%*미국 하락 업종XLC...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸🇮🇷President Trump says inflation will be completely eliminated after the war Iran ends.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇦President Trump says Canada is worse than China to make deals with.\"One of the worst countries in the entire world.\"@WatcherGuru\n---\nJUST IN:OpenAI cancels planned release of its new \"GPT-6.1 Astra\" AI model over safety concerns, WSJ reports.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
