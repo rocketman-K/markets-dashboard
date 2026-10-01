@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 01일 14:26",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,651.54 (-0.25%)\nNASDAQ: 26,861.06 (+0.24%)\nKOSPI: 6,954.86 (+1.71%)\nUSD/KRW: 1,358.88 (+0.62%)",
+  "date": "2026년 10월 01일 21:56",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,651.54 (-0.25%)\nNASDAQ: 26,861.06 (+0.24%)\nKOSPI: 6,971.35 (+1.95%)\nUSD/KRW: 1,361.08 (+0.78%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 매코믹, 이익률 상승 나타나며 주가 상승                                                                                   *연합인포맥스*매코믹(NYS: MKC)은 FY26 3분기(6~8월) 실적을 다음과 같이 발표했다.   ▲ 매출 20.2억 달러(+17.4% YoY)...\n---\n제목 : [개장 전 특징주] 알파벳, 신규 제미나이 모델 공개하며 상승                                                                            *연합인포맥스*▲ 알파벳(NAS: GOOGL, GOOG): 제미나이 4 아르곤(Argon) 모델을 공개했다. 특히 사이버보안과 코딩 등의 기능이 강조되었...\n---\n제목 : 시놉시스, 투자자 간담회 통해 성장 모멘텀 자신감 나타나  로젠블랫                                                                     *연합인포맥스*로젠블랫의 애널리스트는 시놉시스(NAS: SNPS) 투자자 간담회를 통해 성장 모멘텀에 대한 자신감이 강화되었다고 분석했다.   “시놉시스의 투자...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇪🇺European Union regulators say they need more powers to police crypto.@WatcherGuru\n---\nJUST IN:🇺🇸🇫🇷🇩🇪US threatens to impose export ban on France and Germany if they do not release emergency diesel reserves, Reuters reports.@WatcherGuru\n---\nJUST IN:🇺🇸$2.8 trillion Citi predicts Bitcoin will reach $113,000 by next year.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
