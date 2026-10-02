@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 02일 05:36",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,666.45 (+0.19%)\nNASDAQ: 26,871.60 (+0.04%)\nKOSPI: 6,838.04 (변동폭 계산 불가)\nUSD/KRW: 1,357.71 (+0.53%)",
+  "date": "2026년 10월 02일 09:17",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,666.45 (+0.19%)\nNASDAQ: 26,871.60 (+0.04%)\nKOSPI: 6,971.35 (변동폭 계산 불가)\nUSD/KRW: 1,363.58 (+0.50%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 애플, 생태계 전략, 에이전트의 위협 주의해야  니덤                                                                                    *연합인포맥스*애플(NAS: AAPL)은 오는 10월 29일에 FY26 4분기(7~9월) 실적을 발표할 예정이다.   니덤의 Laura Martin...\n---\n제목 : 10월 1일 주요 종목에 대한 IB 투자의견                                                                                                *연합인포맥스*▲ 아마존닷컴(NAS: AMZN): 골드만삭스는 아마존의 주가가 underperform하고 있지만, 성장 펀더멘털을 고려...\n---\n제목 : 브로드컴, 앤트로픽에 최대 420억 달러 지원할 계획                                                                                     *연합인포맥스*시킹 알파는 브로드컴(NAS: AVGO)이 앤트로픽과의 협력을 확대하면서 최대 420억 달러를 지원하게 될 것이라고 보도했다.   ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸SEC proposes new crypto custody framework for investment advisers and regulated funds.@WatcherGuru\n---\nJUST IN:Nike $NKE crashes to new 10-year low after missing earnings.@WatcherGuru\n---\nJUST IN:Nike $NKE crashes to new 10-year low after missing earnings.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
