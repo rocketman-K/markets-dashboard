@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 06일 14:58",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,773.95 (+0.66%)\nNASDAQ: 27,477.31 (+1.05%)\nKOSPI: 6,930.01 (-1.05%)\nUSD/KRW: 1,341.78 (-0.06%)",
+  "date": "2026년 10월 06일 22:13",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,773.95 (+0.66%)\nNASDAQ: 27,477.31 (+1.05%)\nKOSPI: 6,941.39 (-0.89%)\nUSD/KRW: 1,338.58 (-0.30%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 10월 06일(화)#뉴욕증시#장전시황https://blog.naver.com/101ancha/224433341626#BIG7#아마존#프라임빅딜데이스#엔비디아#테슬라#AI#반도체\n---\n제목 : [개장 전 특징주] 컨스텔레이션 에너지, 알파벳 전력공급계약에 상승                                                                     *연합인포맥스*▲ 컨스텔레이션 에너지(NAS: CEG): 알파벳(NAS: GOOGL, GOOG)과 전력공급계약을 발표했다. 알파벳은 컨스텔레이션 에너지의 신규 ...\n---\n제목 : 컨스텔레이션 에너지, 알파벳과 20년간의 협력계약 체결                                                                                 *연합인포맥스*시킹 알파는 컨스텔레이션 에너지(NAS: CEG)가 알파벳과의 장기적인 계약을 통해 알파벳에 전력을 공급하고 전력망의 안정성을 향상하게 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Gemini crypto exchange co-founder Tyler Winklevoss says \"clear rules\" for crypto are coming.@WatcherGuru\n---\nJUST IN:🇺🇸Billionaire Ray Dalio warns of US debt crisis within 3 years.@WatcherGuru\n---\nJUST IN:🇺🇸Billionaire Ray Dalio warns of US debt crisis within 3 years.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
