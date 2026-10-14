@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 15일 04:00",
+  "date": "2026년 10월 15일 07:03",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,701.46 (-1.33%)\nNASDAQ: 26,633.11 (-2.10%)\nKOSPI: 6,035.35 (변동폭 계산 불가)\nUSD/KRW: 1,341.46 (+0.55%)",
+  "market_data": "S&P 500: 7,718.94 (-1.11%)\nNASDAQ: 26,692.87 (-1.88%)\nKOSPI: 6,035.35 (변동폭 계산 불가)\nUSD/KRW: 1,340.86 (+0.50%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 10월 14일(수)#뉴욕증시#장전시황https://blog.naver.com/101ancha/224441791297#앤트로픽#소비자물가지수#뱅크오브아메리카#반도체#금리#유가\n---\n제목 : [개장 전 특징주] 델과 HP 엔터프라이즈, 바클레이즈의 투자의견 하향에                                                                  *연합인포맥스*▲ 델 테크놀로지스(NYS: DELL) ▲ HP 엔터프라이즈(NYS: HPE): 바클레이즈는 양사 주가가 충분히 상승했기 때문에 추가적인 상승세를...\n---\n제목 : 넷플릭스, 인력 약 6% 감축 추진                                                                                                       *연합인포맥스*넷플릭스(NAS: NFLX)는 오는 10월 20일에 ‘26년 3분기 실적을 발표할 예정이다.   CNBC는 넷플릭스가...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸BlackRock CEO Larry Fink warns banning data center construction could trigger a US recession.@WatcherGuru\n---\nJUST IN:🇺🇸BlackRock CEO Larry Fink says US interest rates will remain high long term.@WatcherGuru\n---\nJUST IN:Jim Cramer says there's \"no stopping the bears right now.\"@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 10월 14일(수)#뉴욕증시#장전시황https://blog.naver.com/101ancha/224441791297#앤트로픽#소비자물가지수#뱅크오브아메리카#반도체#금리#유가\n---\n제목 : [개장 전 특징주] 델과 HP 엔터프라이즈, 바클레이즈의 투자의견 하향에                                                                  *연합인포맥스*▲ 델 테크놀로지스(NYS: DELL) ▲ HP 엔터프라이즈(NYS: HPE): 바클레이즈는 양사 주가가 충분히 상승했기 때문에 추가적인 상승세를...\n---\n제목 : 넷플릭스, 인력 약 6% 감축 추진                                                                                                       *연합인포맥스*넷플릭스(NAS: NFLX)는 오는 10월 20일에 ‘26년 3분기 실적을 발표할 예정이다.   CNBC는 넷플릭스가...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk's Tesla $TSLA and SpaceX $SPCX may announce plans to merge before December, Barclays reports.@WatcherGuru\n---\nJUST IN:Elon Musk's Tesla $TSLA and SpaceX $SPCX may announce plans to merge before December, Barclays reports.@WatcherGuru\n---\nJUST IN:🇺🇸$1 trillion wiped out from the US stock market today.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
