@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 16일 13:10",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,744.06 (+0.33%)\nNASDAQ: 26,713.03 (+0.08%)\nKOSPI: 5,725.26 (+3.08%)\nUSD/KRW: 1,343.18 (+0.29%)",
+  "date": "2026년 10월 16일 20:09",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,744.06 (+0.33%)\nNASDAQ: 26,713.03 (+0.08%)\nKOSPI: 5,668.05 (+2.05%)\nUSD/KRW: 1,330.88 (-0.63%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 코어위브, 엔비디아 CEO의 긍정적 평가에도 프리마켓 하락  BNP                                                                          *연합인포맥스*바론스는 “코어위브(NAS: CRWV) 주가가 16일(금) 프리마켓에서 다시 하락세를 보였다. 엔비디아(NAS: NVDA)의 젠슨 황 C...\n---\n제목 : 뱅크오브아메리카, 실적 발표 후 주가 하락 과도  베어드 외                                                                             *연합인포맥스*뱅크오브아메리카(NYS: BAC)가 &#39;26년 3분기 실적을 발표한 가운데, 동사에 대한 주요 IB 의견은 다음과 같다.   ▲ 베어...\n---\n제목 : 모간스탠리, IB·트레이딩 호조에도 목표가 하향  RBC 외                                                                                *연합인포맥스*모간스탠리(NYS: MS)가 &#39;26년 3분기 실적을 발표한 가운데, 동사에 대한 주요 IB 의견은 다음과 같다.   ▲ RBC...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Elon Musk teases upcoming Roadster car reveal.\"Tesla x SpaceX.\"@WatcherGuru\n---\nJUST IN:Elon Musk's Tesla $TSLA officially unveils new flying Roadster.@WatcherGuru\n---\nJUST IN:OpenAI says its AI agent stole funds from an Ethereum test network wallet it found online.The agent found a recovery seed phrase disclosed publicly with testnet funds and used that account to ...",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
