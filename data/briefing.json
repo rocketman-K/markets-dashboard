@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 18일 08:33",
-  "session_type": "야간 세션 (실시간 모니터링)",
+  "date": "2026년 10월 18일 13:07",
+  "session_type": "주간 세션 (시황 정리)",
   "market_data": "S&P 500: 7,659.44 (-1.09%)\nNASDAQ: 26,140.03 (-2.15%)\nKOSPI: 5,668.05 (+2.05%)\nUSD/KRW: 1,329.60 (-0.85%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마이크론, 창신메모리 우려에 따른 주가 하락은 매수 기회  펀드스트랫                                                                   *연합인포맥스*바론스는 “마이크론 테크놀로지(NAS: MU) 주가가 고점 대비 크게 하락한 가운데, 월가에서는 다음 메모리 반도체 가격 상승에 앞서 저가 매수할 ...\n---\n제목 : 테슬라, 스페이스X와 합병 가능성 80%  아이브스                                                                                        *연합인포맥스*요크빌 아이브스의 댄 아이브스 애널리스트는 “테슬라(NAS: TSLA)의 신형 로드스터가 시연 과정에서 자율주행으로 움직였다는 ...\n---\n제목 : 엔비디아, AI주 매도세는 매수 기회…경쟁우위 확대  아이브스                                                                           *연합인포맥스*요크빌 아이브스의 댄 아이브스 애널리스트는 최근 AI 관련주 매도세가 차입 비용 상승이나 AI 인프라 투자 자금 조달에 대한 경고 신호라기보...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇨🇦🇺🇸Canada on track to become the third-largest holder of US government debt, surpassing China.@WatcherGuru\n---\nJUST IN:🇨🇦🇺🇸Canada on track to become the third-largest holder of US government debt, surpassing China.@WatcherGuru\n---\nJUST IN:🇺🇸American boomers over 75 years old now have 15 times the median household wealth of Gen Z and Millennials.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
