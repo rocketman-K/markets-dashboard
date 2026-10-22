@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 22일 07:08",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,757.17 (+0.58%)\nNASDAQ: 26,702.86 (+1.05%)\nKOSPI: 5,552.74 (변동폭 계산 불가)\nUSD/KRW: 1,326.06 (-0.30%)",
+  "date": "2026년 10월 22일 10:02",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,757.17 (+0.58%)\nNASDAQ: 26,702.86 (+1.05%)\nKOSPI: 5,687.80 (변동폭 계산 불가)\nUSD/KRW: 1,325.81 (+0.14%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 넷플릭스, 장기적 상승 전망 견고  BMO 외                                                                                              *연합인포맥스*넷플릭스(NAS: NFLX) 실적발표 이후 주가가 하락했지만, 주요 IB는 장기적인 상승 전망을 유지하며 다음과 같이 분석...\n---\n제목 : 앤트로픽, 빠르면 금요일에 IPO 증권신고서 공개 제출                                                                                   *연합인포맥스*야후파이낸스는 프런티어 인공지능 모델 기업 앤트로픽이 빠르면 오는 23일(금)에 IPO를 위한 S-1 증권신고서를 공개 제출할 것으로...\n---\n제목 : [실적공시] 메타, 4분기 매출 최대 $760억 전망…‘27년 AI 사업                                                                         *연합인포맥스*메타 플랫폼스(NAS: META)가 ‘26년 3분기 영업실적을 발표한 가운데, 경영진은 ‘26년 4분기 매출 가이던스로 730억~76...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Judge orders $META to pay $25,000,000,000 for misleading users about their privacy.@WatcherGuru\n---\nJUST IN:🇺🇸Judge orders $META to pay $25,000,000,000 for misleading users about their privacy.@WatcherGuru\n---\nJUST IN:$META reports $64.6 billion in revenue for Q3 2026, beating expectations.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
