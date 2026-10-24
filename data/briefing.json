@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 24일 08:42",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,623.68 (-0.52%)\nNASDAQ: 25,955.34 (-0.21%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,323.66 (-0.15%)",
+  "date": "2026년 10월 24일 13:14",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,623.68 (-0.52%)\nNASDAQ: 25,955.34 (-0.21%)\nKOSPI: 5,550.30 (+0.30%)\nUSD/KRW: 1,325.40 (-0.04%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 마이크론, 4F² 대신 3D DRAM 기술에 집중  웨드부시                                                                                    *연합인포맥스*웨드부시의 Matt Bryson 애널리스트는 마이크론 테크놀로지(NAS: MU)가 3D DRAM 기술에 집중하기로 한 전략을 ...\n---\n2026년 10월 23일(금)#뉴욕증시#마감시황1https://naver.me/5AuHUA1I#시장동향#BIG7#유가#금리#중동불안#반도체#소비재급락\n---\n2026년 10월 23일(금)#뉴욕증시#마감시황2https://naver.me/5EC1zGCO#SP500#이슈종목#주요ETF#BE#MRNA#EWZ#CCL#T#SPCX\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Binance Founder CZ says every time people declared Bitcoin \"dead\" in the past, it was the best time to buy.@WatcherGuru\n---\nJUST IN:🇦🇷Argentina drops criminal investigation into President Javier Milei over $LIBRA crypto memecoin scandal.@WatcherGuru\n---\nJUST IN:🇦🇷Argentina drops criminal investigation into President Javier Milei over $LIBRA crypto memecoin scandal.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
