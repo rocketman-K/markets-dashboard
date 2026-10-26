@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 26일 07:52",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,623.68 (-0.52%)\nNASDAQ: 25,955.34 (-0.21%)\nKOSPI: 5,550.30 (+0.30%)\nUSD/KRW: 1,323.42 (-0.19%)",
+  "date": "2026년 10월 26일 09:47",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,623.68 (-0.52%)\nNASDAQ: 25,955.34 (-0.21%)\nKOSPI: 5,557.70 (+0.13%)\nUSD/KRW: 1,323.56 (-0.18%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n2026년 10월 23일(금)#뉴욕증시#마감시황2https://naver.me/5EC1zGCO#SP500#이슈종목#주요ETF#BE#MRNA#EWZ#CCL#T#SPCX\n---\nhttps://www.youtube.com/live/W2eUFhSdS7Y?si=pGdQg0CHrZTPnd6q\n---\n★ 키움 음식료 Weekly (10/26)[키움 음식료/유통 박상준]★ Weekly News & Comments1) \"삼양, 이젠 본격적으로 유럽 공략해야할 시점\"(iii.ad/9215e9)- 김정수 회장이 시알 파리 현장에서 중국·일본·북미를 넘어 유럽 공략에 나설 때라고 강조- 불닭 브랜드를 진화시키는 동시에 단백질 건면 파스타 탱글을 새 주력으로 키우...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇷🇺🇺🇸Russia says it is ready to supply unlimited diesel to the United States.@WatcherGuru\n---\nJUST IN:🇺🇸🇮🇷President Trump says high gas prices are a \"small price to pay\" for the Iran war.\"I thought gas would be double and triple.\"@WatcherGuru\n---\nJUST IN:Elon Musk warns lenders have almost completely cut off funding to companies fully dependent on AI data center revenue.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
