@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 27일 13:39",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,676.77 (+0.70%)\nNASDAQ: 26,169.38 (+0.82%)\nKOSPI: 5,675.70 (+3.77%)\nUSD/KRW: 1,324.68 (+0.22%)",
+  "date": "2026년 10월 27일 20:57",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,676.77 (+0.70%)\nNASDAQ: 26,169.38 (+0.82%)\nKOSPI: 5,638.34 (+3.09%)\nUSD/KRW: 1,327.08 (+0.40%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 코닝, 컨센서스보다 높은 가이던스 제시하며 상승                                                                           *연합인포맥스*코닝(NYS: GLW)은 ‘26년 3분기 실적을 다음과 같이 발표했다.   ▲ 매출 50.8억 달러(+19.0% YoY)를 기록했다. 이는 ...\n---\n2026년 10월 27일(화)#뉴욕증시#장전시황https://blog.naver.com/101ancha/224455820489#FOMC#중동긴장완화#AI모멘텀#기업실적#유가#금리\n---\n제목 : [실적 속보] 보잉, 현금흐름 개선 주목받으며 상승                                                                                      *연합인포맥스*보잉(NYS: BA)은 ‘26년 3분기 실적을 다음과 같이 발표했다.   ▲ 매출 241.9억 달러(+4.0% YoY)를 기록했다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Ripple officially receives full US regulatory approval to operate as a national trust bank.@WatcherGuru\n---\nJUST IN:🇧🇷Binance files for crypto license in Brazil.@WatcherGuru\n---\nJUST IN:🇧🇷Binance files for crypto license in Brazil.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
