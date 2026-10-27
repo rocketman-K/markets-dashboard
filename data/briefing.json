@@ -1,9 +1,9 @@
 {
-  "date": "2026년 10월 27일 20:57",
+  "date": "2026년 10월 27일 23:58",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,676.77 (+0.70%)\nNASDAQ: 26,169.38 (+0.82%)\nKOSPI: 5,638.34 (+3.09%)\nUSD/KRW: 1,327.08 (+0.40%)",
+  "market_data": "S&P 500: 7,711.00 (+0.45%)\nNASDAQ: 26,400.69 (+0.88%)\nKOSPI: 5,638.34 (+3.09%)\nUSD/KRW: 1,326.73 (+0.38%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [실적 속보] 코닝, 컨센서스보다 높은 가이던스 제시하며 상승                                                                           *연합인포맥스*코닝(NYS: GLW)은 ‘26년 3분기 실적을 다음과 같이 발표했다.   ▲ 매출 50.8억 달러(+19.0% YoY)를 기록했다. 이는 ...\n---\n2026년 10월 27일(화)#뉴욕증시#장전시황https://blog.naver.com/101ancha/224455820489#FOMC#중동긴장완화#AI모멘텀#기업실적#유가#금리\n---\n제목 : [실적 속보] 보잉, 현금흐름 개선 주목받으며 상승                                                                                      *연합인포맥스*보잉(NYS: BA)은 ‘26년 3분기 실적을 다음과 같이 발표했다.   ▲ 매출 241.9억 달러(+4.0% YoY)를 기록했다....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Ripple officially receives full US regulatory approval to operate as a national trust bank.@WatcherGuru\n---\nJUST IN:🇧🇷Binance files for crypto license in Brazil.@WatcherGuru\n---\nJUST IN:🇧🇷Binance files for crypto license in Brazil.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : [개장 전 특징주] 젯블루와 셀레스티카, 강력한 가이던스에 주가 급등                                                                    *연합인포맥스*▲ 젯블루 에어웨이즈(NAS: JBLU): 고유가에도 불구하고 이익률이 상승할 것이라는 전망을 제시하면서 프리마켓에서 14.3% 급등하고 있다. ...\n---\n제목 : 브로드컴, 앤트로픽 IPO 고려했을 때 상승여력 커  D.A.                                                                                 *연합인포맥스*D.A. 데이비슨의 Gil Luria 애널리스트는 브로드컴(NAS: AVGO)의 현재 주가가 앤트로픽의 IPO 성공 전망을 반영하...\n---\n제목 : 제너럴 모터스, 나스닥으로 이전하며 주가 상승                                                                                         *연합인포맥스*시킹 알파는 제너럴 모터스(NYS: GM)가 나스닥 증권거래소로의 이전을 발표하면서 주가가 상승하고 있다고 보도했다.   “제너럴 ...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Ripple and Robinhood $HOOD officially announce strategic partnership to expand stablecoin adoption.@WatcherGuru\n---\nJUST IN:Michael Saylor says AI creates wealth while Bitcoin allows humanity to preserve it.@WatcherGuru\n---\nJUST IN:Michael Saylor says AI creates wealth while Bitcoin allows humanity to preserve it.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
