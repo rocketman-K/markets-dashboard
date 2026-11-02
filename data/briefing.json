@@ -1,9 +1,9 @@
 {
-  "date": "2026년 11월 02일 08:11",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,580.07 (-1.82%)\nNASDAQ: 25,437.00 (-2.86%)\nKOSPI: 5,730.74 (-3.48%)\nUSD/KRW: 1,332.64 (-0.40%)",
+  "date": "2026년 11월 02일 14:37",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,580.07 (-1.82%)\nNASDAQ: 25,437.00 (-2.86%)\nKOSPI: 5,883.99 (+2.67%)\nUSD/KRW: 1,341.61 (+0.27%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/rMOxqaprbmg?si=FNlRIu04EzAAciyr\n---\n★ 키움 음식료 Weekly (11/2)[키움 음식료/유통 박상준]★ Weekly News & Comments1) 농심·CJ제일제당 'K-푸드 홍보'...신라면세점 '中 플랫폼 협업'(iii.ad/f4912f)- 농심이 LA 미식 행사에서 현지 유명 셰프와 공동 개발한 신라면 특별 메뉴 2종을 선보여- CJ제일제당은 한식페스타 비비고 부스 운영과 함께 참가...\n---\n★ 음식료 수출입 통계[키움 음식료/유통 박상준]★ 음식료 수출입 통계 Update(11/1, 수리일 기준)1) 10월 일평균 수출입금액 YoY (25/10/01~31 vs 26/10/01~31)- 담배 수출: 일본 제외 -37%, UAE -71%, 신시장(UAE 外) +9%- 라면 수출: 전체 +33%, 중국 +30%, 미국 +64%, 네덜란드 +70%★...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Over $3,750,000,000 withdrawn from Binance in 10 hours following the exchange resuming withdrawals.@WatcherGuru\n---\nJUST IN:Crypto liquidations in October, 2026.• Longs: $9,213,000,000• Shorts: $3,290,000,000• Total: $12,500,000,000@WatcherGuru\n---\nJUST IN:🇺🇸US Secret Service says it is continuing to investigate $6.3 billion Binance crypto hack.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
