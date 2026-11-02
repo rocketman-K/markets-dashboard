@@ -1,9 +1,9 @@
 {
-  "date": "2026년 11월 02일 14:37",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,580.07 (-1.82%)\nNASDAQ: 25,437.00 (-2.86%)\nKOSPI: 5,883.99 (+2.67%)\nUSD/KRW: 1,341.61 (+0.27%)",
+  "date": "2026년 11월 03일 00:27",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,660.38 (+1.06%)\nNASDAQ: 25,780.89 (+1.35%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,343.76 (+0.43%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏KIWOOM ETF Weekly (11/2)▶️주간 ETF 수익률 상위* 주식: MRNY +8.0%, ARKG +6.7%, GNOM +6.1%, TSLY +5.4%, PBPH +5.1%* 채권: XMPT +3.7%, MLN +1.4%, YLD +1.4%, MMIN +1.2%, PZT +1.2%* 대체: BHYP +17.7%, ...\n---\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶10월 26일 ~ 10월 30일 Review-S&P500 -0.6%, 나스닥 -2.0% 하락. AI 투자 비용 부담에 반도체 중심 약세 지속됐으나, 24개 세부업종 중 17개 상승하며 업종별 차별화-Azure·구글 클라우드 성장률 각각 +48%, +103%에도 현금흐름 차이로 MSFT...\n---\n2026년 11월 02일(월)#뉴욕증시#장전시황https://blog.naver.com/101ancha/224462672075#서머타임종료#중동불안#애플실적#AI#반도체#유가#금리\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Coinbase increases its Bitcoin holdings to 18,000 $BTC, worth over $1,400,000,000.@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX $SPCX in talks to acquire Boost Mobile to enter the mobile phone service market, WaPo reports.@WatcherGuru\n---\nJUST IN:Elon Musk's SpaceX $SPCX in talks to acquire Boost Mobile to enter the mobile phone service market, WaPo reports.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
