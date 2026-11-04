@@ -1,9 +1,9 @@
 {
-  "date": "2026년 11월 04일 07:05",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,568.92 (+0.36%)\nNASDAQ: 25,372.01 (+0.83%)\nKOSPI: 5,859.08 (변동폭 계산 불가)\nUSD/KRW: 1,343.46 (+1.35%)",
+  "date": "2026년 11월 04일 11:47",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,568.92 (+0.36%)\nNASDAQ: 25,372.01 (+0.83%)\nKOSPI: 5,502.76 (-2.59%)\nUSD/KRW: 1,337.08 (-0.57%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (11/3)(11/2 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -1.36%SPY -0.48%DIA 0.43%IWM -0.07%*미국 상승 업종XLY (경기 소비재) 2.41%XLF (금융) 1.86%XLB (원자재) 1.76%XLP (필수 소비재) 1....\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (11/3)(11/2 종가기준)-주요 지수 수익률S&P500 7,541.40 / -0.51%NASDAQ 종합 25,164.32 / -1.07%다우산업 51,983.98 / 0.41%러셀2000 2,805.88 / -0.21%필라델피아 반도체 10,328.33 / -3.37%-섹터별 수익률High 3: 호텔/레저...\n---\n[키움증권 미국 전략/주식 김승혁]애플(AAPL.US): 원가 상승 속 1차 여진▶FY4Q26 실적 Review-FY4Q26(9 월말) 실적: 매출액 1,144.77 억 달러(YoY +11.7%, QoQ +4.6%, 컨센서스 대비 +0.9%), 영업이익률 31.1%(YoY -0.5%p, QoQ - 1.5%p, 컨센서스 대비 +0.4%p)▶가격 상승에도 늘어...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸Billionaire investor Bill Ackman says the stock market has turned into a \"casino.\"@WatcherGuru\n---\nJUST IN:🇨🇳China's \"STAR 50\" tech stock index has now crashed 42% since reaching an all-time high in June.The index has recorded 10 consecutive weeks of declines, marking its longest and worst weekly l...\n---\nJUST IN:🇨🇳China's \"STAR 50\" tech stock index has now crashed 42% since reaching an all-time high in June.The index has recorded 10 consecutive weeks of declines, marking its longest and worst weekly l...",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
