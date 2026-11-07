@@ -1,9 +1,9 @@
 {
-  "date": "2026년 11월 07일 14:38",
-  "session_type": "주간 세션 (시황 정리)",
+  "date": "2026년 11월 07일 21:48",
+  "session_type": "야간 세션 (실시간 모니터링)",
   "market_data": "S&P 500: 7,376.86 (+0.31%)\nNASDAQ: 24,579.43 (+1.09%)\nKOSPI: 5,059.69 (-6.02%)\nUSD/KRW: 1,356.34 (+1.21%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움 글로벌리서치팀]키차트(키움 차주 트렌드) 11월 1주차자료링크:https://bbn.kiwoom.com/rfCA357더 많은 해외주식 리서치 자료를 보고싶으신 분은 키움증권 앱 영웅문S#에 접속하셔서 해외주식/리서치 메뉴에서 확인하세요!(참고: 영웅문S#이 설치된 단말기에서만 확인이 가능 합니다.https://invest.kiwoom.com/inv/...\n---\n2026년 11월 06일(금)#뉴욕증시#마감시황1https://naver.me/FgEp1Mpe#시장동향#BIG7#AI데이터센터#블루웨이브#되돌림#MSFT\n---\n2026년 11월 06일(금)#뉴욕증시#마감시황2https://naver.me/F93FYQc2#SP500#이슈종목#주요ETF#EWY#COHR#IREN#AXON#IONQ\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:OpenAI raises $11,000,000,000 at $1.25 trillion valuation.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳US intelligence finds Nvidia $NVDA CEO Jensen Huang had a 'romantic relationship' with a Chinese spy, FT reports.@WatcherGuru\n---\nJUST IN:🇺🇸🇨🇳US reportedly approved Nvidia $NVDA chip sales to Chinese firms with empty offices and suspicious ties.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
