@@ -1,9 +1,9 @@
 {
-  "date": "2026년 11월 10일 04:15",
-  "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,550.72 (+2.36%)\nNASDAQ: 25,220.98 (+2.61%)\nKOSPI: 5,059.69 (변동폭 계산 불가)\nUSD/KRW: 1,343.90 (-0.92%)",
+  "date": "2026년 11월 10일 11:26",
+  "session_type": "주간 세션 (시황 정리)",
+  "market_data": "S&P 500: 7,549.94 (+2.35%)\nNASDAQ: 25,253.14 (+2.74%)\nKOSPI: 5,232.65 (변동폭 계산 불가)\nUSD/KRW: 1,345.80 (-1.24%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\n제목 : 테슬라, 사이버트럭 예약자 환불 이루어질 것이라 밝혀                                                                                  *연합인포맥스*시킹 알파는 테슬라(NAS: TSLA)가 사이버트럭 생산을 종료하면서, 주문예약에 대한 환불이 이루어질 것이라고 보도했다.   “일론 머...\n---\n제목 : AMD EPYC 프로세서, 알파벳의 TPU 시스템에 탑재 결정                                                                                   *연합인포맥스*시킹 알파는 알파벳의 클라우드 시스템에 AMD(NAS: AMD)의 EPYC 프로세서가 탑재될 것이라고 보도했다.   “▲ 알파...\n---\n제목 : 젠슨 황, 논란에도 엔비디아 경영 유지할 것  요크빌 아이브스 외                                                                        *연합인포맥스*엔비디아(NAS: NVDA)는 오는 11월 17일에 FY27 3분기(8~10월) 실적을 발표할 예정이다.   요크빌 아이브스의 Dan Ives...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:Anthropic officially launches world's most powerful Claude AI models 'Fable 5.2' and 'Mythos 5.2.'@WatcherGuru\n---\nJUST IN:🇬🇧Bank of England warns inflated AI stock prices could lead to a market crash.@WatcherGuru\n---\nJUST IN:🇬🇧Bank of England warns inflated AI stock prices could lead to a market crash.@WatcherGuru",
-  "kiwoom_data": null,
+  "telegram_data": null,
+  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
