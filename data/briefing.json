@@ -1,9 +1,9 @@
 {
-  "date": "2026년 11월 11일 22:57",
+  "date": "2026년 11월 12일 01:42",
   "session_type": "야간 세션 (실시간 모니터링)",
-  "market_data": "S&P 500: 7,520.93 (-0.38%)\nNASDAQ: 25,065.87 (-0.74%)\nKOSPI: 5,375.36 (+2.60%)\nUSD/KRW: 1,335.78 (-0.60%)",
+  "market_data": "S&P 500: 7,615.51 (+1.26%)\nNASDAQ: 25,538.92 (+1.89%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,336.86 (-0.52%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/0bPn2VrB_Hc?si=892N5SYkS5PhnS3p\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (11/11)(11/10 종가기준)-주요 지수 수익률S&P500 7,520.93 / -0.38%NASDAQ 종합 25,065.88 / -0.74%다우산업 52,231.89 / -0.30%러셀2000 2,821.38 / -0.68%필라델피아 반도체 9,998.33 / -0.35%-섹터별 수익률High 3: 보험 ...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (11/11)(11/10 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.68%SPY -0.37%DIA -0.31%IWM -0.68%*미국 상승 업종XLF (금융) 0.52%XLE (에너지) 0.44%XLC (통신서비스) 0.37%XLV (헬스케어) 0....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇩🇪Germany's largest bank Deutsche Bank officially rolls out crypto custody services.@WatcherGuru\n---\nJUST IN:🇺🇸Bank of America warns Federal Reserve could raise interest rates by 50 basis points in December after CPI came in higher than expected.@WatcherGuru\n---\nJUST IN:🇺🇸OKX and NYSE's parent company to launch 24/7 tokenized securities exchange on November 23rd.@WatcherGuru",
+  "telegram_data": "[Kiwoom US (@kwusa)]\nhttps://www.youtube.com/live/0bPn2VrB_Hc?si=892N5SYkS5PhnS3p\n---\n[키움 미국전략/주식 김승혁]🌏US Daily (11/11)(11/10 종가기준)-주요 지수 수익률S&P500 7,520.93 / -0.38%NASDAQ 종합 25,065.88 / -0.74%다우산업 52,231.89 / -0.30%러셀2000 2,821.38 / -0.68%필라델피아 반도체 9,998.33 / -0.35%-섹터별 수익률High 3: 보험 ...\n---\n[키움 글로벌 ETF 김진영]🌏글로벌 ETF Daily (11/11)(11/10 종가기준)(Daily Return)📈주요 ETF 수익률 (전일대비)*시장 대표 ETFQQQ -0.68%SPY -0.37%DIA -0.31%IWM -0.68%*미국 상승 업종XLF (금융) 0.52%XLE (에너지) 0.44%XLC (통신서비스) 0.37%XLV (헬스케어) 0....\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇷🇺Russia's Central Bank says exchanges can begin cryptocurrency trading from November 17th.@WatcherGuru\n---\nJUST IN:🇰🇷🇷🇺South Korea says sanctions against Russia are hurting its businesses and economic interests.@WatcherGuru\n---\nJUST IN:🇺🇸$845,000,000,000 added to the US stock market in the first two hours of trading today.@WatcherGuru",
   "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
