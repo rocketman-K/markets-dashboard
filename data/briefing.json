@@ -1,9 +1,9 @@
 {
-  "date": "2026년 11월 16일 14:57",
-  "session_type": "주간 세션 (시황 정리)",
-  "market_data": "S&P 500: 7,561.67 (-0.40%)\nNASDAQ: 25,136.27 (-0.91%)\nKOSPI: 5,086.11 (-3.86%)\nUSD/KRW: 1,334.78 (+0.07%)",
+  "date": "2026년 11월 17일 00:33",
+  "session_type": "야간 세션 (실시간 모니터링)",
+  "market_data": "S&P 500: 7,466.29 (-1.26%)\nNASDAQ: 24,644.80 (-1.96%)\nKOSPI: nan (+nan%)\nUSD/KRW: 1,335.71 (+0.14%)",
   "cnn_data": "CNN Fear & Greed: 데이터 추출 실패",
-  "telegram_data": null,
-  "kiwoom_data": "키움증권 리서치: 목록을 찾을 수 없음",
+  "telegram_data": "[Kiwoom US (@kwusa)]\n[키움증권 미국 전략/주식 김승혁]미국 주식 Weekly: 큠틴 아메리카▶11월 9일-11월 13일 Review-11월 2주차 증시는 금리 급등과 엔비디아 급락에도 악재가 지수 전반으로 번지지 않으며 S&P500 2.5% 상승-실질금리 상승 부담은 중소형주·주택 등 차입 민감 업종에 집중됐고, 엔비디아 급락에도 코어위브의 수주·선지급금 발표로 SOX는 8....\n---\n[키움 미국주식 박기현]네비우스 그룹 (NBIS.US): 일회성 착시와 현금흐름 적자, 시험대에 오른 실행력▶3Q26 실적: 연간 가이던스는 하단으로 하향-매출 $981M(+571% YoY), 조정 EBITDA $466M(마진 47.5%)으로 매출 컨센서스 7% 상회-일회성 Asset-light 매출 약 $325M을 제외하면 매출은 $656M, QoQ 성장...\n---\n[키움 미국주식 박기현]아이렌 (IREN.US): GPU 임대료는 상승세, 남은 과제는 납기와 자금 조달▶1Q27 실적: AI 클라우드 매출 2.8 배 증가, 연말 목표 지연-FY1Q27 매출 $228M(+66% QoQ), 조정 EBITDA $66M을 기록. AI 클라우드 매출은 $200M으로 전사 매출의 88% 차지-가동 IT 용량은 93MW로 확대됐으나...\n\n[WatcherGuru (@WatcherGuru)]\nJUST IN:🇺🇸President Trump says Nvidia $NVDA CEO Jensen Huang did not put US national security at risk.@WatcherGuru\n---\nJUST IN:Zelle selects Solana to expand international payments using crypto stablecoins.@WatcherGuru\n---\nJUST IN:Zelle selects Solana to expand international payments using crypto stablecoins.@WatcherGuru",
+  "kiwoom_data": null,
   "briefing": "AI 분석 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods."
 }
